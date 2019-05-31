@@ -1,0 +1,751 @@
+#,Player,Age,Market value at the time,Season,Nat.,Left,Joined,Fee
+1,"Neymar",25,"100,00 Mill. €",17/18,,"FC Barcelona
+ LaLiga","Paris SG
+ Ligue 1","222,00 Mill. €"
+2,"Philippe Coutinho",25,"90,00 Mill. €",17/18,,"Liverpool
+ Premier League","FC Barcelona
+ LaLiga","145,00 Mill. €"
+3,"Kylian Mbappé",19,"120,00 Mill. €",18/19,,"Monaco
+ Ligue 1","Paris SG
+ Ligue 1","135,00 Mill. €"
+4,"Ousmane Dembélé",20,"33,00 Mill. €",17/18,,"Bor. Dortmund
+ Bundesliga","FC Barcelona
+ LaLiga","125,00 Mill. €"
+5,"Cristiano Ronaldo",33,"100,00 Mill. €",18/19,,"Real Madrid
+ LaLiga","Juventus
+ Serie A","117,00 Mill. €"
+6,"Paul Pogba",23,"70,00 Mill. €",16/17,,"Juventus
+ Serie A","Man Utd
+ Premier League","105,00 Mill. €"
+7,"Gareth Bale",24,"65,00 Mill. €",13/14,,"Spurs
+ Premier League","Real Madrid
+ LaLiga","101,00 Mill. €"
+8,"Cristiano Ronaldo",24,"60,00 Mill. €",09/10,,"Man Utd
+ Premier League","Real Madrid
+ LaLiga","94,00 Mill. €"
+9,"Gonzalo Higuaín",28,"65,00 Mill. €",16/17,,"SSC Napoli
+ Serie A","Juventus
+ Serie A","90,00 Mill. €"
+10,"Neymar",21,"50,00 Mill. €",13/14,,"Santos FC
+ Série A","FC Barcelona
+ LaLiga","88,20 Mill. €"
+11,"Romelu Lukaku",24,"50,00 Mill. €",17/18,,"Everton
+ Premier League","Man Utd
+ Premier League","84,70 Mill. €"
+12,"Virgil van Dijk",26,"30,00 Mill. €",17/18,,"Southampton
+ Premier League","Liverpool
+ Premier League","84,65 Mill. €"
+13,"Luis Suárez",27,"52,00 Mill. €",14/15,,"Liverpool
+ Premier League","FC Barcelona
+ LaLiga","81,72 Mill. €"
+14,"Lucas Hernández",23,"70,00 Mill. €",19/20,,"Atlético Madrid
+ LaLiga","Bayern Munich 
+ Bundesliga","80,00 Mill. €"
+15,"Kepa",23,"20,00 Mill. €",18/19,,"Athletic
+ LaLiga","Chelsea
+ Premier League","80,00 Mill. €"
+16,"Zinédine Zidane",29,-,01/02,,"Juventus
+ Serie A","Real Madrid
+ LaLiga","77,50 Mill. €"
+17,"Kevin De Bruyne",24,"45,00 Mill. €",15/16,,"VfL Wolfsburg
+ Bundesliga","Man City
+ Premier League","76,00 Mill. €"
+18,"Frenkie de Jong",22,"75,00 Mill. €",19/20,,"Ajax
+ Eredivisie","FC Barcelona
+ LaLiga","75,00 Mill. €"
+19,"James Rodríguez",23,"60,00 Mill. €",14/15,,"Monaco
+ Ligue 1","Real Madrid
+ LaLiga","75,00 Mill. €"
+20,"Ángel Di María",26,"50,00 Mill. €",14/15,,"Real Madrid
+ LaLiga","Man Utd
+ Premier League","75,00 Mill. €"
+21,"Thomas Lemar",22,"65,00 Mill. €",18/19,,"Monaco
+ Ligue 1","Atlético Madrid
+ LaLiga","70,00 Mill. €"
+22,"Zlatan Ibrahimovic",27,"45,00 Mill. €",09/10,,"Inter
+ Serie A","FC Barcelona
+ LaLiga","69,50 Mill. €"
+23,"Riyad Mahrez",27,"50,00 Mill. €",18/19,,"Leicester
+ Premier League","Man City
+ Premier League","67,80 Mill. €"
+24,"Kaká",27,"55,00 Mill. €",09/10,,"AC Milan
+ Serie A","Real Madrid
+ LaLiga","67,00 Mill. €"
+25,"Diego Costa",29,"50,00 Mill. €",17/18,,"Chelsea
+ Premier League","Atlético Madrid
+ LaLiga","66,00 Mill. €"
+26,"Álvaro Morata",24,"40,00 Mill. €",17/18,,"Real Madrid
+ LaLiga","Chelsea
+ Premier League","66,00 Mill. €"
+27,"Aymeric Laporte",23,"25,00 Mill. €",17/18,,"Athletic
+ LaLiga","Man City
+ Premier League","65,00 Mill. €"
+28,"Edinson Cavani",26,"55,00 Mill. €",13/14,,"SSC Napoli
+ Serie A","Paris SG
+ Ligue 1","64,50 Mill. €"
+29,"Christian Pulisic",20,"50,00 Mill. €",18/19,,"Bor. Dortmund
+ Bundesliga","Chelsea
+ Premier League","64,00 Mill. €"
+30,"Pierre-Emerick Aubameyang",28,"65,00 Mill. €",17/18,,"Bor. Dortmund
+ Bundesliga","Arsenal
+ Premier League","63,75 Mill. €"
+31,"Raheem Sterling",20,"40,00 Mill. €",15/16,,"Liverpool
+ Premier League","Man City
+ Premier League","63,70 Mill. €"
+32,"Ángel Di María",27,"50,00 Mill. €",15/16,,"Man Utd
+ Premier League","Paris SG
+ Ligue 1","63,00 Mill. €"
+33,"Alisson",25,"60,00 Mill. €",18/19,,"AS Roma
+ Serie A","Liverpool
+ Premier League","62,50 Mill. €"
+34,"Naby Keïta",23,"65,00 Mill. €",18/19,,"RB Leipzig
+ Bundesliga","Liverpool
+ Premier League","60,00 Mill. €"
+35,"Oscar",25,"35,00 Mill. €",16/17,,"Chelsea
+ Premier League","SIPG
+ Super League","60,00 Mill. €"
+36,"Anthony Martial",19,"8,00 Mill. €",15/16,,"Monaco
+ Ligue 1","Man Utd
+ Premier League","60,00 Mill. €"
+37,"Luís Figo",27,-,00/01,,"FC Barcelona
+ LaLiga","Real Madrid
+ LaLiga","60,00 Mill. €"
+38,"Fred",25,"32,00 Mill. €",18/19,,"Shakhtar D.
+ Premier Liga","Man Utd
+ Premier League","59,00 Mill. €"
+39,"Fernando Torres",26,"50,00 Mill. €",10/11,,"Liverpool
+ Premier League","Chelsea
+ Premier League","58,50 Mill. €"
+40,"Benjamin Mendy",23,"13,00 Mill. €",17/18,,"Monaco
+ Ligue 1","Man City
+ Premier League","57,50 Mill. €"
+41,"Jorginho",26,"50,00 Mill. €",18/19,,"SSC Napoli
+ Serie A","Chelsea
+ Premier League","57,00 Mill. €"
+42,"Hernán Crespo",25,-,00/01,,"Parma
+ Serie A","Lazio
+ Serie A","56,81 Mill. €"
+43,"Hulk",29,"32,00 Mill. €",16/17,,"Zenit S-Pb
+ Premier Liga","SIPG
+ Super League","55,80 Mill. €"
+44,"John Stones",22,"28,00 Mill. €",16/17,,"Everton
+ Premier League","Man City
+ Premier League","55,60 Mill. €"
+45,"Alexandre Lacazette",26,"40,00 Mill. €",17/18,,"Olympique Lyon
+ Ligue 1","Arsenal
+ Premier League","53,00 Mill. €"
+46,"Gianluigi Buffon",23,-,01/02,,"Parma
+ Serie A","Juventus
+ Serie A","52,88 Mill. €"
+47,"Kyle Walker",27,"30,00 Mill. €",17/18,,"Spurs
+ Premier League","Man City
+ Premier League","52,70 Mill. €"
+48,"Leroy Sané",20,"30,00 Mill. €",16/17,,"FC Schalke 04
+ Bundesliga","Man City
+ Premier League","50,50 Mill. €"
+49,"Éder Militão",21,"50,00 Mill. €",19/20,,"FC Porto
+ Portugal","Real Madrid
+ LaLiga","50,00 Mill. €"
+50,"Bernardo Silva",22,"40,00 Mill. €",17/18,,"Monaco
+ Ligue 1","Man City
+ Premier League","50,00 Mill. €"
+51,"Alex Teixeira",26,"30,00 Mill. €",15/16,,"Shakhtar D.
+ Premier Liga","JS Suning
+ Super League","50,00 Mill. €"
+52,"David Luiz",27,"26,00 Mill. €",14/15,,"Chelsea
+ Premier League","Paris SG
+ Ligue 1","49,50 Mill. €"
+53,"Gylfi Sigurdsson",27,"25,00 Mill. €",17/18,,"Swansea
+ Premier League","Everton
+ Premier League","49,40 Mill. €"
+54,"Gaizka Mendieta",27,-,01/02,,"Valencia
+ LaLiga","Lazio
+ Serie A","48,00 Mill. €"
+55,"Mesut Özil",24,"40,00 Mill. €",13/14,,"Real Madrid
+ LaLiga","Arsenal
+ Premier League","47,00 Mill. €"
+56,"Christian Benteke",24,"20,00 Mill. €",15/16,,"Aston Villa
+ Premier League","Liverpool
+ Premier League","46,50 Mill. €"
+57,"Christian Vieri",25,-,99/00,,"Lazio
+ Serie A","Inter
+ Serie A","46,48 Mill. €"
+58,"Rio Ferdinand",23,-,02/03,,"Leeds
+ Premier League","Man Utd
+ Premier League","46,00 Mill. €"
+59,"Rodrygo",18,"40,00 Mill. €",19/20,,"Santos FC
+ Série A","Real Madrid
+ LaLiga","45,00 Mill. €"
+60,"Fabinho",24,"45,00 Mill. €",18/19,,"Monaco
+ Ligue 1","Liverpool
+ Premier League","45,00 Mill. €"
+61,"Vinícius Júnior",18,"35,00 Mill. €",18/19,,"Flamengo
+ Série A","Real Madrid
+ LaLiga","45,00 Mill. €"
+62,"Kylian Mbappé",18,"35,00 Mill. €",17/18,,"Monaco
+ Ligue 1","Paris SG
+ Ligue 1","Loan fee:45,00 Mill. €"
+63,"Granit Xhaka",23,"25,00 Mill. €",16/17,,"Bor. M'gladbach
+ Bundesliga","Arsenal
+ Premier League","45,00 Mill. €"
+64,"James Rodríguez",21,"23,00 Mill. €",13/14,,"FC Porto
+ Liga NOS","Monaco
+ Ligue 1","45,00 Mill. €"
+65,"Ronaldo",25,-,02/03,,"Inter
+ Serie A","Real Madrid
+ LaLiga","45,00 Mill. €"
+66,"Juan Mata",25,"38,00 Mill. €",13/14,,"Chelsea
+ Premier League","Man Utd
+ Premier League","44,73 Mill. €"
+67,"Nemanja Matic",29,"35,00 Mill. €",17/18,,"Chelsea
+ Premier League","Man Utd
+ Premier League","44,70 Mill. €"
+68,"Nicolás Otamendi",27,"25,00 Mill. €",15/16,,"Valencia
+ LaLiga","Man City
+ Premier League","44,60 Mill. €"
+69,"Andrii Shevchenko",29,"51,00 Mill. €",06/07,,"AC Milan
+ Serie A","Chelsea
+ Premier League","43,88 Mill. €"
+70,"Julian Draxler",21,"22,00 Mill. €",15/16,,"FC Schalke 04
+ Bundesliga","VfL Wolfsburg
+ Bundesliga","43,00 Mill. €"
+71,"Falcao",27,"60,00 Mill. €",13/14,,"Atlético Madrid
+ LaLiga","Monaco
+ Ligue 1","43,00 Mill. €"
+72,"Robinho",24,"34,00 Mill. €",08/09,,"Real Madrid
+ LaLiga","Man City
+ Premier League","43,00 Mill. €"
+73,"Juan Sebastián Verón",26,-,01/02,,"Lazio
+ Serie A","Man Utd
+ Premier League","42,60 Mill. €"
+74,"Alexis Sánchez",25,"30,00 Mill. €",14/15,,"FC Barcelona
+ LaLiga","Arsenal
+ Premier League","42,50 Mill. €"
+75,"Paulinho",30,"38,00 Mill. €",18/19,,"FC Barcelona
+ LaLiga","GZ Evergrande
+ Super League","42,00 Mill. €"
+76,"Leonardo Bonucci",30,"45,00 Mill. €",17/18,,"Juventus
+ Serie A","AC Milan
+ Serie A","42,00 Mill. €"
+77,"Mohamed Salah",25,"35,00 Mill. €",17/18,,"AS Roma
+ Serie A","Liverpool
+ Premier League","42,00 Mill. €"
+78,"Henrikh Mkhitaryan",27,"30,00 Mill. €",16/17,,"Bor. Dortmund
+ Bundesliga","Man Utd
+ Premier League","42,00 Mill. €"
+79,"Jackson Martínez",29,"30,00 Mill. €",15/16,,"Atlético Madrid
+ LaLiga","GZ Evergrande
+ Super League","42,00 Mill. €"
+80,"Thiago Silva",27,"38,00 Mill. €",12/13,,"AC Milan
+ Serie A","Paris SG
+ Ligue 1","42,00 Mill. €"
+81,"Javier Pastore",22,"21,00 Mill. €",11/12,,"US Palermo
+ Serie A","Paris SG
+ Ligue 1","42,00 Mill. €"
+82,"Rui Costa",29,-,01/02,,"Fiorentina
+ Serie A","AC Milan
+ Serie A","42,00 Mill. €"
+83,"Corentin Tolisso",22,"22,00 Mill. €",17/18,,"Olympique Lyon
+ Ligue 1","Bayern Munich 
+ Bundesliga","41,50 Mill. €"
+84,"Lilian Thuram",29,-,01/02,,"Parma
+ Serie A","Juventus
+ Serie A","41,50 Mill. €"
+85,"Sadio Mané",24,"20,00 Mill. €",16/17,,"Southampton
+ Premier League","Liverpool
+ Premier League","41,20 Mill. €"
+86,"Malcom",21,"45,00 Mill. €",18/19,,"G. Bordeaux
+ Ligue 1","FC Barcelona
+ LaLiga","41,00 Mill. €"
+87,"Shkodran Mustafi",24,"20,00 Mill. €",16/17,,"Valencia
+ LaLiga","Arsenal
+ Premier League","41,00 Mill. €"
+88,"Roberto Firmino",23,"25,00 Mill. €",15/16,,"TSG Hoffenheim
+ Bundesliga","Liverpool
+ Premier League","41,00 Mill. €"
+89,"Andy Carroll",22,"2,50 Mill. €",10/11,,"Newcastle
+ Premier League","Liverpool
+ Premier League","41,00 Mill. €"
+90,"João Cancelo",24,"35,00 Mill. €",18/19,,"Valencia
+ LaLiga","Juventus
+ Serie A","40,40 Mill. €"
+91,"Douglas Costa",27,"55,00 Mill. €",18/19,,"Bayern Munich 
+ Bundesliga","Juventus
+ Serie A","40,00 Mill. €"
+92,"Gonçalo Guedes",21,"40,00 Mill. €",18/19,,"Paris SG
+ Ligue 1","Valencia
+ LaLiga","40,00 Mill. €"
+93,"Leandro Paredes",24,"25,00 Mill. €",18/19,,"Zenit S-Pb
+ Premier Liga","Paris SG
+ Ligue 1","40,00 Mill. €"
+94,"Federico Bernardeschi",23,"30,00 Mill. €",17/18,,"Fiorentina
+ Serie A","Juventus
+ Serie A","40,00 Mill. €"
+95,"Cédric Bakambu",26,"25,00 Mill. €",17/18,,"Villarreal
+ LaLiga","BJ Sinobo Guoan
+ Super League","40,00 Mill. €"
+96,"Ederson",23,"22,00 Mill. €",17/18,,"Benfica
+ Liga NOS","Man City
+ Premier League","40,00 Mill. €"
+97,"Tiemoué Bakayoko",22,"16,00 Mill. €",17/18,,"Monaco
+ Ligue 1","Chelsea
+ Premier League","40,00 Mill. €"
+98,"Paulinho",29,"15,00 Mill. €",17/18,,"GZ Evergrande
+ Super League","FC Barcelona
+ LaLiga","40,00 Mill. €"
+99,"Davinson Sánchez",21,"12,00 Mill. €",17/18,,"Ajax
+ Eredivisie","Spurs
+ Premier League","40,00 Mill. €"
+100,"João Mário",23,"30,00 Mill. €",16/17,,"Sporting CP
+ Liga NOS","Inter
+ Serie A","40,00 Mill. €"
+101,"Paulo Dybala",21,"28,00 Mill. €",15/16,,"US Palermo
+ Serie A","Juventus
+ Serie A","40,00 Mill. €"
+102,"Fernandinho",28,"32,00 Mill. €",13/14,,"Shakhtar D.
+ Premier Liga","Man City
+ Premier League","40,00 Mill. €"
+103,"Hulk",26,"37,00 Mill. €",12/13,,"FC Porto
+ Liga NOS","Zenit S-Pb
+ Premier Liga","40,00 Mill. €"
+104,"Lucas Moura",20,"35,00 Mill. €",12/13,,"São Paulo
+ Série A","Paris SG
+ Ligue 1","40,00 Mill. €"
+105,"Javi Martínez",24,"30,00 Mill. €",12/13,,"Athletic
+ LaLiga","Bayern Munich 
+ Bundesliga","40,00 Mill. €"
+106,"Axel Witsel",23,"20,00 Mill. €",12/13,,"Benfica
+ Liga NOS","Zenit S-Pb
+ Premier Liga","40,00 Mill. €"
+107,"Sergio Agüero",23,"36,00 Mill. €",11/12,,"Atlético Madrid
+ LaLiga","Man City
+ Premier League","40,00 Mill. €"
+108,"Falcao",25,"25,00 Mill. €",11/12,,"FC Porto
+ Liga NOS","Atlético Madrid
+ LaLiga","40,00 Mill. €"
+109,"David Villa",28,"45,00 Mill. €",10/11,,"Valencia
+ LaLiga","FC Barcelona
+ LaLiga","40,00 Mill. €"
+110,"Marc Overmars",27,-,00/01,,"Arsenal
+ Premier League","FC Barcelona
+ LaLiga","40,00 Mill. €"
+111,"Richarlison",21,"25,00 Mill. €",18/19,,"Watford
+ Premier League","Everton
+ Premier League","39,20 Mill. €"
+112,"Michy Batshuayi",22,"15,00 Mill. €",16/17,,"Marseille
+ Ligue 1","Chelsea
+ Premier League","39,00 Mill. €"
+113,"Gonzalo Higuaín",25,"30,00 Mill. €",13/14,,"Real Madrid
+ LaLiga","SSC Napoli
+ Serie A","39,00 Mill. €"
+114,"Pavel Nedved",28,-,01/02,,"Lazio
+ Serie A","Juventus
+ Serie A","38,70 Mill. €"
+115,"Didier Drogba",26,-,04/05,,"Marseille
+ Ligue 1","Chelsea
+ Premier League","38,50 Mill. €"
+116,"Raúl Jiménez",28,"25,00 Mill. €",19/20,,"Benfica
+ Portugal","Wolves
+ Premier League","38,00 Mill. €"
+117,"Radja Nainggolan",30,"45,00 Mill. €",18/19,,"AS Roma
+ Serie A","Inter
+ Serie A","38,00 Mill. €"
+118,"Felipe Anderson",25,"30,00 Mill. €",18/19,,"Lazio
+ Serie A","West Ham
+ Premier League","38,00 Mill. €"
+119,"André Silva",21,"22,00 Mill. €",17/18,,"FC Porto
+ Liga NOS","AC Milan
+ Serie A","38,00 Mill. €"
+120,"Alex Oxlade-Chamberlain",24,"22,00 Mill. €",17/18,,"Arsenal
+ Premier League","Liverpool
+ Premier League","38,00 Mill. €"
+121,"Eric Bailly",22,"8,00 Mill. €",16/17,,"Villarreal
+ LaLiga","Man Utd
+ Premier League","38,00 Mill. €"
+122,"Mateo Kovacic",21,"22,00 Mill. €",15/16,,"Inter
+ Serie A","Real Madrid
+ LaLiga","38,00 Mill. €"
+123,"Diego Costa",25,"35,00 Mill. €",14/15,,"Atlético Madrid
+ LaLiga","Chelsea
+ Premier League","38,00 Mill. €"
+124,"Dimitar Berbatov",27,"26,00 Mill. €",08/09,,"Spurs
+ Premier League","Man Utd
+ Premier League","38,00 Mill. €"
+125,"Fernando Torres",23,"30,00 Mill. €",07/08,,"Atlético Madrid
+ LaLiga","Liverpool
+ Premier League","38,00 Mill. €"
+126,"Michael Essien",22,"45,00 Mill. €",05/06,,"Olympique Lyon
+ Ligue 1","Chelsea
+ Premier League","38,00 Mill. €"
+127,"Danny Drinkwater",27,"9,00 Mill. €",17/18,,"Leicester
+ Premier League","Chelsea
+ Premier League","37,90 Mill. €"
+128,"Arturo Vidal",28,"42,00 Mill. €",15/16,,"Juventus
+ Serie A","Bayern Munich 
+ Bundesliga","37,50 Mill. €"
+129,"Luke Shaw",18,"13,00 Mill. €",14/15,,"Southampton
+ Premier League","Man Utd
+ Premier League","37,50 Mill. €"
+130,"David Beckham",28,-,03/04,,"Man Utd
+ Premier League","Real Madrid
+ LaLiga","37,50 Mill. €"
+131,"Jackson Martínez",28,"35,00 Mill. €",15/16,,"FC Porto
+ Liga NOS","Atlético Madrid
+ LaLiga","37,10 Mill. €"
+132,"Thilo Kehrer",21,"18,00 Mill. €",18/19,,"FC Schalke 04
+ Bundesliga","Paris SG
+ Ligue 1","37,00 Mill. €"
+133,"André Gomes",22,"30,00 Mill. €",16/17,,"Valencia
+ LaLiga","FC Barcelona
+ LaLiga","37,00 Mill. €"
+134,"Mario Götze",21,"45,00 Mill. €",13/14,,"Bor. Dortmund
+ Bundesliga","Bayern Munich 
+ Bundesliga","37,00 Mill. €"
+135,"Edin Dzeko",24,"30,00 Mill. €",10/11,,"VfL Wolfsburg
+ Bundesliga","Man City
+ Premier League","37,00 Mill. €"
+136,"Wayne Rooney",18,-,04/05,,"Everton
+ Premier League","Man Utd
+ Premier League","37,00 Mill. €"
+137,"Filippo Inzaghi",27,-,01/02,,"Juventus
+ Serie A","AC Milan
+ Serie A","36,15 Mill. €"
+138,"Gabriel Batistuta",31,-,00/01,,"Fiorentina
+ Serie A","AS Roma
+ Serie A","36,15 Mill. €"
+139,"Vitolo",27,"25,00 Mill. €",17/18,,"Sevilla FC
+ LaLiga","Atlético Madrid
+ LaLiga","36,00 Mill. €"
+140,"Julian Draxler",23,"28,00 Mill. €",16/17,,"VfL Wolfsburg
+ Bundesliga","Paris SG
+ Ligue 1","36,00 Mill. €"
+141,"Geoffrey Kondogbia",22,"16,00 Mill. €",15/16,,"Monaco
+ Ligue 1","Inter
+ Serie A","36,00 Mill. €"
+142,"Ander Herrera",24,"20,00 Mill. €",14/15,,"Athletic
+ LaLiga","Man Utd
+ Premier League","36,00 Mill. €"
+143,"Hernán Crespo",27,-,02/03,,"Lazio
+ Serie A","Inter
+ Serie A","36,00 Mill. €"
+144,"Clément Lenglet",23,"25,00 Mill. €",18/19,,"Sevilla FC
+ LaLiga","FC Barcelona
+ LaLiga","35,90 Mill. €"
+145,"Javier Saviola",19,-,01/02,,"River Plate
+ Argentina","FC Barcelona
+ LaLiga","35,90 Mill. €"
+146,"N'Golo Kanté",25,"20,00 Mill. €",16/17,,"Leicester
+ Premier League","Chelsea
+ Premier League","35,80 Mill. €"
+147,"Nélson Semedo",23,"20,00 Mill. €",17/18,,"Benfica
+ Liga NOS","FC Barcelona
+ LaLiga","35,70 Mill. €"
+148,"Willian",25,"30,00 Mill. €",13/14,,"Anzhi
+ Premier Liga","Chelsea
+ Premier League","35,50 Mill. €"
+149,"Dani Alves",25,"20,00 Mill. €",08/09,,"Sevilla FC
+ LaLiga","FC Barcelona
+ LaLiga","35,50 Mill. €"
+150,"Romelu Lukaku",21,"25,00 Mill. €",14/15,,"Chelsea
+ Premier League","Everton
+ Premier League","35,36 Mill. €"
+151,"Nicolas Anelka",20,-,99/00,,"Arsenal
+ Premier League","Real Madrid
+ LaLiga","35,00 Mill. €"
+152,"Benjamin Pavard",23,"35,00 Mill. €",19/20,,"VfB Stuttgart
+ 2. Bundesliga","Bayern Munich 
+ Bundesliga","35,00 Mill. €"
+153,"Thibaut Courtois",26,"65,00 Mill. €",18/19,,"Chelsea
+ Premier League","Real Madrid
+ LaLiga","35,00 Mill. €"
+154,"Leonardo Bonucci",31,"35,00 Mill. €",18/19,,"AC Milan
+ Serie A","Juventus
+ Serie A","35,00 Mill. €"
+155,"Mattia Caldara",24,"25,00 Mill. €",18/19,,"Juventus
+ Serie A","AC Milan
+ Serie A","35,00 Mill. €"
+156,"Shoya Nakajima",24,"18,00 Mill. €",18/19,,"Portimonense
+ Liga NOS","Al Duhail
+ Stars League","35,00 Mill. €"
+157,"Lucas Paquetá",21,"15,00 Mill. €",18/19,,"Flamengo
+ Série A","AC Milan
+ Serie A","35,00 Mill. €"
+158,"Krzysztof Piatek",23,"15,00 Mill. €",18/19,,"Genoa
+ Serie A","AC Milan
+ Serie A","35,00 Mill. €"
+159,"Antonio Rüdiger",24,"25,00 Mill. €",17/18,,"AS Roma
+ Serie A","Chelsea
+ Premier League","35,00 Mill. €"
+160,"Victor Lindelöf",22,"22,00 Mill. €",17/18,,"Benfica
+ Liga NOS","Man Utd
+ Premier League","35,00 Mill. €"
+161,"Mats Hummels",27,"32,00 Mill. €",16/17,,"Bor. Dortmund
+ Bundesliga","Bayern Munich 
+ Bundesliga","35,00 Mill. €"
+162,"David Luiz",29,"28,00 Mill. €",16/17,,"Paris SG
+ Ligue 1","Chelsea
+ Premier League","35,00 Mill. €"
+163,"Moussa Sissoko",27,"13,00 Mill. €",16/17,,"Newcastle
+ Championship","Spurs
+ Premier League","35,00 Mill. €"
+164,"Renato Sanches",18,"10,00 Mill. €",16/17,,"Benfica
+ Liga NOS","Bayern Munich 
+ Bundesliga","35,00 Mill. €"
+165,"Morgan Schneiderlin",25,"28,00 Mill. €",15/16,,"Southampton
+ Premier League","Man Utd
+ Premier League","35,00 Mill. €"
+166,"Luka Modric",26,"40,00 Mill. €",12/13,,"Spurs
+ Premier League","Real Madrid
+ LaLiga","35,00 Mill. €"
+167,"Eden Hazard",21,"33,00 Mill. €",12/13,,"LOSC Lille
+ Ligue 1","Chelsea
+ Premier League","35,00 Mill. €"
+168,"Willian",24,"25,00 Mill. €",12/13,,"Shakhtar D.
+ Premier Liga","Anzhi
+ Premier Liga","35,00 Mill. €"
+169,"Karim Benzema",21,"29,00 Mill. €",09/10,,"Olympique Lyon
+ Ligue 1","Real Madrid
+ LaLiga","35,00 Mill. €"
+170,"Arjen Robben",23,"22,80 Mill. €",07/08,,"Chelsea
+ Premier League","Real Madrid
+ LaLiga","35,00 Mill. €"
+171,"Xabi Alonso",27,"27,00 Mill. €",09/10,,"Liverpool
+ Premier League","Real Madrid
+ LaLiga","34,50 Mill. €"
+172,"Nicolas Anelka",21,-,00/01,,"Real Madrid
+ LaLiga","Paris SG
+ Ligue 1","34,50 Mill. €"
+173,"Alexis Sánchez",29,"70,00 Mill. €",17/18,,"Arsenal
+ Premier League","Man Utd
+ Premier League","34,00 Mill. €"
+174,"Henrikh Mkhitaryan",29,"35,00 Mill. €",17/18,,"Man Utd
+ Premier League","Arsenal
+ Premier League","34,00 Mill. €"
+175,"Arda Turan",28,"35,00 Mill. €",15/16,,"Atlético Madrid
+ LaLiga","FC Barcelona
+ LaLiga","34,00 Mill. €"
+176,"Memphis Depay",21,"28,00 Mill. €",15/16,,"PSV Eindhoven
+ Eredivisie","Man Utd
+ Premier League","34,00 Mill. €"
+177,"Cesc Fàbregas",24,"54,00 Mill. €",11/12,,"Arsenal
+ Premier League","FC Barcelona
+ LaLiga","34,00 Mill. €"
+178,"Cesc Fàbregas",27,"50,00 Mill. €",14/15,,"FC Barcelona
+ LaLiga","Chelsea
+ Premier League","33,00 Mill. €"
+179,"Ángel Di María",22,"9,50 Mill. €",10/11,,"Benfica
+ Liga NOS","Real Madrid
+ LaLiga","33,00 Mill. €"
+180,"Marouane Fellaini",25,"28,00 Mill. €",13/14,,"Everton
+ Premier League","Man Utd
+ Premier League","32,40 Mill. €"
+181,"Wilfried Bony",26,"17,00 Mill. €",14/15,,"Swansea
+ Premier League","Man City
+ Premier League","32,30 Mill. €"
+182,"Ronaldinho",23,-,03/04,,"Paris SG
+ Ligue 1","FC Barcelona
+ LaLiga","32,25 Mill. €"
+183,"Kerem Demirbay",26,"25,00 Mill. €",19/20,,"TSG Hoffenheim
+ Bundesliga","Bay. Leverkusen
+ Bundesliga","32,00 Mill. €"
+184,"Iñigo Martínez",26,"25,00 Mill. €",17/18,,"Real Sociedad
+ LaLiga","Athletic
+ LaLiga","32,00 Mill. €"
+185,"Miralem Pjanic",26,"35,00 Mill. €",16/17,,"AS Roma
+ Serie A","Juventus
+ Serie A","32,00 Mill. €"
+186,"Gabriel Jesus",19,"16,00 Mill. €",16/17,,"Palmeiras
+ Série A","Man City
+ Premier League","32,00 Mill. €"
+187,"Arkadiusz Milik",22,"12,00 Mill. €",16/17,,"Ajax
+ Eredivisie","SSC Napoli
+ Serie A","32,00 Mill. €"
+188,"André Schürrle",24,"23,00 Mill. €",14/15,,"Chelsea
+ Premier League","VfL Wolfsburg
+ Bundesliga","32,00 Mill. €"
+189,"Asier Illarramendi",23,"12,00 Mill. €",13/14,,"Real Sociedad
+ LaLiga","Real Madrid
+ LaLiga","32,00 Mill. €"
+190,"Oscar",20,"20,00 Mill. €",12/13,,"Internacional
+ Série A","Chelsea
+ Premier League","32,00 Mill. €"
+191,"Denílson",20,-,98/99,,"São Paulo
+ Brazil","Real Betis
+ LaLiga","31,50 Mill. €"
+192,"Danilo",23,"25,00 Mill. €",15/16,,"FC Porto
+ Liga NOS","Real Madrid
+ LaLiga","31,50 Mill. €"
+193,"Anderson",19,"25,00 Mill. €",07/08,,"FC Porto
+ Liga NOS","Man Utd
+ Premier League","31,50 Mill. €"
+194,"Shaun Wright-Phillips",23,"9,50 Mill. €",05/06,,"Man City
+ Premier League","Chelsea
+ Premier League","31,50 Mill. €"
+195,"Marquinhos",19,"15,00 Mill. €",13/14,,"AS Roma
+ Serie A","Paris SG
+ Ligue 1","31,40 Mill. €"
+196,"Christian Benteke",25,"27,00 Mill. €",16/17,,"Liverpool
+ Premier League","Crystal Palace
+ Premier League","31,20 Mill. €"
+197,"Alessandro Bastoni",18,"1,50 Mill. €",17/18,,"Atalanta
+ Serie A","Inter
+ Serie A","31,10 Mill. €"
+198,"Arthur",21,"30,00 Mill. €",18/19,,"Grêmio
+ Série A","FC Barcelona
+ LaLiga","31,00 Mill. €"
+199,"Juan Cuadrado",26,"32,00 Mill. €",14/15,,"Fiorentina
+ Serie A","Chelsea
+ Premier League","31,00 Mill. €"
+200,"Adam Lallana",26,"7,50 Mill. €",14/15,,"Southampton
+ Premier League","Liverpool
+ Premier League","31,00 Mill. €"
+201,"Alessandro Nesta",26,-,02/03,,"Lazio
+ Serie A","AC Milan
+ Serie A","30,99 Mill. €"
+202,"Robin van Persie",29,"47,50 Mill. €",12/13,,"Arsenal
+ Premier League","Man Utd
+ Premier League","30,70 Mill. €"
+203,"Islam Slimani",28,"22,00 Mill. €",16/17,,"Sporting CP
+ Liga NOS","Leicester
+ Premier League","30,50 Mill. €"
+204,"Eliaquim Mangala",23,"28,00 Mill. €",14/15,,"FC Porto
+ Liga NOS","Man City
+ Premier League","30,50 Mill. €"
+205,"Yerry Mina",23,"20,00 Mill. €",18/19,,"FC Barcelona
+ LaLiga","Everton
+ Premier League","30,25 Mill. €"
+206,"Juan Sebastián Verón",24,-,99/00,,"Parma
+ Serie A","Lazio
+ Serie A","30,00 Mill. €"
+207,"Jean Michaël Seri",27,"30,00 Mill. €",18/19,,"OGC Nice
+ Ligue 1","Fulham
+ Premier League","30,00 Mill. €"
+208,"Lucas Torreira",22,"30,00 Mill. €",18/19,,"Sampdoria
+ Serie A","Arsenal
+ Premier League","30,00 Mill. €"
+209,"Aleksandr Golovin",22,"25,00 Mill. €",18/19,,"CSKA Moscow
+ Premier Liga","Monaco
+ Ligue 1","30,00 Mill. €"
+210,"Álvaro Odriozola",22,"25,00 Mill. €",18/19,,"Real Sociedad
+ LaLiga","Real Madrid
+ LaLiga","30,00 Mill. €"
+211,"Fabián Ruiz",22,"20,00 Mill. €",18/19,,"Real Betis
+ LaLiga","SSC Napoli
+ Serie A","30,00 Mill. €"
+212,"Keita Baldé",22,"25,00 Mill. €",17/18,,"Lazio
+ Serie A","Monaco
+ Ligue 1","30,00 Mill. €"
+213,"Danilo",26,"16,00 Mill. €",17/18,,"Real Madrid
+ LaLiga","Man City
+ Premier League","30,00 Mill. €"
+214,"Álvaro Morata",23,"30,00 Mill. €",16/17,,"Juventus
+ Serie A","Real Madrid
+ LaLiga","30,00 Mill. €"
+215,"Paco Alcácer",23,"25,00 Mill. €",16/17,,"Valencia
+ LaLiga","FC Barcelona
+ LaLiga","30,00 Mill. €"
+216,"Kévin Gameiro",29,"20,00 Mill. €",16/17,,"Sevilla FC
+ LaLiga","Atlético Madrid
+ LaLiga","30,00 Mill. €"
+217,"André Schürrle",25,"18,00 Mill. €",16/17,,"VfL Wolfsburg
+ Bundesliga","Bor. Dortmund
+ Bundesliga","30,00 Mill. €"
+218,"Gonçalo Guedes",20,"9,00 Mill. €",16/17,,"Benfica
+ Liga NOS","Paris SG
+ Ligue 1","30,00 Mill. €"
+219,"Carlos Bacca",28,"25,00 Mill. €",15/16,,"Sevilla FC
+ LaLiga","AC Milan
+ Serie A","30,00 Mill. €"
+220,"Douglas Costa",24,"23,00 Mill. €",15/16,,"Shakhtar D.
+ Premier Liga","Bayern Munich 
+ Bundesliga","30,00 Mill. €"
+221,"Rodrigo",24,"18,00 Mill. €",15/16,,"Benfica
+ Liga NOS","Valencia
+ LaLiga","30,00 Mill. €"
+222,"Heung-min Son",23,"16,00 Mill. €",15/16,,"Bay. Leverkusen
+ Bundesliga","Spurs
+ Premier League","30,00 Mill. €"
+223,"Antoine Griezmann",23,"30,00 Mill. €",14/15,,"Real Sociedad
+ LaLiga","Atlético Madrid
+ LaLiga","30,00 Mill. €"
+224,"Roberto Soldado",28,"28,00 Mill. €",13/14,,"Valencia
+ LaLiga","Spurs
+ Premier League","30,00 Mill. €"
+225,"Isco",21,"25,00 Mill. €",13/14,,"Málaga CF
+ LaLiga","Real Madrid
+ LaLiga","30,00 Mill. €"
+226,"Erik Lamela",21,"23,00 Mill. €",13/14,,"AS Roma
+ Serie A","Spurs
+ Premier League","30,00 Mill. €"
+227,"Ezequiel Lavezzi",27,"30,00 Mill. €",12/13,,"SSC Napoli
+ Serie A","Paris SG
+ Ligue 1","30,00 Mill. €"
+228,"Manuel Neuer",25,"28,00 Mill. €",11/12,,"FC Schalke 04
+ Bundesliga","Bayern Munich 
+ Bundesliga","30,00 Mill. €"
+229,"Fábio Coentrão",23,"24,00 Mill. €",11/12,,"Benfica
+ Liga NOS","Real Madrid
+ LaLiga","30,00 Mill. €"
+230,"Yaya Touré",27,"18,00 Mill. €",10/11,,"FC Barcelona
+ LaLiga","Man City
+ Premier League","30,00 Mill. €"
+231,"Mario Gómez",23,"30,00 Mill. €",09/10,,"VfB Stuttgart
+ Bundesliga","Bayern Munich 
+ Bundesliga","30,00 Mill. €"
+232,"Danny",25,"7,75 Mill. €",08/09,,"Dinamo Moscow
+ Premier Liga","Zenit S-Pb
+ Premier Liga","30,00 Mill. €"
+233,"Pepe",24,"30,00 Mill. €",07/08,,"FC Porto
+ Liga NOS","Real Madrid
+ LaLiga","30,00 Mill. €"
+234,"Franck Ribéry",24,"23,00 Mill. €",07/08,,"Marseille
+ Ligue 1","Bayern Munich 
+ Bundesliga","30,00 Mill. €"
+235,"Ricardo Carvalho",26,-,04/05,,"FC Porto
+ Liga NOS","Chelsea
+ Premier League","30,00 Mill. €"
+236,"Naby Keïta",21,"11,00 Mill. €",16/17,,"RB Salzburg
+ Bundesliga","RB Leipzig
+ Bundesliga","29,75 Mill. €"
+237,"Gabriel Barbosa",20,"20,00 Mill. €",16/17,,"Santos FC
+ Série A","Inter
+ Serie A","29,50 Mill. €"
+238,"Mario Balotelli",20,"26,00 Mill. €",10/11,,"Inter
+ Serie A","Man City
+ Premier League","29,50 Mill. €"
+239,"Dimitri Payet",29,"30,00 Mill. €",16/17,,"West Ham
+ Premier League","Marseille
+ Ligue 1","29,30 Mill. €"
+240,"Anthony Modeste",30,"16,00 Mill. €",18/19,,"1. FC Köln
+ 2. Bundesliga","TJ Tianhai
+ Super League","29,00 Mill. €"
+241,"Carlos Tévez",25,"25,00 Mill. €",09/10,,"West Ham
+ Premier League","Man City
+ Premier League","29,00 Mill. €"
+242,"Emmanuel Adebayor",25,"25,00 Mill. €",09/10,,"Arsenal
+ Premier League","Man City
+ Premier League","29,00 Mill. €"
+243,"Yannick Bolasie",27,"14,00 Mill. €",16/17,,"Crystal Palace
+ Premier League","Everton
+ Premier League","28,90 Mill. €"
+244,"David Silva",24,"32,00 Mill. €",10/11,,"Valencia
+ LaLiga","Man City
+ Premier League","28,75 Mill. €"
+245,"Michael Keane",24,"18,00 Mill. €",17/18,,"Burnley
+ Premier League","Everton
+ Premier League","28,50 Mill. €"
+246,"Jordan Pickford",23,"15,00 Mill. €",17/18,,"Sunderland
+ Championship","Everton
+ Premier League","28,50 Mill. €"
+247,"Ruud van Nistelrooy",25,-,01/02,,"PSV Eindhoven
+ Eredivisie","Man Utd
+ Premier League","28,50 Mill. €"
+248,"Antonio Cassano",18,-,01/02,,"Bari
+ Serie B","AS Roma
+ Serie A","28,50 Mill. €"
+249,"Christian Vieri",25,-,98/99,,"Atlético Madrid
+ LaLiga","Lazio
+ Serie A","28,41 Mill. €"
+250,"Lucas Moura",25,"28,00 Mill. €",17/18,,"Paris SG
+ Ligue 1","Spurs
+ Premier League","28,40 Mill. €"
