@@ -1,0 +1,490 @@
+Name,Team,Age,Position,Apps,Minutes,Tackles per game,Interceptions per game,Fouls per game,Offsides per game,Clearances per game,Dribbled past per game,Outfield blocks per game,Own goals,Rating
+Arjen Robben,Bayern Munich,35,"M(CLR),FW",18(6),1779,0.6,0.5,0.9,-,-,0.7,-,-,8.18
+Stefan Kießling,Bayer Leverkusen,35,FW,33,2924,1.2,0.7,2.5,-,0.3,0.5,0.1,-,7.79
+Zvjezdan Misimovic,Wolfsburg,37,"AM(C),FW",31,2768,1.9,0.6,1.5,-,0.2,1.2,0.1,-,7.74
+Edin Dzeko,Wolfsburg,33,FW,33(1),3003,0.5,0.1,1.9,-,0.9,0.2,0.1,-,7.73
+Claudio Pizarro,Werder Bremen,40,"AM(C),FW",23(3),2130,1,0.7,2,-,0.7,0.4,0.2,-,7.63
+Paolo Guerrero,Hamburger SV,35,FW,4(2),415,1.3,0.2,3.7,-,0.5,0.2,0.3,-,7.63
+Mesut Özil,Werder Bremen,30,M(CLR),29(2),2601,0.7,0.8,0.7,-,-,0.7,-,-,7.62
+Naldo,Werder Bremen,36,D(C),31,2762,2.7,3.7,1.4,1.5,3.3,0.7,0.6,-,7.59
+Toni Kroos,Bayer Leverkusen,29,M(C),26(7),2360,1.4,1,0.9,-,0.3,0.8,0.1,-,7.59
+Raffael,Hertha Berlin,34,"AM(CL),FW",30(1),2654,1.9,1.4,1.2,-,0.3,1.1,-,-,7.56
+Bastian Schweinsteiger,Bayern Munich,34,"D(C),M(C)",33,2908,3.2,1.2,1.9,0.1,0.6,1.6,0.2,-,7.55
+Nuri Sahin,Borussia Dortmund,30,M(C),33,2904,3.4,2.5,1.5,-,1,1.8,0.2,-,7.51
+Kevin Kurányi,Schalke 04,37,FW,31(2),2802,1.1,0.3,3.2,-,0.5,0.5,0.1,-,7.49
+Burak Kaplan,Bayer Leverkusen,29,Midfielder,2(2),259,1.3,0.8,0.5,-,-,-,-,-,7.47
+Lucas Barrios,Borussia Dortmund,34,FW,30(3),2623,0.9,0.5,2.1,-,1.2,0.6,-,-,7.45
+Zé Roberto,Hamburger SV,44,"D(L),M(CL)",23,2056,1.9,1.5,1,-,0.5,0.8,0.4,-,7.43
+Thomas Müller,Bayern Munich,29,"M(CLR),FW",29(5),2645,1.7,0.5,1.4,-,0.2,1,-,-,7.39
+Marko Marin,Werder Bremen,30,M(CLR),30(2),2419,0.7,0.3,1.1,-,-,0.7,-,-,7.39
+Tranquillo Barnetta,Bayer Leverkusen,34,M(CLR),31(1),2565,1.4,1.1,1.4,-,0.4,0.8,0.1,-,7.38
+Eljero Elia,Hamburger SV,32,"AM(LR),FW",20(4),1768,1.9,0.4,2,-,0.4,0.6,0.1,-,7.37
+Carlos Eduardo,Hoffenheim,31,"M(CLR),FW",32(1),2754,0.8,0.9,0.7,-,-,0.8,-,-,7.36
+Mats Hummels,Borussia Dortmund,30,D(C),27(3),2522,3.5,2.6,0.7,0.4,4.5,1.2,0.5,-,7.35
+Mohamadou Idrissou,Freiburg,39,"AM(CL),FW",30,2658,2.4,0.7,4.3,-,2,0.8,-,-,7.33
+Simon Rolfes,Bayer Leverkusen,37,M(C),8(3),772,1.5,1.5,1.1,0.1,0.9,0.2,0.3,-,7.33
+Georg Niedermeier,VfB Stuttgart,33,D(C),12,1080,1.8,2.7,1.1,1.9,5.1,0.3,0.5,-,7.32
+David Jarolim,Hamburger SV,40,"D(C),DMC,M(R)",33,2895,3.2,2.7,2.5,-,0.3,1.7,0.2,-,7.30
+Arturo Vidal,Bayer Leverkusen,32,M(C),31,2684,4.5,2.1,3.1,-,0.5,2.2,0.1,-,7.30
+Jefferson Farfán,Schalke 04,34,"M(CR),FW",32(1),2833,1.2,0.5,2.3,-,0.1,0.4,0.2,-,7.27
+Pirmin Schwegler,Eintracht Frankfurt,32,M(C),25,2162,3.1,2.9,2.6,-,0.4,1.1,0.2,-,7.26
+Clemens Fritz,Werder Bremen,38,"D(R),DMC",30,2596,3.3,2.5,1.2,0.8,2.5,0.7,0.2,-,7.24
+Javier Pinola,Nuernberg,36,D(CL),33,2962,3,2.5,1.8,0.5,2.8,0.8,0.6,-,7.24
+Sebastian Mielitz,Werder Bremen,29,GK,2,180,-,-,-,-,1,-,-,-,7.24
+Per Mertesacker,Werder Bremen,34,D(C),33,2970,1.5,2.7,0.8,2.4,4.2,0.6,0.5,-,7.22
+Chinedu Obasi,Hoffenheim,33,"M(R),FW",21(2),1749,1.5,1.3,2,-,0.4,0.7,-,-,7.22
+Andreas Luthe,Bochum,32,GK,3,270,-,-,-,-,2.7,-,-,-,7.22
+Christian Gentner,Wolfsburg,33,M(CLR),34,2795,2.6,1.5,1.3,-,0.8,1,0.1,-,7.22
+Jakub Blaszczykowski,Borussia Dortmund,33,"D(R),M(CR)",30(2),2407,2.8,1.7,1.3,-,0.5,1.3,-,-,7.22
+Radoslav Zabavník,Mainz 05,38,D(L),11(1),991,3.7,3.9,2.8,0.1,2.6,1.9,0.1,-,7.21
+Christian Träsch,VfB Stuttgart,31,"D(R),M(C)",28(1),2540,2.8,2.1,1.1,0.5,1.7,1.6,0.4,-,7.21
+Patrick Owomoyela,Borussia Dortmund,39,D(R),33,2936,2.8,2.4,1,0.4,3.1,1.2,0.3,-,7.21
+Mladen Petric,Hamburger SV,38,FW,25(1),2141,0.8,0.5,1.4,-,1.3,0.4,0.1,-,7.21
+Mark van Bommel,Bayern Munich,42,"D(C),DMC,M(R)",25,2175,3.6,2,2.8,-,0.3,1.8,0.2,-,7.20
+Daniel Van Buyten,Bayern Munich,41,D(C),31,2636,1.5,2.8,1,0.4,3.4,0.3,0.5,-,7.20
+Sebastian Boenisch,Werder Bremen,32,D(CL),16(1),1444,3.2,2.3,1.1,0.5,1.8,1.4,0.3,-,7.20
+Mohamed Zidan,Borussia Dortmund,37,"AM(C),FW",24(3),1783,1.1,0.9,1.3,-,0.2,1.3,0.3,-,7.19
+Franck Ribéry,Bayern Munich,36,AM(L),10(9),1091,0.6,0.2,1.1,-,0.1,0.3,-,-,7.19
+Adrián Ramos,Hertha Berlin,33,FW,23(6),2232,0.4,0.7,1.2,-,0.4,0.2,-,-,7.18
+Sami Hyypiä,Bayer Leverkusen,45,"D(C),DMC",32,2865,1.6,3,1.2,1.2,4.3,0.4,0.4,-,7.18
+Torsten Frings,Werder Bremen,42,"D(C),M(CR)",29(1),2534,2.7,1.4,2.3,0.1,0.5,1.3,0.3,-,7.17
+Cacau,VfB Stuttgart,38,FW,19(6),1744,1,0.3,1.8,-,-,0.5,0.1,-,7.17
+Philipp Lahm,Bayern Munich,35,"D(R),DMC",34,3060,1.9,1.7,0.4,0.1,1.1,0.7,0.3,-,7.16
+Roman Hubnik,Hertha Berlin,35,D(C),7,602,4.3,2.3,1.6,1.7,3.3,0.7,0.9,-,7.15
+Josué,Wolfsburg,39,M(C),31,2703,5.4,2.8,2.4,0.1,1.1,2.2,0.4,-,7.15
+Aaron Hunt,Werder Bremen,32,"M(CLR),FW",26(6),2313,0.9,0.8,0.8,-,0.3,1,0.1,-,7.15
+Thomas Kessler,FC Cologne,33,GK,3,270,-,-,-,-,2.3,-,-,-,7.15
+Petit,FC Cologne,42,"D(C),M(CR)",32,2822,2.7,3.1,2.3,-,1.8,1.7,0.4,-,7.15
+Marcell Jansen,Hamburger SV,33,"D(L),M(L)",15(3),1391,1.3,0.8,1,0.1,1.1,0.7,0.1,-,7.15
+Cícero,Hertha Berlin,34,M(CLR),28(2),2531,1.8,1.2,0.9,-,1.4,0.7,0.1,-,7.15
+Rafinha,Schalke 04,33,"D(CLR),M(R)",30(1),2672,2.4,1.5,2.1,0.3,1,1.2,0.1,-,7.14
+Martín Demichelis,Bayern Munich,38,D(C),17(4),1575,3,2.2,1.4,0.4,3.1,1,0.2,-,7.14
+Alexander Meier,Eintracht Frankfurt,36,"M(C),FW",34,3014,0.9,1.3,2.3,-,1.8,0.5,0.2,-,7.14
+Eren Derdiyok,Bayer Leverkusen,31,FW,32(1),2621,0.5,0.4,1.7,-,0.5,0.5,-,-,7.14
+Marco Reus,Borussia M.Gladbach,30,"M(CLR),FW",27(6),2471,2.3,1.5,1.3,-,0.3,0.8,0.2,-,7.14
+Boubacar Sanogo,Werder Bremen,36,"AM(L),FW",2,180,1,0.5,2,-,-,-,-,-,7.14
+Ivica Olic,Bayern Munich,39,"AM(LR),FW",23(6),1799,0.8,0.2,1.2,-,0.2,0.6,0.1,-,7.13
+Levan Kobiashvili,Hertha Berlin,41,D(C),16,1440,2.8,2.6,1.3,0.3,1.8,1.6,0.3,-,7.12
+Neven Subotic,Borussia Dortmund,30,D(C),34,3060,2.4,3.1,0.8,1.1,5.2,0.8,0.6,-,7.12
+Benedikt Höwedes,Schalke 04,31,D(CLR),32(1),2832,2.5,2.8,1.7,0.7,2.7,0.6,0.5,-,7.12
+Sebastian Kehl,Borussia Dortmund,39,M(C),5(1),382,2,1.7,1.3,0.2,0.5,1.2,0.3,-,7.11
+Juan Arango,Borussia M.Gladbach,39,AM(L),33(1),2916,1.3,1.1,0.9,-,0.6,1.1,0.1,-,7.11
+Adam Matuschyk,FC Cologne,30,M(C),9,758,2.7,1.3,1.9,-,0.9,1.2,0.2,-,7.10
+Breno,Nuernberg,29,D(C),7,575,2.1,3.3,0.6,1.3,3.3,0.3,0.4,-,7.10
+Zoran Tosic,FC Cologne,32,M(LR),9(4),871,0.4,0.6,0.6,-,-,0.6,-,-,7.09
+Chris,Eintracht Frankfurt,40,"D(CL),M(R)",29,2578,2.9,3,2.3,0.7,4.3,0.6,0.5,-,7.09
+Demba Ba,Hoffenheim,34,FW,12(5),1213,0.6,0.8,1.7,-,0.2,0.5,0.1,-,7.08
+Sami Khedira,VfB Stuttgart,32,M(C),24(1),2104,1.4,1.8,0.7,0.1,0.8,1,0.4,-,7.08
+Malik Fathi,Mainz 05,35,D(CL),14,1260,2.4,3.4,1.4,0.1,1.8,1,0.4,-,7.08
+Grafite,Wolfsburg,40,FW,27(3),2466,0.3,0.3,2.8,-,0.7,0.3,0.1,-,7.08
+Mario Gomez,Bayern Munich,33,FW,21(8),1938,0.6,0.4,1.2,-,0.4,0.4,0.1,-,7.07
+Geromel,FC Cologne,33,D(C),29,2610,2.9,3.3,1.2,1.5,6.6,0.8,0.6,-,7.06
+Andreas Ibertsberger,Hoffenheim,36,D(CR),23,1971,4,3,1.5,0.2,1.3,1.3,0.3,-,7.06
+Sejad Salihovic,Hoffenheim,34,"D(L),M(CL)",31(1),2825,2.1,1.5,2.5,-,0.4,1.3,0.1,-,7.05
+Piotr Trochowski,Hamburger SV,35,M(CL),25(8),2235,1.3,0.8,1.1,-,0.3,0.7,-,-,7.05
+Ricardo Costa,Wolfsburg,38,D(C),10(1),901,3.5,1.4,1.7,1.3,4,1.1,0.8,-,7.05
+Arthur Boka,VfB Stuttgart,36,"D(L),M(C)",12(2),1100,1.4,2.2,1.4,0.5,1,0.6,0.1,-,7.04
+Patrick Ochs,Eintracht Frankfurt,35,D(R),28,2469,2,1.1,1.7,0.2,0.6,0.7,0.1,-,7.04
+Timo Gebhart,VfB Stuttgart,30,M(CL),23(5),1855,2.3,0.7,2.6,-,0.3,1,0.1,-,7.04
+Marcel Risse,Nuernberg,29,"D(R),M(CLR)",10(10),1120,1.9,1,1.2,-,0.1,0.3,-,-,7.04
+Cristian Molinaro,VfB Stuttgart,35,"D(L),M(L)",17,1530,2.4,2.6,1.5,0.5,1.8,0.6,0.2,-,7.03
+Ivan Rakitic,Schalke 04,31,M(C),25(4),2131,1.7,0.9,1.5,-,0.4,0.7,0.1,-,7.03
+Heinz Müller,Mainz 05,41,GK,30,2647,-,-,0.1,-,1,0.1,-,-,7.03
+Ciprian Marica,VfB Stuttgart,33,FW,18(7),1522,0.5,0.3,1.8,-,0.2,-,-,-,7.03
+Jackson Mendy,Freiburg,32,D(C),6,540,4.3,2,1.3,0.3,3.2,1.8,0.2,-,7.03
+Adil Chihi,FC Cologne,31,"D(C),M(C)",12(3),1054,1,1.2,1.6,-,0.1,0.3,0.1,-,7.03
+Aristide Bancé,Mainz 05,34,FW,28(2),2483,0.2,0.5,1.7,-,1.7,0.2,0.2,-,7.03
+Josip Simunic,Hoffenheim,41,D(C),31,2723,2.1,2,1.2,0.7,4.5,0.6,0.9,-,7.03
+Marcelo Bordon,Schalke 04,43,"D(C),DMC",30,2700,2.1,1.9,1.6,1,4.7,0.6,0.6,-,7.02
+Didier Ya Konan,Hannover 96,35,"M(R),FW",24(1),2019,1,0.4,3,-,0.3,0.4,-,-,7.01
+Ivica Banovic,Freiburg,38,"DMC,M(R)",22(3),1885,2.4,1.2,1.9,-,0.6,1,0.3,-,7.01
+Manuel Friedrich,Bayer Leverkusen,39,D(C),31,2776,1.5,2.7,0.7,1.8,3.8,0.5,0.3,-,7.00
+Philipp Bargfrede,Werder Bremen,30,"D(C),M(C)",20(3),1670,3.1,1.1,1.9,-,0.3,1.2,0.3,-,7.00
+Tim Hoogland,Mainz 05,34,"D(CR),M(C)",19(2),1576,2.1,1.3,1.4,-,1.1,1,0.1,-,6.99
+Thorben Marx,Borussia M.Gladbach,38,DMC,28,2406,2.8,2.1,2,0.1,1.1,0.9,0.5,-,6.99
+Oliver Baumann,Freiburg,29,GK,1,90,-,-,-,-,2,-,-,-,6.99
+Christofer Heimeroth,Borussia M.Gladbach,37,GK,5,450,-,-,-,-,1.6,-,-,-,6.98
+Heiko Westermann,Schalke 04,35,D(CLR),27,2430,2.3,2,1.2,0.8,2.2,0.9,0.1,1,6.98
+Tobias Levels,Borussia M.Gladbach,32,D(R),32,2859,3.8,1.7,2.1,0.2,2.2,0.8,0.3,-,6.98
+Renato Augusto,Bayer Leverkusen,31,"M(CLR),FW",11(6),954,1.1,0.8,1.1,-,0.2,0.6,0.1,-,6.98
+Fabian Lustenberger,Hertha Berlin,31,"D(C),M(C)",23,1957,3.3,3.3,1.4,0.2,1.3,1.3,0.3,-,6.97
+Elkin Soto,Mainz 05,38,M(C),28(2),2341,3,2.7,1.4,0.1,0.8,2,0.4,-,6.97
+Carlos Zambrano,Schalke 04,29,D(C),14(2),1284,2.8,2.2,1.7,1.1,3.1,0.7,0.6,-,6.97
+Dante,Borussia M.Gladbach,35,D(C),32,2850,2.8,2.5,1.6,0.4,4.3,0.4,0.9,-,6.97
+Tomás Rincón,Hamburger SV,31,M(CR),14(3),1241,3.9,1.8,2.9,0.1,1.7,1.6,0.2,-,6.97
+Andreas Beck,Hoffenheim,32,"D(LR),M(R)",24(1),2071,3.1,1.8,1.4,0.2,2.2,0.8,0.1,-,6.96
+Maik Franz,Eintracht Frankfurt,37,D(CLR),25(2),2240,3,1.7,2,0.4,3.4,1,0.8,1,6.96
+Maicosuel,Hoffenheim,33,AM(CLR),17(10),1590,1,0.5,0.7,-,0.1,0.4,0.1,-,6.96
+Jaroslav Drobny,Hertha Berlin,39,GK,30,2700,-,-,-,-,1,0.1,-,-,6.96
+Gonzalo Castro,Bayer Leverkusen,32,M(CR),27(2),2144,2.4,1.4,0.8,0.5,0.8,1,0.1,-,6.95
+Raphael Schäfer,Nuernberg,40,GK,30,2700,-,-,-,-,1.1,0.1,-,-,6.95
+Matthieu Delpierre,VfB Stuttgart,38,D(C),27,2430,1.7,2.9,1.7,1.6,3.9,0.3,0.5,-,6.95
+Lukas Schmitz,Schalke 04,30,"D(L),M(CL)",27(2),2323,2.5,1.4,1.4,0.2,0.8,1.4,0.1,-,6.95
+Stefan Reinartz,Bayer Leverkusen,30,M(C),23(4),2057,2.6,2.2,1.4,0.2,1.4,0.8,0.3,-,6.94
+Sascha Riether,Wolfsburg,36,D(R),33,2965,2.2,1.7,0.8,0.6,1.5,0.6,0.3,-,6.94
+Diego Benaglio,Wolfsburg,35,GK,22,1924,0.1,-,-,-,0.5,0.1,-,-,6.94
+André Schürrle,Mainz 05,28,"M(CLR),FW",25(8),2304,2,1.5,1.5,-,0.3,1.3,0.1,-,6.94
+Khalid Boulahrouz,VfB Stuttgart,37,D(CR),5(1),495,3.5,1.7,1.3,1.2,2.5,1.3,0.7,-,6.94
+Hanno Balitsch,Hannover 96,38,"D(R),M(C)",25(2),2273,3.2,2,2,-,0.9,1.1,0.3,-,6.93
+Simon Pouplin,Freiburg,34,GK,30,2700,0.1,-,-,-,0.6,0.1,-,-,6.93
+Nikolce Noveski,Mainz 05,40,D(C),33,2902,2.3,2.1,1.1,1.2,5.5,0.8,0.8,1,6.93
+Diego Contento,Bayern Munich,29,D(L),8(1),748,2,1.1,0.8,-,1.3,1.1,-,-,6.92
+Kevin Großkreutz,Borussia Dortmund,30,"D(LR),M(CLR)",21(11),2021,2.2,1.5,1.1,-,0.6,1.5,0.1,-,6.92
+Nélson Haedo Valdez,Borussia Dortmund,35,"AM(R),FW",18(10),1704,1.7,0.8,1.3,-,0.5,1,0.2,-,6.92
+Pavel Pogrebnyak,VfB Stuttgart,35,FW,22(6),2041,0.7,0.4,1.8,-,0.4,0.5,-,-,6.92
+Jörg Butt,Bayern Munich,45,GK,31,2746,0.1,0.1,-,-,1,-,-,-,6.91
+Dennis Aogo,Hamburger SV,32,"D(L),M(CL)",31,2669,1.7,1.5,1.1,0.1,1.4,0.6,0.3,-,6.91
+Élson,Hannover 96,37,FW,7,600,0.7,0.4,2,-,0.4,0.7,0.1,-,6.91
+Jérôme Boateng,Hamburger SV,30,D(CR),26(1),2156,2.2,2.2,1.1,0.9,2.8,0.7,0.4,-,6.91
+Holger Badstuber,Bayern Munich,30,D(CL),33,2926,2.1,1.3,1.1,0.4,1.7,0.5,0.3,-,6.91
+Marvin Compper,Hoffenheim,34,D(C),32,2738,2.2,3.1,1.1,0.6,3.6,1.1,0.3,-,6.90
+Theofanis Gekas,Hertha Berlin,39,FW,15(2),1317,0.3,0.5,0.6,-,0.1,0.4,-,-,6.90
+Christian Fuchs,Bochum,33,"D(CL),M(L)",29(2),2594,2.3,2.5,1.2,0.3,2,1.1,0.2,-,6.90
+Roel Brouwers,Borussia M.Gladbach,37,D(C),34,3060,2.4,1.4,1.1,0.6,4.9,0.6,0.7,-,6.90
+Aliaksandr Hleb,VfB Stuttgart,38,M(C),24(3),1850,1,1.1,0.8,-,-,0.5,-,-,6.89
+Marco Russ,Eintracht Frankfurt,33,"D(C),DMC",30,2620,1.7,2.4,0.8,0.9,5.1,0.5,0.9,1,6.89
+Lewis Holtby,Bochum,28,M(CLR),11(3),1095,2.6,1,2,-,0.1,1.6,0.1,-,6.89
+Sven Bender,Borussia Dortmund,30,"D(C),M(C)",17(2),1491,3.3,2.1,1.8,0.2,1.4,1.7,0.4,-,6.89
+Lukasz Piszczek,Hertha Berlin,34,"D(CR),M(R)",28(3),2430,2,2,1.1,0.3,1.4,0.6,0.2,-,6.88
+Ruud van Nistelrooy,Hamburger SV,43,"AM(L),FW",7(4),610,0.3,0.3,0.8,-,0.2,0.3,0.1,-,6.88
+Aleksandar Vasoski,Eintracht Frankfurt,39,D(L),7,630,1.1,3.3,1.1,0.6,5.6,0.4,1,-,6.88
+Arne Friedrich,Hertha Berlin,40,"D(CL),DMC",31,2790,2.2,1.7,1,1,5.4,0.5,0.6,-,6.87
+Albert Bunjaku,Nuernberg,35,"AM(CL),FW",25(3),2171,0.5,0.2,1.9,-,-,0.3,-,-,6.87
+Taner Yalcin,FC Cologne,29,AM(C),6(1),449,2.1,1.7,1.9,-,0.6,0.4,-,-,6.86
+Karim Haggui,Hannover 96,35,D(C),30,2700,2.5,2,1.3,1.3,5.9,0.5,0.3,2,6.86
+Vedad Ibisevic,Hoffenheim,34,FW,30(4),2587,0.6,0.3,1.8,-,0.2,0.4,0.1,-,6.86
+Philipp Heerwagen,Bochum,36,GK,30,2700,-,-,-,-,1.1,0.1,-,-,6.86
+Daniel Schwaab,Bayer Leverkusen,30,"D(CR),DMC",24(3),1987,2.8,1.6,1.2,0.6,1.3,0.9,0.1,-,6.86
+Dennis Diekmeier,Nuernberg,29,"D(R),M(R)",30,2583,2.8,1.1,1,0.4,2.5,0.9,0.3,-,6.86
+Dominic Maroh,Nuernberg,32,D(C),24(3),2265,3.2,1.7,0.7,1.4,4.7,0.5,0.7,1,6.85
+Benjamin Köhler,Eintracht Frankfurt,38,"D(C),M(CR),FW",21(10),1929,1.5,1.2,0.7,0.1,0.3,0.6,0.2,-,6.85
+Marwin Hitz,Wolfsburg,31,GK,5,450,-,-,-,-,0.8,-,-,-,6.85
+Ioannis Amanatidis,Eintracht Frankfurt,37,FW,7(1),564,0.5,0.4,0.4,-,0.5,0.1,-,-,6.85
+Sergio da Silva Pinto,Hannover 96,38,M(C),20(6),1762,2.2,1.8,1.4,0.2,0.6,0.9,0.1,-,6.85
+Raúl Bobadilla,Borussia M.Gladbach,32,"AM(R),FW",25(5),2072,0.4,0.5,2.2,-,0.1,0.2,-,-,6.85
+Petri Pasanen,Werder Bremen,38,"D(CLR),DMC",16(3),1499,1.9,2.3,1.2,0.6,1.5,1.2,0.1,-,6.84
+Mike Frantz,Nuernberg,32,"M(CLR),FW",20(4),1585,2.1,0.7,1.7,-,0.2,0.6,-,-,6.84
+Miso Brecko,FC Cologne,35,D(R),31(1),2712,2.6,1.4,1.5,0.4,1.7,0.8,0.3,-,6.84
+Jan Rosenthal,Hannover 96,33,"M(C),FW",13(3),1157,1.8,1.1,2.3,-,0.6,0.7,0.2,-,6.84
+Karim Matmour,Borussia M.Gladbach,34,"M(CR),FW",18(7),1613,1.2,0.9,1.6,-,0.2,0.6,-,-,6.84
+Guy Demel,Hamburger SV,38,D(R),22(4),1980,1.7,1.6,1.2,0.3,1.3,0.5,0.4,-,6.83
+Luiz Gustavo,Hoffenheim,31,"D(C),M(C)",26(1),2090,3.4,2.4,2.8,-,1,0.9,0.1,-,6.83
+Yacine Abdessadki,Freiburg,38,"D(C),M(CR),FW",20(3),1808,2,1,1.9,0.1,0.4,0.9,0.2,-,6.83
+Marcel Schmelzer,Borussia Dortmund,31,"D(CL),M(L)",24(4),2300,2,2.1,1.6,0.2,2.4,1,0.1,-,6.83
+Thomas Hitzlsperger,VfB Stuttgart,37,AM(C),11(1),906,1.4,0.8,1.6,-,0.8,1,0.1,-,6.82
+Christian Eichner,Hoffenheim,36,D(C),22(3),1859,2.6,1.7,1.6,0.2,1.4,0.6,0.4,-,6.82
+Onur Ayik,Werder Bremen,29,AM(LR),0(1),24,2,1,-,-,-,2,-,-,6.82
+Ricardo Clark,Eintracht Frankfurt,36,M(C),3,270,2,2.7,2,-,1.7,0.3,0.3,-,6.82
+Pierre Wome,FC Cologne,40,D(C),11,926,2.3,1.5,1.1,0.2,2,0.7,0.1,1,6.81
+Halil Altintop,Eintracht Frankfurt,36,"AM(C),FW",15,1303,0.5,0.2,0.9,-,0.5,0.1,0.1,-,6.81
+Joel Matip,Schalke 04,27,D(C),17(3),1392,1.9,1.6,2,0.1,0.7,0.7,0.2,-,6.80
+Steven Cherundolo,Hannover 96,40,D(R),23(3),2099,2.3,2.2,1.2,0.6,2.2,0.3,0.1,-,6.80
+Michael Bradley,Borussia M.Gladbach,31,"D(C),M(C)",28(1),2462,2.7,1.6,1.1,0.1,0.6,1.5,0.4,-,6.80
+Constant Djakpa,Hannover 96,32,D(L),20(4),1737,2.1,2.1,1.1,0.3,1,0.5,0.1,1,6.80
+Manuel Neuer,Schalke 04,33,GK,34,3060,-,-,-,-,1.4,0.1,-,-,6.80
+Philipp Bönig,Bochum,39,D(C),10,820,2.1,1.3,1,0.2,1.7,0.9,0.5,-,6.80
+Arnold Bruggink,Hannover 96,41,FW,21(5),1870,0.8,0.6,1.4,-,1.1,0.5,0.1,-,6.80
+Serdar Tasci,VfB Stuttgart,32,D(C),27,2430,2,1.7,1.2,1.2,3.1,0.5,0.4,-,6.80
+Frank Rost,Hamburger SV,46,GK,34,3016,-,-,-,-,1.2,-,-,-,6.80
+Ümit Korkmaz,Eintracht Frankfurt,33,AM(L),10(8),974,1.3,0.5,1.2,0.1,0.1,0.9,0.1,-,6.80
+Makoto Hasebe,Wolfsburg,35,"D(CR),M(CR)",19(5),1592,1.9,1.6,1.2,-,0.5,0.7,0.2,-,6.79
+Christian Schulz,Hannover 96,36,"D(CL),DMC",33,2827,2.5,2.3,2,1.2,4.5,0.6,0.3,-,6.79
+Pavel Krmas,Freiburg,39,D(C),15(2),1347,2.7,2.1,1.6,0.5,3.5,0.4,0.6,-,6.79
+Joris Mathijsen,Hamburger SV,39,D(C),33,2970,1.9,2.1,0.9,1.1,3.3,0.5,0.5,-,6.79
+Youssef Mohamad,FC Cologne,39,DMC,31,2757,1.8,2.1,0.7,1.1,4.9,0.5,0.6,-,6.79
+Gojko Kacar,Hertha Berlin,32,"D(C),M(C)",18(4),1553,2,1.2,2.2,-,1.1,1.2,-,-,6.79
+Andreas Ottl,Nuernberg,34,M(C),17,1515,1.6,1.5,1,0.1,0.9,0.8,0.3,-,6.78
+Isaac Vorsah,Hoffenheim,31,"D(L),DMC",11(5),1015,2.3,3.6,1.3,0.3,1.9,1.1,0.3,-,6.78
+Manuel Schmiedebach,Hannover 96,30,M(C),11(3),938,2.1,1.8,1.5,0.1,0.4,1,0.3,-,6.78
+Arouna Koné,Hannover 96,35,"AM(LR),FW",8,662,0.4,0.1,1.3,-,0.1,-,-,-,6.77
+Papiss Demba Cissé,Freiburg,34,"AM(R),FW",13(3),1187,0.7,0.1,1.2,-,0.4,0.2,0.1,1,6.77
+Danijel Pranjic,Bayern Munich,37,"D(L),M(C)",14(6),1209,1.2,1.1,0.9,-,0.5,0.7,0.2,-,6.77
+Christopher Schorch,FC Cologne,30,D(R),13(4),1168,2.6,1.8,2.2,0.2,2,0.6,0.5,-,6.77
+Peer Kluge,Nuernberg,38,"D(C),M(CR)",17,1419,2.4,1.2,1.8,-,0.5,0.7,0.3,-,6.77
+Christoph Dabrowski,Bochum,41,"D(C),M(CR)",26(3),2269,3.1,2.4,2.5,-,1.5,1.8,0.3,-,6.76
+Eugen Polanski,Mainz 05,33,M(C),14(7),1311,2.2,1.8,2,-,0.7,1,-,-,6.76
+Robert Enke,Hannover 96,41,GK,6,540,-,-,-,-,0.5,-,-,-,6.76
+Mergim Mavraj,Bochum,33,D(C),24(3),2229,2.4,1.9,0.6,0.6,5,0.5,0.6,1,6.76
+Hugo Almeida,Werder Bremen,35,FW,13(13),1347,0.3,0.3,1.2,-,0.3,0.1,-,-,6.75
+Andreas Ivanschitz,Mainz 05,35,AM(CL),24(3),1859,0.9,0.7,1.5,-,0.2,0.7,0.1,-,6.75
+Ricardo Osorio,VfB Stuttgart,39,D(R),6(1),397,1.4,2.6,0.9,0.3,1.4,0.3,-,-,6.75
+Niko Bungert,Mainz 05,32,D(C),21(6),1975,1.8,2.4,1,0.8,3.8,0.4,0.5,-,6.75
+Romeo Castelen,Hamburger SV,36,"AM(R),FW",0(2),31,0.5,-,-,-,-,-,-,-,6.75
+Heiko Butscher,Freiburg,38,"D(C),DMC",29,2595,1.7,1.4,0.7,0.4,3.2,0.6,0.6,-,6.75
+Caio Cesar,Eintracht Frankfurt,33,"AM(C),FW",15(11),1355,0.6,0.6,0.9,-,0.4,0.4,-,-,6.75
+Kevin Pezzoni,FC Cologne,30,M(CR),18(3),1638,1.8,2.5,1.8,-,1.3,0.9,0.4,-,6.74
+Obafemi Martins,Wolfsburg,34,FW,7(9),709,0.3,0.1,0.8,-,0.1,0.2,-,-,6.74
+Zdravko Kuzmanovic,VfB Stuttgart,31,M(C),14(12),1462,0.8,0.5,0.7,-,0.6,0.3,0.1,-,6.73
+Mickaël Tavares,Nuernberg,36,DMC,9(2),783,2.5,0.9,1.8,0.1,0.7,0.8,-,-,6.73
+Dede,Borussia Dortmund,41,D(C),11(5),927,2.4,1.1,1.1,0.1,1.8,0.6,0.3,-,6.73
+Ilkay Gündogan,Nuernberg,28,M(C),19(3),1615,1.5,1.4,1.1,-,0.5,1.4,0.1,-,6.73
+Roberto Hilbert,VfB Stuttgart,34,"D(R),M(R)",12(11),1131,1.4,0.6,1.4,-,0.3,0.4,-,-,6.72
+Faryd Mondragón,FC Cologne,48,GK,32,2880,0.1,-,-,-,0.9,-,-,-,6.72
+André Lenz,Wolfsburg,45,GK,7(1),686,0.1,-,-,-,0.8,0.3,-,-,6.72
+Martin Lanig,VfB Stuttgart,34,M(C),1,46,3,-,1,-,1,-,-,-,6.72
+Florian Kringe,Hertha Berlin,36,M(C),10(2),798,2.1,0.8,1,0.3,0.4,0.4,0.1,-,6.72
+Tim Wiese,Werder Bremen,37,GK,31,2762,-,-,0.1,-,1.1,0.1,-,-,6.71
+Tunay Torun,Hamburger SV,29,M(CLR),12(7),983,1,0.6,2.1,0.1,0.2,0.8,-,-,6.71
+Lukas Podolski,FC Cologne,34,"AM(CLR),FW",27,2360,0.9,0.7,2.8,-,-,0.6,-,-,6.71
+Marcel Schäfer,Wolfsburg,35,"D(L),M(L)",32,2731,2.1,0.7,0.6,0.3,1.4,0.5,0.1,-,6.71
+Jens Lehmann,VfB Stuttgart,49,GK,31,2787,-,0.1,0.1,-,0.9,0.1,-,-,6.71
+Jiri Stajner,Hannover 96,43,"AM(C),FW",26(4),2186,1,0.6,1.7,-,0.3,0.6,0.1,-,6.70
+Eric Maxim Choupo-Moting,Nuernberg,30,"M(CLR),FW",13(12),1419,0.8,0.5,0.8,-,0.4,0.3,0.1,-,6.70
+Bo Svensson,Mainz 05,39,D(C),20(6),1792,1.1,2,0.8,0.7,3,0.4,0.6,-,6.70
+Andrea Barzagli,Wolfsburg,38,D(CR),24,2070,2.1,1.9,1,1.3,4.2,0.8,0.7,-,6.70
+Felipe Santana,Borussia Dortmund,33,"D(C),DMC",13(12),1275,1.8,2.2,0.8,0.4,3,0.4,0.2,1,6.70
+Michal Kadlec,Bayer Leverkusen,34,D(CL),17(6),1703,1.6,1.6,1.6,0.3,1.3,0.6,0.1,-,6.70
+Logan Bailly,Borussia M.Gladbach,33,GK,29,2610,-,-,-,-,1.3,-,-,-,6.70
+Andreas Wolf,Nuernberg,37,"D(CL),DMC",29,2475,2.1,2.8,1.7,1.5,4.7,0.8,0.4,-,6.70
+Fabian Giefer,Bayer Leverkusen,29,GK,3,270,-,-,-,-,0.3,-,-,-,6.70
+Peter Pekarík,Wolfsburg,32,D(LR),10(6),999,2.2,0.8,0.9,0.1,1.3,0.3,0.3,-,6.69
+Christoph Moritz,Schalke 04,29,M(CR),18(10),1680,2,0.7,1.3,-,0.4,1.3,0.1,-,6.69
+Florian Heller,Mainz 05,37,D(R),26(4),2216,2.5,1.6,1.3,0.2,1.2,1.1,0.2,-,6.69
+Mimoun Azaouagh,Bochum,36,AM(C),12(5),1100,1.4,0.8,1.9,-,0.2,1.3,-,-,6.69
+Sascha Bigalke,Hertha Berlin,29,Forward,1,74,-,1,1,-,1,1,-,-,6.69
+Edu,Schalke 04,37,FW,7(6),715,0.7,-,1.1,-,0.2,0.2,0.1,-,6.69
+Markus Steinhöfer,Eintracht Frankfurt,33,D(R),3(2),240,1.2,0.2,0.4,-,-,0.4,0.4,-,6.69
+Milivoje Novakovic,FC Cologne,40,FW,26(4),2266,0.5,0.3,1.5,-,0.7,0.4,0.2,-,6.69
+Cedrick Makiadi,Freiburg,35,M(C),27(6),2260,1.8,0.8,1.5,0.1,0.4,1.1,0.1,-,6.69
+Roman Weidenfeller,Borussia Dortmund,38,GK,30,2634,-,-,-,-,1.1,-,-,-,6.69
+Milos Maric,Bochum,37,AM(CR),13,1116,1.6,2.2,1.3,-,0.5,1.2,0.3,-,6.68
+David Rozehnal,Hamburger SV,38,"D(C),DMC",19(4),1818,1.3,2,1.2,0.7,4.3,0.7,0.8,-,6.68
+Miroslav Karhan,Mainz 05,43,"D(C),DMC",30,2519,2.1,1.6,1.1,-,1,1.1,0.4,-,6.68
+Sofian Chahed,Hannover 96,36,D(R),9(7),954,1.1,1.5,0.8,0.1,0.5,0.6,0.2,-,6.67
+Steve Von Bergen,Hertha Berlin,36,D(C),24(1),2199,2.6,1.9,0.6,1.2,4.2,0.6,0.6,-,6.67
+Mineiro,Schalke 04,43,DMC,5(2),437,2.4,1.1,1.1,-,0.6,1.4,0.4,-,6.66
+Maniche,FC Cologne,41,"D(C),M(C),FW",26,2291,0.9,2,1.5,-,0.3,1.1,0.2,-,6.66
+Fabrice Ehret,FC Cologne,39,"D(L),M(L)",21(8),1887,1.6,0.8,0.9,0.1,0.7,0.3,0.1,-,6.66
+Joel Epalle,Bochum,41,FW,24(3),1799,1.6,0.7,1.3,-,0.1,0.6,0.2,-,6.65
+Florian Fromlowitz,Hannover 96,32,GK,28,2520,-,-,-,-,0.6,-,-,-,6.65
+Fabian Bäcker,Borussia M.Gladbach,29,Forward,0(2),41,-,0.5,2.5,-,-,-,-,-,6.65
+Lars Bender,Bayer Leverkusen,30,"D(R),M(C)",6(14),727,1.5,0.8,0.4,-,0.7,0.2,0.1,-,6.65
+Alexander Madlung,Wolfsburg,36,D(C),26(2),2393,1.4,1.2,1,1.5,4.3,0.4,1.3,1,6.65
+Tobias Weis,Hoffenheim,33,M(C),11(4),970,2.1,1.5,1.4,-,0.2,1.4,0.1,-,6.65
+Patrick Ebert,Hertha Berlin,32,M(CLR),12(4),1152,1.3,0.5,2.6,0.1,0.2,0.8,0.1,-,6.65
+Leon Andreasen,Hannover 96,36,M(CR),7,530,1.1,2.6,3.3,0.1,1.9,0.7,0.3,1,6.65
+Daniel Gygax,Nuernberg,37,M(C),8(2),606,0.9,0.6,0.9,-,0.7,0.2,-,-,6.64
+Luca Toni,Bayern Munich,42,FW,3(1),228,-,0.3,3,-,0.8,-,-,-,6.64
+Julian Schuster,Freiburg,34,"D(C),M(C)",18(10),1622,1.5,1.1,1.5,-,0.6,0.8,0.2,-,6.64
+Oka Nikolov,Eintracht Frankfurt,45,GK,31,2748,0.1,-,-,-,0.9,-,-,1,6.64
+Franco Zuculini,Hoffenheim,28,M(CR),2(5),245,2.1,0.4,2.1,-,0.1,0.7,0.1,-,6.64
+Nemanja Pejcinovic,Hertha Berlin,31,D(CR),16,1440,2.8,1.9,1.4,0.4,2.7,0.9,0.3,-,6.64
+Johannes Flum,Freiburg,31,"D(C),M(C)",22(3),1909,1.6,1,1.2,-,0.7,0.9,0.1,-,6.63
+Marc Pfertzel,Bochum,38,D(R),18,1540,2.6,1.6,1.4,0.3,2,1.5,0.2,-,6.63
+Hao Junmin,Schalke 04,32,M(C),5(3),440,1.5,1.5,1.3,-,0.5,0.5,0.1,-,6.63
+Jan Simak,Mainz 05,40,AM(C),5(3),374,0.6,0.5,0.8,-,0.1,0.5,-,-,6.62
+Karim Ziani,Wolfsburg,36,DMC,5(5),484,1.3,0.4,1.3,-,0.1,0.6,-,-,6.62
+Alexander Baumjohann,Schalke 04,32,M(C),1(10),342,1.4,0.3,0.8,-,-,0.3,-,-,6.62
+Roberto Colautti,Borussia M.Gladbach,37,FW,15(8),1131,0.5,0.3,1.2,-,0.5,0.3,-,-,6.62
+Anatoliy Tymoshchuk,Bayern Munich,40,DMC,11(10),1047,1.9,1.3,0.7,-,0.6,1.6,-,-,6.62
+Jean-Sébastien Jaurès,Borussia M.Gladbach,41,D(CL),14(2),1337,1.6,2.3,1.2,0.4,1.7,0.6,0.2,-,6.62
+Milorad Pekovic,Mainz 05,41,M(C),4(7),510,2.4,1,2,0.1,1,0.9,0.2,-,6.61
+Élson,VfB Stuttgart,37,FW,2(9),446,0.8,0.5,0.8,-,-,-,-,-,6.60
+Jonathan Pitroipa,Hamburger SV,33,"M(LR),FW",7(13),789,0.8,0.4,0.9,-,-,0.5,-,-,6.60
+Dusko Tosic,Werder Bremen,34,D(CL),0(1),17,1,1,-,-,1,-,1,-,6.60
+Levan Kenia,Schalke 04,28,Midfielder,4(6),492,1,0.6,1.3,-,-,0.2,-,-,6.60
+Stefano Celozzi,VfB Stuttgart,30,"D(R),DMC,M(R)",18(3),1528,1.4,1.4,0.6,0.5,0.9,0.5,-,-,6.60
+Filip Daems,Borussia M.Gladbach,40,D(L),18,1531,2.2,1.8,0.8,0.2,2.1,0.4,0.3,-,6.60
+Stanislav Sestak,Bochum,36,"AM(L),FW",28(1),2414,0.9,0.2,1.4,-,0.1,0.7,-,-,6.60
+Mikael Forssell,Hannover 96,38,Forward,2,136,-,-,2,-,0.5,-,-,-,6.60
+Roman Prokoph,Bochum,33,AM(R),11(4),953,1.5,1.7,1.2,-,0.6,1.1,0.1,-,6.59
+Matias Concha,Bochum,39,D(R),18(3),1614,2.1,1.3,0.8,0.4,2.2,0.7,0.2,-,6.59
+Juri Judt,Nuernberg,32,D(R),8(10),898,2,1.3,1.3,0.2,0.9,0.6,0.2,-,6.59
+Jonathan Santana,Wolfsburg,37,DMC,2(5),244,2.1,1.4,0.7,-,1,1.4,0.4,-,6.59
+Vicente Sánchez,Schalke 04,39,"AM(LR),FW",7(7),587,0.6,0.5,1.4,-,0.1,0.4,-,-,6.59
+Felix Bastians,Freiburg,31,D(C),33(1),3016,1.6,1.4,1.4,0.4,3.6,0.5,0.7,1,6.59
+Zlatan Bajramovic,Eintracht Frankfurt,39,M(C),7(4),705,1.7,1.4,1,-,0.3,1.3,0.1,-,6.59
+Ludovic Magnin,VfB Stuttgart,40,D(L),5(1),451,2.3,1.3,1,0.5,1.3,0.8,0.2,-,6.59
+Marcel Maltritz,Bochum,40,D(CL),29,2552,2,1.9,1.1,0.9,5.5,0.8,1,-,6.59
+Paul Freier,Bochum,39,D(C),15(13),1584,1.6,0.6,1.6,-,0.3,0.8,-,-,6.57
+Christian Wetklo,Mainz 05,39,GK,4(1),414,-,0.2,-,-,1.2,-,-,-,6.57
+Christian Eigler,Nuernberg,35,"M(CLR),FW",17(7),1517,1.1,0.7,1.2,-,0.5,0.4,-,-,6.57
+Daniel Imhof,Bochum,41,DMC,6,497,2.7,0.8,1,-,2.5,1.2,0.3,-,6.57
+Peer Kluge,Schalke 04,38,"D(C),M(CR)",13,884,2,1,1.9,-,0.2,1.2,0.1,-,6.57
+Timo Hildebrand,Hoffenheim,40,GK,28,2520,-,-,-,-,0.6,0.1,-,-,6.57
+Daniel Haas,Hoffenheim,35,GK,6,540,-,0.2,-,-,1.2,-,-,-,6.57
+Levan Kobiashvili,Schalke 04,41,D(C),3(1),247,0.8,0.5,1.8,0.3,1.8,1,-,-,6.56
+Tim Borowski,Werder Bremen,39,M(C),20(8),1774,1.3,1,2,-,0.4,0.8,0.1,-,6.55
+Zsolt Löw,Mainz 05,40,D(C),14(1),1168,1.7,1.6,1.3,0.3,2.1,0.6,0.3,-,6.55
+Pascal Bieler,Nuernberg,33,D(L),3,270,1.3,0.7,1,-,1,0.3,1,-,6.55
+Tamás Hajnal,Borussia Dortmund,38,M(C),10(11),1119,1.2,0.5,1.6,-,0.4,0.7,0.2,-,6.55
+David Alaba,Bayern Munich,27,"D(CL),M(C)",2(1),197,2.3,1,0.3,-,1,1,-,-,6.54
+Sebastian Jung,Eintracht Frankfurt,29,D(R),12(2),1100,2.3,1.1,0.6,0.6,1.7,0.3,0.1,-,6.54
+Peter Van der Heyden,Mainz 05,42,D(L),4(3),375,2.1,1.7,1.6,0.6,2.7,1.4,0.4,-,6.54
+Marcus Berg,Hamburger SV,32,FW,16(14),1578,0.7,0.3,2.2,-,0.4,0.3,-,-,6.54
+Rubic Ghasemi-Nobakht,Hannover 96,31,Forward,0(1),45,-,3,1,-,-,-,-,-,6.54
+Sebastian Freis,FC Cologne,34,"M(L),FW",20(11),1837,0.6,0.7,0.7,-,0.3,0.3,0.1,-,6.54
+Tinga,Borussia Dortmund,41,AM(C),7,546,1.9,1,1.1,-,1.1,1.1,0.1,-,6.53
+Mensur Mujdza,Freiburg,35,D(R),9(5),862,1.6,1.2,1.1,0.1,1.4,0.5,0.3,-,6.53
+Daniel Caligiuri,Freiburg,31,"D(R),M(LR),FW",9(7),838,1.4,0.4,1.6,0.1,0.3,0.9,0.2,-,6.53
+Fabian Johnson,Wolfsburg,31,"D(LR),M(CLR)",4(6),493,1.1,1.2,0.8,0.2,1,0.4,-,-,6.53
+Tony Jantschke,Borussia M.Gladbach,29,"D(CR),DMC",2(4),255,2,0.8,0.5,0.2,0.8,0.3,-,-,6.52
+Christoph Spycher,Eintracht Frankfurt,41,D(C),27,2359,1.7,1.1,1.6,0.3,1.3,0.5,0.3,-,6.52
+Selim Teber,Eintracht Frankfurt,38,M(CR),24(5),1939,1.5,1,2.2,-,0.7,0.7,0.1,-,6.52
+Tommy Bechmann,Freiburg,37,FW,10(11),1005,1,0.2,1.1,-,0.1,0.3,-,-,6.52
+Zlatko Dedic,Bochum,34,FW,15(12),1387,0.7,0.4,1.6,-,0.1,0.6,-,-,6.52
+Peter Niemeyer,Werder Bremen,35,"D(C),M(C)",4(7),425,1.5,1.1,1.5,0.1,0.5,0.8,-,-,6.52
+Sebastian Rudy,VfB Stuttgart,29,"D(R),M(CR)",5(8),587,1.1,0.5,0.5,-,0.2,0.2,-,-,6.51
+Diego Klimowicz,Bochum,44,FW,9(6),875,0.3,0.1,2,-,0.3,0.1,0.1,-,6.51
+Edson Braafheid,Bayern Munich,36,D(L),5(4),516,1.3,0.3,1.4,-,0.6,0.2,0.2,-,6.51
+Altin Lala,Hannover 96,43,M(C),3(1),268,2.3,1.3,2,-,0.5,1,0.3,-,6.50
+Rob Friend,Borussia M.Gladbach,38,FW,11(15),1208,0.2,0.1,1.2,-,0.5,0.1,0.2,-,6.50
+René Adler,Bayer Leverkusen,34,GK,31,2790,-,0.1,-,-,1.1,0.2,-,-,6.49
+Filip Trojan,Mainz 05,36,Midfielder,3(2),215,0.6,0.8,1.6,-,0.2,0.4,-,-,6.49
+Aymen Abdennour,Werder Bremen,29,D(C),5(1),384,2,1.2,1.5,0.3,1,1.3,0.3,-,6.48
+Cristian Zaccardo,Wolfsburg,37,D(CR),0(1),3,2,-,-,-,-,-,-,-,6.48
+Chadli Amri,Mainz 05,34,AM(L),6(13),855,0.9,0.5,1.2,-,0.1,0.5,0.1,-,6.48
+Robert Tesche,Hamburger SV,32,M(C),6(10),571,0.7,0.7,0.8,-,0.5,0.6,0.1,-,6.47
+Patrick Herrmann,Borussia M.Gladbach,28,"M(LR),FW",3(10),397,1.4,0.2,0.8,0.1,0.1,0.5,-,-,6.46
+Marc Stein,Hertha Berlin,33,D(C),10(1),775,3.1,1.5,1.3,0.2,1.8,0.5,0.3,-,6.46
+Jonathan Jäger,Freiburg,41,"D(C),M(CR)",20(5),1708,0.9,0.9,0.6,-,0.2,1,-,-,6.46
+Vasileios Pliatsikas,Schalke 04,31,DMC,4(4),379,1.1,0.9,1.3,0.1,1.1,0.6,0.5,-,6.46
+Oliver Barth,Freiburg,39,D(L),12(4),1020,1.1,1.3,0.7,0.3,2.9,0.5,0.7,-,6.46
+Anthar Yahia,Bochum,37,"D(L),DMC",17(1),1593,1.5,1.5,0.7,0.7,4.3,0.8,0.7,-,6.46
+Boris Vukcevic,Hoffenheim,29,"M(CR),FW",6(22),920,1,1,0.9,0.1,0.1,0.8,-,-,6.45
+Dennis Grote,Bochum,32,AM(L),5(5),426,1.2,0.9,1.3,-,0.4,0.2,0.1,-,6.45
+Daniel Jensen,Werder Bremen,40,AM(C),5(8),519,1.3,0.5,1.5,-,0.1,0.8,-,-,6.45
+Julian Schieber,VfB Stuttgart,30,FW,6(13),749,0.2,0.3,0.8,-,0.1,0.2,0.1,-,6.45
+Alexander Stephan,Nuernberg,32,GK,4(1),361,0.2,-,-,-,1.8,0.2,-,-,6.44
+Miroslav Klose,Bayern Munich,41,FW,11(14),1072,0.7,0.3,1.3,-,0.2,0.1,-,-,6.44
+Kevin McKenna,FC Cologne,39,D(L),11(13),1125,1.3,0.7,0.6,0.4,2.5,0.3,0.2,-,6.44
+Clemens Walch,VfB Stuttgart,31,M(R),1(1),113,1,1,-,-,-,0.5,-,-,6.44
+Maximilian Nicu,Hertha Berlin,36,"M(C),FW",12(3),1026,1.8,0.9,0.5,-,0.5,0.7,0.1,-,6.44
+Jan Durica,Hannover 96,37,D(C),8(1),727,1.7,2.8,1.3,1,3.3,1,0.3,-,6.43
+Ashkan Dejagah,Wolfsburg,32,M(LR),4(20),648,0.9,0.6,0.5,-,-,0.4,-,-,6.43
+Nikos Liberopoulos,Eintracht Frankfurt,43,FW,14(7),1186,0.3,0.1,1.1,-,0.2,-,-,-,6.43
+Håvard Nordtveit,Nuernberg,29,"D(CR),DMC",14(5),1294,1.8,1.6,1.1,0.2,1.7,0.7,0.2,-,6.43
+Damien Le Tallec,Borussia Dortmund,29,"D(C),DMC",1(3),195,1,1.5,2.3,-,0.8,1,-,-,6.42
+Jan Simunek,Wolfsburg,32,D(L),4(1),297,2.2,1.4,1,0.6,2.4,1,0.6,-,6.42
+Cha Du-Ri,Freiburg,38,D(R),19(4),1755,0.8,1,0.9,0.2,1,0.5,0.1,1,6.42
+Mike Hanke,Hannover 96,35,FW,5(13),665,0.6,0.1,0.7,-,0.1,0.2,-,-,6.42
+Sebastian Prödl,Werder Bremen,32,D(C),5(4),488,2,0.9,0.8,0.3,0.7,0.3,0.7,-,6.42
+Gerald Asamoah,Schalke 04,40,FW,2(6),226,0.3,0.1,1.3,-,0.4,0.1,0.1,-,6.42
+Mario Gavranovic,Schalke 04,29,FW,0(2),76,0.5,-,0.5,-,-,-,-,-,6.42
+Dario Vidosic,Nuernberg,32,AM(C),4(5),462,1,0.6,0.4,-,0.3,0.2,0.1,-,6.41
+Daniel Gunkel,Mainz 05,39,Forward,0(4),100,0.3,-,0.8,-,-,0.3,-,-,6.41
+Angelos Charisteas,Nuernberg,39,FW,8(11),876,0.6,0.2,1.1,-,0.4,0.1,0.1,-,6.41
+Konstantin Rausch,Hannover 96,29,"D(L),M(L)",20(6),1702,1.3,1.5,0.3,0.5,0.8,0.8,0.1,-,6.41
+Lewis Holtby,Schalke 04,28,M(CLR),4(5),276,1.1,0.4,0.6,0.1,-,0.4,-,-,6.41
+Ádám Szalai,Mainz 05,31,FW,8(7),791,0.5,0.5,1.8,-,0.1,0.3,0.1,-,6.41
+Carsten Cullmann,FC Cologne,43,Defender,1(2),136,1.3,1.3,1,0.7,3.3,0.7,-,-,6.41
+Jan Morávek,Schalke 04,29,M(C),0(7),112,0.9,0.7,0.7,-,0.3,1.1,0.1,-,6.41
+Marek Mintál,Nuernberg,41,"AM(C),FW",15(7),1346,0.6,0.5,0.4,-,0.3,0.5,-,-,6.40
+Andreas Ottl,Bayern Munich,34,M(C),1(3),149,1.5,0.8,1,-,0.3,0.8,-,-,6.40
+Shinji Ono,Bochum,39,AM(C),7(2),570,1.7,1.1,1.4,-,0.3,0.8,0.1,-,6.40
+Christian Vander,Werder Bremen,38,Goalkeeper,1(1),119,-,-,-,-,0.5,-,-,-,6.40
+Valdet Rama,Hannover 96,31,AM(L),4(11),513,0.6,0.3,0.9,-,0.3,0.5,0.1,-,6.39
+Nikola Petkovic,Eintracht Frankfurt,33,D(C),0(2),46,1,-,-,-,2,0.5,-,-,6.39
+Vahid Hashemian,Bochum,42,FW,5(19),595,0.4,0.3,0.5,-,0.1,0.1,-,-,6.39
+Halil Altintop,Schalke 04,36,"AM(C),FW",2(4),292,0.3,-,0.7,-,-,0.2,-,-,6.39
+Leon Balogun,Hannover 96,31,D(CR),1(1),127,2.5,2,1,0.5,2.5,0.5,-,-,6.39
+Marcel Meeuwis,Borussia M.Gladbach,38,M(C),14(4),1217,1.4,1.6,1.3,-,0.6,1.1,0.3,-,6.38
+Alexander Baumjohann,Bayern Munich,32,M(C),1(2),91,-,-,-,-,-,-,-,-,6.37
+Cesar,Hertha Berlin,39,midfielder,0(3),127,2,0.7,1.3,-,-,0.3,0.3,-,6.37
+Eke Uzoma,Freiburg,29,Defender,1(3),131,2,0.5,0.8,-,0.8,1.5,-,-,6.35
+Michael Rensing,Bayern Munich,35,GK,3(1),315,-,-,-,0.3,0.8,-,-,-,6.34
+Hamed Namouchi,Freiburg,35,Midfielder,1,90,-,1,1,-,-,1,-,-,6.34
+Pál Dárdai,Hertha Berlin,43,M(C),10(7),947,1.6,1.4,1.1,-,0.2,0.5,0.2,-,6.33
+José Sosa,Bayern Munich,34,M(CLR),2(1),126,1.3,-,0.7,-,-,1,-,-,6.33
+Hamit Altintop,Bayern Munich,36,M(CR),7(8),541,0.7,0.2,0.5,-,0.1,0.5,0.2,-,6.32
+Jukka Raitala,Hoffenheim,30,"D(CLR),M(L)",1(1),97,3,-,1,-,1,0.5,-,-,6.31
+Juvhel Tsoumou,Eintracht Frankfurt,28,Forward,0(4),11,0.3,0.3,-,-,0.3,-,-,-,6.31
+Pascal Groß,Hoffenheim,28,M(C),0(1),11,1,-,-,-,-,-,-,-,6.31
+Paul Stalteri,Borussia M.Gladbach,41,Defender,2(1),197,3,0.3,0.7,-,1,0.7,1,-,6.31
+Wellington,Hoffenheim,31,Forward,0(1),16,1,-,-,-,-,-,-,-,6.31
+Breno,Bayern Munich,29,D(C),1(2),134,1.7,-,1,0.7,1,0.3,-,-,6.31
+Patrick Helmes,Bayer Leverkusen,35,"AM(L),FW",2(10),322,-,0.1,0.3,-,-,0.3,-,-,6.30
+Hans Sarpei,Bayer Leverkusen,43,D(C),2(10),439,1.1,0.7,0.5,0.5,0.8,0.3,-,-,6.30
+Manuel Gulde,Hoffenheim,28,D(C),2(4),257,1.5,1,0.3,0.2,0.8,0.7,0.3,-,6.29
+Kai Herdling,Hoffenheim,35,AM(L),0(1),17,-,-,2,-,-,-,-,-,6.29
+Wilfried Sanou,FC Cologne,35,Forward,1(5),155,0.5,0.7,0.2,-,0.5,0.3,-,-,6.29
+Ömer Toprak,Freiburg,29,D(C),10(4),964,1.1,0.5,1.1,0.5,2.8,0.4,0.1,-,6.28
+Andreas Johansson,Bochum,37,D(C),7(9),850,1.3,1.3,0.9,-,0.6,1.1,0.1,1,6.28
+Bastian Reinhardt,Hamburger SV,43,Defender,0(1),16,1,-,-,-,-,-,-,-,6.28
+Cenk Tosun,Eintracht Frankfurt,28,FW,0(1),16,-,-,-,-,-,-,-,-,6.28
+Wolfgang Hesl,Hamburger SV,33,GK,0(1),45,-,-,-,-,1,-,-,-,6.28
+Yildiray Bastürk,VfB Stuttgart,40,Midfielder,0(1),9,1,1,-,-,-,-,-,-,6.28
+Jan Simak,VfB Stuttgart,40,AM(C),1(1),80,2,0.5,1.5,-,-,0.5,-,-,6.28
+Stefan Reisinger,Freiburg,37,"AM(R),FW",9(16),969,0.3,-,0.6,-,-,0.1,-,-,6.28
+Martin Fenin,Eintracht Frankfurt,32,Forward,2(15),480,0.2,0.1,1.1,-,-,0.1,-,-,6.26
+Jacek Krzynówek,Hannover 96,43,Midfielder,3(8),302,0.2,0.5,0.3,0.1,-,0.2,-,-,6.25
+Marco Stiepermann,Borussia Dortmund,28,"D(L),M(CLR)",0(3),29,-,-,1,-,-,-,-,-,6.25
+Jahmir Hyka,Mainz 05,31,AM(CLR),2(6),199,0.3,0.3,0.6,-,-,0.8,-,-,6.25
+Manasseh Ishiaku,FC Cologne,36,FW,6(9),623,0.3,0.5,2.1,-,0.8,0.2,0.1,-,6.25
+Lukas Sinkiewicz,Bayer Leverkusen,33,Midfielder,1(6),125,0.1,0.9,0.6,0.7,1.7,0.4,-,-,6.25
+Danny Williams,Freiburg,30,M(C),5(1),419,2,0.2,1,0.2,0.8,0.7,0.2,-,6.24
+Sebastian Schindzielorz,Wolfsburg,40,Midfielder,1(1),64,0.5,1,1,-,0.5,-,-,-,6.24
+Prince Tagoe,Hoffenheim,32,Forward,1(11),308,0.1,0.1,0.8,-,0.1,0.1,-,-,6.24
+Dimitar Rangelov,Borussia Dortmund,36,FW,1(9),213,0.2,0.1,1.1,-,-,0.2,-,-,6.24
+Dragan Bogavac,Mainz 05,39,Forward,0(1),45,-,-,-,-,-,-,-,-,6.23
+Sören Bertram,Hamburger SV,28,"AM(CL),FW",0(2),29,1,-,-,-,-,0.5,-,-,6.23
+Oliver Neuville,Borussia M.Gladbach,46,Forward,1(11),250,0.4,0.2,0.2,-,-,0.1,-,-,6.22
+Tolgay Arslan,Hamburger SV,28,M(C),2(3),162,0.8,0.4,0.8,-,-,0.4,-,-,6.22
+Jan Zimmermann,Eintracht Frankfurt,34,GK,0(1),45,-,-,1,-,-,-,-,-,6.22
+Jaouhar Mnari,Nuernberg,42,Midfielder,3,235,3,2.7,2,-,1.7,1.3,-,-,6.22
+Valeri Domovchiyski,Hertha Berlin,32,Forward,4(12),422,0.3,0.1,0.9,-,-,0.2,0.1,-,6.22
+Mario Eggimann,Hannover 96,38,D(C),13(7),1186,0.9,1.6,0.7,1,3.3,0.3,0.6,1,6.22
+Sven Ulreich,VfB Stuttgart,30,GK,3(1),271,-,0.3,-,-,0.8,-,-,-,6.22
+Marcel Heller,Eintracht Frankfurt,33,M(LR),2(7),260,0.7,0.1,0.1,-,-,0.3,0.1,-,6.20
+Patrick Fabian,Bochum,31,D(C),1,55,1,2,4,-,-,-,1,-,6.20
+Srdjan Baljak,Mainz 05,40,Forward,1(3),144,0.5,0.5,0.8,-,-,-,-,-,6.19
+Assimiou Touré,Bayer Leverkusen,31,Defender,0(1),22,1,-,-,-,2,-,-,-,6.19
+Said Husejinovic,Werder Bremen,31,Midfielder,0(3),27,0.7,-,0.3,-,-,0.3,-,-,6.19
+Rasmus Bengtsson,Hertha Berlin,33,D(C),3(3),309,2,0.8,0.8,0.5,1.8,0.3,0.2,-,6.19
+Kaká,Hertha Berlin,38,D(C),2,180,2.5,1,2,0.5,4.5,1.5,0.5,1,6.19
+Christoph Janker,Hertha Berlin,34,D(C),8(7),703,1.1,1.1,0.6,0.4,1.4,0.7,0.2,-,6.18
+Markus Feulner,Borussia Dortmund,37,"D(LR),M(CR)",1(8),143,0.8,-,1,-,-,-,0.1,-,6.18
+Julian Koch,Borussia Dortmund,28,"D(R),DMC",0(2),17,1,-,-,-,-,-,-,-,6.18
+Mickaël Tavares,Hamburger SV,36,DMC,0(3),30,0.7,-,0.7,-,0.3,0.3,-,-,6.17
+Sal Zizzo,Hannover 96,32,"D(CR),M(LR)",0(1),14,-,-,-,-,-,-,-,-,6.16
+Markus Rosenberg,Werder Bremen,36,FW,3(14),439,0.4,0.2,1,0.1,0.1,0.1,-,-,6.16
+Jan Schlaudraff,Hannover 96,35,"M(CR),FW",5(5),520,0.3,0.1,0.8,-,0.1,0.2,-,-,6.16
+Thomas Broich,Nuernberg,38,Midfielder,2(5),253,0.7,0.3,0.4,-,0.4,0.9,-,-,6.15
+Jaroslaw Lindner,Hannover 96,31,Midfielder,0(1),21,-,-,-,-,-,-,-,-,6.14
+Artur Wichniarek,Hertha Berlin,42,AM(L),9(10),849,0.3,0.1,0.9,-,0.1,0.1,-,-,6.14
+Roman Neustädter,Borussia M.Gladbach,31,"D(C),M(C)",0(2),8,0.5,-,-,-,-,-,-,-,6.14
+Adriano Grimaldi,Mainz 05,28,Forward,0(6),60,-,0.2,0.2,-,0.2,0.2,-,-,6.13
+Thomas Kahlenberg,Wolfsburg,36,M(C),3(9),246,0.4,0.2,0.4,-,0.2,0.3,-,-,6.13
+Per Nilsson,Hoffenheim,36,D(C),5(3),419,1.4,1,1,0.5,1.6,0.4,-,-,6.13
+Daniel Brosinski,FC Cologne,30,"D(LR),M(LR)",0(9),122,0.1,0.1,0.2,-,-,0.2,-,-,6.12
+Marco Terrazzino,Hoffenheim,28,"AM(CL),FW",0(8),87,0.1,0.1,0.5,-,-,0.4,-,-,6.11
+Theofanis Gekas,Bayer Leverkusen,39,FW,1(5),124,-,0.3,-,-,-,0.3,-,-,6.11
+Marc Ziegler,Borussia Dortmund,43,Goalkeeper,4(1),428,-,-,-,-,1.4,-,-,-,6.10
+Adam Jabiri,Hoffenheim,35,Forward,0(1),20,-,-,-,-,-,1,-,-,6.10
+Marcel Titsch Rivero,Eintracht Frankfurt,29,DMC,0(1),6,-,-,-,-,-,-,1,-,6.10
+Thomas Zdebel,Bayer Leverkusen,46,Midfielder,0(8),46,0.3,0.1,-,-,0.1,0.1,-,-,6.10
+Mario Götze,Borussia Dortmund,27,"M(CLR),FW",0(5),41,0.6,0.2,0.4,-,-,-,-,-,6.08
+Sebastian Zielinsky,FC Cologne,31,Forward,0(2),11,-,-,-,-,-,-,-,-,6.08
+Daniel Fernandes,Bochum,35,Goalkeeper,1,90,-,-,-,-,-,-,-,-,6.07
+Andreas Ludwig,Hoffenheim,28,M(C),0(1),45,1,-,1,-,-,-,-,-,6.06
+Christoph Preuß,Eintracht Frankfurt,37,Midfielder,0(3),42,0.3,-,-,-,-,-,-,-,6.06
+David Targamadze,Freiburg,29,Midfielder,0(2),35,0.5,-,-,-,-,-,-,-,6.06
+Thomas Kleine,Borussia M.Gladbach,41,D(C),2(12),230,0.2,0.1,0.1,-,0.9,-,0.3,-,6.05
+Marcelo Moreno Martins,Werder Bremen,32,FW,0(5),58,-,-,0.4,-,-,-,-,-,6.04
+Félix Borja,Mainz 05,36,FW,0(1),6,-,-,-,-,-,-,-,-,6.04
+Andreas Glockner,Freiburg,31,Midfielder,0(2),19,-,-,-,-,-,-,-,-,6.03
+Thanos Petsos,Bayer Leverkusen,28,M(C),0(1),11,-,-,-,-,-,-,-,-,6.03
+Isaac Boakye,Nuernberg,37,FW,4(5),304,0.1,0.1,0.4,-,0.2,0.1,-,-,6.03
+Eugen Gopko,Mainz 05,28,Defender,0(1),33,2,-,1,-,1,2,-,-,6.02
+Maximilian Beister,Hamburger SV,28,"AM(LR),FW",0(2),9,-,-,-,0.5,-,0.5,-,-,6.01
+Tore Reginiussen,Schalke 04,33,D(C),0(1),18,-,-,1,-,-,-,-,-,6.01
+Besart Ibraimi,Schalke 04,32,Forward,0(2),42,-,-,1,-,-,-,-,-,6.00
+Daniel Baier,Wolfsburg,35,M(C),0(1),1,-,-,-,-,-,-,-,-,6.00
+Lubos Hanzel,Schalke 04,32,Defender,0(1),1,1,-,-,-,-,-,-,-,6.00
+Marcos Álvarez,Eintracht Frankfurt,27,Forward,0(1),4,-,-,-,-,-,-,-,-,6.00
+Uwe Hünemeier,Borussia Dortmund,33,D(C),0(1),1,-,-,-,-,-,-,-,-,6.00
+Henrik Ernst,Hannover 96,32,Midfielder,0(2),18,-,-,-,-,-,-,-,-,5.99
+Oguzhan Kefkir,Bochum,27,Midfielder,0(1),11,-,-,-,-,-,-,-,-,5.99
+Reinhold Yabo,FC Cologne,27,"M(C),FW",0(1),1,-,-,-,-,-,1,-,-,5.99
+Alexander Esswein,Wolfsburg,29,"AM(LR),FW",0(4),11,-,-,0.3,-,-,-,-,-,5.97
+Florian Büchler,Hannover 96,30,Forward,0(1),2,-,-,-,-,-,-,-,-,5.97
+Matthew Spiranovic,Nuernberg,31,D(C),1,90,-,1,2,-,5,-,2,-,5.96
+Shqipon Bektashi,Freiburg,28,Forward,0(1),8,-,-,-,-,-,1,-,-,5.95
+Moses Lamidi,Borussia M.Gladbach,31,Forward,1(2),86,-,0.3,1.3,-,-,-,-,-,5.95
+Marvin Matip,FC Cologne,33,D(C),0(4),36,-,-,-,-,0.8,-,-,1,5.91
+Ralf Fährmann,Eintracht Frankfurt,30,GK,3,270,0.3,-,-,-,-,0.3,-,-,5.85
+Lennart Hartmann,Hertha Berlin,28,Midfielder,1(1),101,0.5,-,0.5,-,-,0.5,-,-,5.81
+Timo Ochs,Hertha Berlin,37,Goalkeeper,2,123,-,-,-,-,-,-,-,-,5.80
+Mirkan Aydin,Bochum,31,Forward,0(1),28,-,-,1,-,-,-,-,-,5.78
+Sascha Burchert,Hertha Berlin,29,GK,2(1),237,0.3,-,-,-,2,-,-,-,5.59
+Manuel Salz,Freiburg,33,Goalkeeper,3,270,-,-,0.3,-,0.3,-,-,-,5.20
