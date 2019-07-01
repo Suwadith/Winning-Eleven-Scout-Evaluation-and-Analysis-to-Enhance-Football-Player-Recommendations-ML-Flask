@@ -1,0 +1,583 @@
+Name,Team,Age,Position,Apps,Minutes,Tackles per game,Interceptions per game,Fouls per game,Offsides per game,Clearances per game,Dribbled past per game,Outfield blocks per game,Own goals,Rating
+Luca Crosta,Cagliari,21,Goalkeeper,1,90,-,-,1,-,2,-,-,-,8.32
+Edin Dzeko,Roma,33,FW,33(4),3056,0.3,0.3,1.4,-,0.9,0.2,0.1,-,7.85
+Dries Mertens,Napoli,32,"AM(CLR),FW",28(7),2566,0.7,0.2,1.2,-,0.3,0.4,0.1,-,7.76
+Alejandro Gómez,Atalanta,31,"M(CL),FW",37,3140,0.7,0.7,1,-,0.2,0.8,-,-,7.75
+Lorenzo Insigne,Napoli,28,"AM(CL),FW",35(2),2935,1,0.7,0.2,-,0.1,0.9,-,-,7.67
+Marcos Alonso,Fiorentina,28,"D(CL),M(L)",2,180,1.5,1,1.5,0.5,7.5,-,0.5,-,7.66
+Alex Sandro,Juventus,28,"D(L),M(L)",25(2),2310,2.3,2.1,1.6,0.2,2,0.6,0.1,1,7.63
+Felipe Anderson,Lazio,26,"M(CLR),FW",33(3),2919,2.8,1.5,1.3,-,0.4,1.4,-,-,7.62
+Andrea Belotti,Torino,25,FW,34(1),3071,0.9,0.3,2.4,-,0.9,0.6,0.2,-,7.58
+Federico Fazio,Roma,32,D(C),35(2),3117,1.5,2.6,0.7,0.9,7.2,0.3,0.8,-,7.50
+Giacomo Bonaventura,AC Milan,29,M(CLR),19,1574,1.1,1.2,0.8,0.1,0.9,1.2,0.1,-,7.50
+Gonzalo Higuaín,Juventus,31,FW,32(6),2968,0.5,0.2,0.6,-,0.4,0.7,0.1,-,7.50
+Mohamed Salah,Roma,27,"AM(CLR),FW",29(2),2487,0.8,0.4,0.9,-,0.2,0.5,-,-,7.48
+Paulo Dybala,Juventus,25,"AM(CR),FW",26(5),2154,0.5,0.7,0.7,-,-,0.6,0.1,-,7.46
+José Callejón,Napoli,32,M(LR),37,3149,1.1,0.8,0.9,-,0.7,0.8,-,-,7.42
+Radja Nainggolan,Roma,31,M(C),35(2),3044,1.8,1,1.2,-,0.7,0.5,0.1,-,7.37
+Emerson,Roma,24,"D(L),M(L)",23(2),1966,1.8,1.8,0.5,0.2,2,0.3,0.1,-,7.37
+Marek Hamsik,Napoli,31,AM(C),37(1),3050,0.9,0.4,0.4,-,0.7,0.7,0.1,-,7.37
+Senad Lulic,Lazio,33,"D(L),M(CL)",29(2),2492,2.4,1.5,1.5,0.1,1,1.5,0.1,-,7.32
+Miralem Pjanic,Juventus,29,M(C),25(5),2173,1.3,1.1,0.9,-,0.3,1.2,0.1,-,7.31
+Gerard Deulofeu,AC Milan,25,"AM(LR),FW",16(1),1463,0.9,0.6,0.9,-,0.1,0.9,-,-,7.30
+Mauro Icardi,Inter,26,FW,34,3029,0.3,0.1,0.8,-,1,0.2,0.1,1,7.30
+Sergej Milinkovic-Savic,Lazio,24,AM(C),31(3),2734,2.1,1.1,2,-,1.1,1.5,0.2,-,7.30
+Kevin Strootman,Roma,29,DMC,31(2),2789,2.7,1.7,1.7,0.1,0.8,1.4,0.2,-,7.29
+Mattia Caldara,Atalanta,25,D(C),30,2656,1.6,3.4,1.3,0.4,5.2,0.3,0.8,-,7.28
+Ivan Perisic,Inter,30,AM(CLR),31(5),2757,1.3,1,0.7,-,0.7,1.1,0.1,-,7.28
+Dani Alves,Juventus,36,"D(R),M(CR)",15(4),1347,2.5,1.5,1.5,0.2,0.7,1,-,-,7.28
+Roberto Gagliardini,Inter,25,DMC,18,1576,2.4,1.7,1.7,-,1.3,1.2,0.4,-,7.27
+Domenico Berardi,Sassuolo,24,"AM(R),FW",20(1),1739,1.7,1.2,2.3,-,0.2,2.3,-,-,7.27
+Ciro Immobile,Lazio,29,FW,35(1),3124,0.5,0.2,1.1,-,0.4,0.4,-,-,7.26
+Jorginho,Napoli,27,DMC,27,2148,2.3,2,1,-,0.6,1.3,0.2,-,7.24
+Danilo Avelar,Torino,30,"D(L),M(L)",3,263,4,2,1,0.3,3.7,0.7,-,-,7.23
+Samir,Udinese,24,D(CL),21,1784,2.5,2,1,0.5,3.8,0.3,0.2,-,7.23
+Cesare Bovo,Torino,36,D(C),4,360,1.5,2.3,1.3,0.5,8.8,0.8,1,-,7.23
+Lucas Biglia,Lazio,33,DMC,28(1),2279,3.2,2,1.6,-,0.6,1.6,0.3,-,7.22
+Kalidou Koulibaly,Napoli,28,D(C),28,2472,2,2.3,1.5,0.7,4.1,0.4,1,-,7.22
+Alessandro Florenzi,Roma,28,"D(R),M(CLR)",8(1),750,1.6,2,1,0.4,2.2,0.8,0.2,-,7.21
+Ivan Strinic,Napoli,31,D(L),12,1037,2.4,1.8,1,0.4,1.6,0.4,0.4,-,7.21
+Suso,AC Milan,25,"AM(CLR),FW",33(1),2820,1.1,0.2,1.2,-,0.1,1,-,-,7.21
+Adem Ljajic,Torino,27,"AM(CLR),FW",30(3),2521,0.4,0.6,0.3,-,0.5,0.4,-,-,7.18
+Keita,Lazio,24,"AM(LR),FW",21(10),1932,0.5,0.1,0.6,-,-,0.3,-,-,7.18
+Francesco Acerbi,Sassuolo,31,D(C),38,3420,1.5,2.7,0.4,1,6.2,0.2,1,-,7.18
+Miranda,Inter,34,D(C),32,2880,2.5,2.4,1.7,0.6,4.4,0.6,0.6,-,7.16
+Éver Banega,Inter,31,M(C),20(8),1559,1.5,0.5,0.6,-,0.1,0.7,-,-,7.16
+Diego Perotti,Roma,30,"M(CLR),FW",20(12),1750,1.3,0.6,0.5,-,0.2,0.8,-,-,7.16
+Francesco Magnanelli,Sassuolo,34,DMC,14(1),1193,2.8,2.6,1.7,0.1,1.1,1.3,0.7,-,7.15
+Medhi Benatia,Juventus,32,D(C),14(1),1183,2.1,2.5,1.5,0.4,3.7,0.3,0.6,-,7.14
+Remo Freuler,Atalanta,27,DMC,29(4),2608,2.1,1.9,1.5,-,1,1.5,0.2,-,7.14
+Marcelo Brozovic,Inter,26,M(CR),20(3),1738,2.3,1.2,1,-,0.7,2.2,0.1,-,7.14
+Lucas Castro,Chievo,30,AM(CLR),33,2768,2.3,2,1.6,-,0.9,1.5,0.1,-,7.13
+Daniele Rugani,Juventus,24,D(C),11(4),1077,1.3,1.5,1,0.2,3.7,0.1,0.3,-,7.13
+Mirko Valdifiori,Napoli,33,DMC,1,90,3,1,-,-,-,-,-,-,7.13
+Giorgio Chiellini,Juventus,34,D(C),20(1),1638,1.8,1.7,1.2,0.2,4.7,0.2,0.7,-,7.12
+Leandro Paredes,Roma,25,DMC,15(12),1469,1.8,1.4,0.9,-,0.7,1,0.2,-,7.12
+Juan Cuadrado,Juventus,31,"D(R),M(CLR),FW",21(9),2099,1.6,0.9,1.3,0.1,0.5,0.9,-,-,7.12
+Andrea Conti,Atalanta,25,"D(R),M(R)",31(2),2668,2,2.3,1.4,0.2,1.6,1.1,0.2,-,7.11
+Andrea Masiello,Atalanta,33,D(CR),34(1),2930,1.3,2.6,1.1,0.5,5,0.7,0.5,-,7.11
+Antonio Candreva,Inter,32,M(CLR),36(2),3022,0.7,0.5,0.3,0.1,0.4,0.7,-,-,7.11
+Kostas Manolas,Roma,28,D(C),32(1),2780,1.2,2,1.1,0.5,5.3,0.6,1.1,-,7.09
+Davide Santon,Inter,28,D(LR),11(3),1018,1.7,2.6,0.9,0.1,1.5,0.4,0.1,-,7.09
+Danilo D'Ambrosio,Inter,30,"D(CLR),M(LR)",32,2831,2.4,2,2.2,0.2,1.9,0.5,0.3,-,7.09
+Kwadwo Asamoah,Juventus,30,"D(L),M(CL)",16(2),1470,1.7,1.4,0.7,0.1,1.3,0.4,0.1,-,7.08
+Daniele De Rossi,Roma,35,"D(C),M(C)",27(4),2346,2,2,0.7,-,1.1,1.1,0.5,-,7.07
+Rafael Tolói,Atalanta,28,D(C),31(1),2722,2.8,3.3,1.5,0.3,4.2,1.3,0.3,-,7.07
+Marco Parolo,Lazio,34,M(C),34,2980,2.9,1.8,1.7,0.1,1.7,1.2,0.4,-,7.06
+Vlad Chiriches,Napoli,29,D(CR),13(1),1124,1.1,1.3,0.4,0.6,2.4,0.3,0.7,-,7.06
+Nikola Maksimovic,Napoli,27,"D(CR),M(R)",7(1),677,1.6,1.4,1.1,0.8,3.4,0.4,1.9,-,7.06
+Hernanes,Juventus,34,M(C),8(2),723,2.1,1.2,1.9,-,2.1,0.5,0.3,-,7.05
+Gianluigi Donnarumma,AC Milan,20,GK,38,3420,-,0.1,-,-,1.1,-,-,-,7.05
+Stefan de Vrij,Lazio,27,D(C),27,2273,1.9,2.2,0.8,0.3,4.1,0.6,0.5,-,7.05
+Geoffrey Kondogbia,Inter,26,DMC,20(4),1716,2.6,1.5,1.8,-,0.6,1.7,0.1,-,7.04
+Faouzi Ghoulam,Napoli,28,D(L),26(3),2379,1,1,0.6,0.3,1.7,0.3,0.2,-,7.04
+Valter Birsa,Chievo,32,"M(CLR),FW",34(1),2786,1.2,0.7,1,-,0.7,1.5,0.1,-,7.04
+Luis Muriel,Sampdoria,28,"AM(CL),FW",25(6),2257,0.8,0.1,1,-,0.2,0.5,-,-,7.03
+Panagiotis Tachtsidis,Cagliari,28,DMC,24(2),2140,3.3,2.3,1.6,-,1.4,2.2,0.5,-,7.03
+Bruno Peres,Roma,29,"D(LR),M(LR)",24(6),2225,1.2,1.3,0.7,0.2,1.1,1,0.2,-,7.03
+Iago Falque,Torino,29,"AM(CLR),FW",31(4),2533,0.9,0.9,0.6,-,0.5,1,-,-,7.03
+Mario Mandzukic,Juventus,33,"M(L),FW",28(6),2488,1.1,0.8,1.3,-,0.9,0.6,0.2,-,7.03
+Davide Astori,Fiorentina,32,D(C),33,2967,1.4,2.2,1.1,0.8,4.7,0.4,0.7,-,7.03
+Andrea Fulignati,Palermo,24,GK,9,810,-,-,-,-,1.7,-,-,-,7.03
+Sami Khedira,Juventus,32,M(C),31,2548,1.4,0.9,0.4,-,0.8,0.5,0.2,-,7.02
+Borja Valero,Fiorentina,34,M(CL),30(1),2682,1.1,0.8,0.5,-,1,1,0.1,-,7.02
+Lorenzo Tonelli,Napoli,29,D(C),3,270,2,0.3,2,1,3.7,0.3,0.3,-,7.02
+Federico Bernardeschi,Fiorentina,25,"M(CLR),FW",27(5),2311,0.4,0.7,1,-,0.3,0.4,-,-,7.02
+Rafael,Cagliari,37,GK,19(2),1802,-,-,-,-,1.3,-,-,-,7.01
+Andrea Petagna,Atalanta,24,FW,31(3),2626,0.2,-,1.7,-,0.5,0.2,0.1,-,7.00
+Lukasz Skorupski,Empoli,28,GK,35,3150,-,0.1,0.1,-,0.8,0.1,-,1,7.00
+Simone Verdi,Bologna,26,"AM(CLR),FW",25(3),2126,1.2,0.5,1.2,-,0.3,0.8,-,-,7.00
+João Pedro,Cagliari,27,"AM(C),FW",17(5),1460,1.1,0.6,1.6,-,0.8,0.8,0.1,-,6.99
+Wojciech Szczesny,Roma,29,GK,38,3420,-,-,-,-,0.6,-,-,-,6.99
+Davide Di Gennaro,Cagliari,31,AM(C),17(3),1436,1.5,1.3,0.7,-,0.3,1.4,0.3,-,6.99
+Seko Fofana,Udinese,24,M(C),21(1),1824,1,1.4,1.2,-,0.2,1,0.2,-,6.98
+Lucas Torreira,Sampdoria,23,DMC,35,3049,2.8,2.5,1.6,-,1,1.6,0.2,-,6.98
+Davide Calabria,AC Milan,22,"D(LR),M(R)",11(1),988,3.3,1.8,1.2,0.5,2.1,1.3,0.3,-,6.98
+Matías Vecino,Fiorentina,27,M(C),26(5),2351,2,0.9,1.9,-,1.1,1,0.2,-,6.98
+Blerim Dzemaili,Bologna,33,M(C),29(2),2584,2.2,1.1,1.1,0.1,0.7,1.5,0.2,-,6.98
+Piotr Zielinski,Napoli,25,AM(CL),18(18),1850,1,0.5,0.6,-,0.2,0.5,-,-,6.98
+João Mário,Inter,26,M(CLR),22(8),2005,1,1,1.1,-,0.2,0.8,0.1,-,6.98
+Omar El Kaddouri,Empoli,28,AM(CL),15,1251,1.7,0.7,2.1,-,0.5,0.5,0.1,-,6.97
+Leonardo Spinazzola,Atalanta,26,"D(L),M(L)",28(2),2501,0.9,1,0.7,0.1,1,0.4,0.1,1,6.97
+Raúl Albiol,Napoli,33,D(C),25(1),2297,1.3,0.8,0.9,0.5,4.7,0.6,0.5,-,6.95
+Bryan Cristante,Atalanta,24,M(C),7(5),663,1.9,0.3,0.9,-,0.6,1,0.1,-,6.95
+Luca Lezzerini,Fiorentina,24,Goalkeeper,0(1),50,-,-,-,-,-,-,-,-,6.95
+Tomás Rincón,Genoa,31,M(CR),16,1394,1.9,1.2,2.5,-,1.4,0.9,0.1,-,6.95
+Emiliano Moretti,Torino,38,D(CL),23,2064,1.9,2,0.9,0.8,5.5,0.2,0.7,-,6.94
+Alessio Romagnoli,AC Milan,24,D(CL),27,2370,1.1,1.5,0.7,0.7,5.7,0.3,0.4,-,6.94
+Cristian Molinaro,Torino,35,"D(L),M(L)",9(1),753,2,2.3,1.4,0.3,2.6,0.5,0.4,-,6.94
+Roberto Gagliardini,Atalanta,25,DMC,8(5),775,1.5,1.5,1.8,-,0.6,0.8,0.2,-,6.94
+Luca Antei,Sassuolo,27,D(C),11(4),1111,2.5,1.9,0.9,0.8,5.3,0.5,0.7,-,6.94
+Lorenzo Pellegrini,Sassuolo,23,M(C),24(4),1953,1.5,1.4,1.5,-,1.3,1,0.2,-,6.94
+Nikola Kalinic,Fiorentina,31,FW,26(6),2487,0.2,0.2,1.4,-,0.5,0.3,0.1,-,6.94
+Federico Ceccherini,Crotone,27,D(C),35,3100,1.7,2.7,1.4,0.8,7.5,0.5,0.7,-,6.94
+Luca Rossettini,Torino,34,D(CR),29(1),2655,1.9,1.9,1.1,0.5,6.7,0.6,0.5,-,6.93
+Federico Viviani,Bologna,27,DMC,13(4),1122,1.7,2.3,0.8,-,0.8,1.2,0.1,-,6.93
+Pierluigi Gollini,Atalanta,24,GK,4,360,-,-,-,-,0.8,-,-,-,6.93
+Riccardo Montolivo,AC Milan,34,M(C),9,780,1.4,1.8,0.9,0.1,2.6,0.8,1.1,-,6.93
+Leonardo Bonucci,Juventus,32,D(C),26(3),2406,1,2.1,0.9,0.4,3.3,0.6,0.4,-,6.93
+Cyril Théréau,Udinese,36,"AM(CL),FW",31(2),2502,0.5,0.3,0.9,-,0.4,0.8,0.1,-,6.93
+Josip Ilicic,Fiorentina,31,"AM(CLR),FW",23(6),1881,0.7,0.4,0.7,-,0.1,0.8,-,-,6.92
+Rade Krunic,Empoli,25,AM(C),29(3),2441,2.4,1.5,1.6,-,1.2,1.6,0.2,-,6.92
+Andrea Consigli,Sassuolo,32,GK,37,3330,-,-,-,-,1.2,-,-,1,6.92
+Allan,Napoli,28,DMC,19(10),1618,2.4,0.9,0.9,-,0.5,1,0.1,-,6.92
+Bartosz Bereszynski,Sampdoria,26,D(R),11(2),1049,2.2,1.5,1.1,0.4,4.7,1.5,0.2,-,6.92
+Ivan Radovanovic,Chievo,30,DMC,32(3),2892,1.9,1.5,1.7,-,2.2,1,0.7,-,6.92
+Milan Badelj,Fiorentina,30,M(C),29(4),2513,1.8,2.1,1.3,0.1,1.8,1.5,0.2,-,6.92
+Leandro Castán,Torino,32,D(C),13(1),1176,2.7,2.7,1.6,0.4,4,0.5,0.4,-,6.91
+Davide Zappacosta,Torino,27,"D(R),M(R)",25(4),2334,1.5,1.3,1,0.3,2,0.6,0.4,-,6.91
+Elseid Hysaj,Napoli,25,D(LR),34(1),3032,2.1,0.9,0.8,0.5,1.8,0.6,0.3,1,6.91
+Boukary Dramé,Atalanta,33,"D(L),M(L)",8(2),638,2.2,1.2,0.5,0.2,2.4,0.2,0.1,-,6.91
+Armando Izzo,Genoa,27,D(C),29,2589,2,2.6,1.1,0.4,3.6,0.8,0.2,2,6.90
+Felipe,Udinese,34,D(CL),31(1),2812,1.7,2.4,0.8,0.6,4.8,0.7,0.6,-,6.89
+Nicolas Frey,Chievo,35,D(CLR),13(2),1183,1.2,1.5,1,0.1,4.9,0.3,0.7,-,6.89
+Franck Kessié,Atalanta,22,DMC,25(5),2223,1.2,1.2,1.8,-,0.6,0.6,0.1,-,6.89
+Ivaylo Chochev,Palermo,26,DMC,25(5),2286,1.8,2,1,-,1.9,0.7,0.4,-,6.89
+Stephan El Shaarawy,Roma,26,"AM(CLR),FW",19(13),1628,0.5,0.5,0.4,-,0.5,0.4,-,-,6.89
+Adam Masina,Bologna,25,"D(L),M(L)",28(4),2428,1.9,1.9,1.5,0.2,3,1,0.5,-,6.88
+Luca Cigarini,Sampdoria,33,M(C),3(1),275,2.5,2.3,1.8,-,1.3,1.5,-,-,6.88
+Jasmin Kurtic,Atalanta,30,M(CL),35(2),2760,1.1,0.7,1.6,-,0.6,0.8,0.1,-,6.88
+Gregoire Defrel,Sassuolo,28,"AM(CR),FW",23(6),1962,0.6,0.2,1.2,-,0.2,0.4,0.1,-,6.88
+Matteo Politano,Sassuolo,25,"AM(LR),FW",25(7),2319,1,0.6,0.7,-,0.4,1,-,-,6.88
+Marco Borriello,Cagliari,37,FW,30(6),2597,0.5,0.3,1.1,-,1.1,0.4,0.1,1,6.88
+Alessandro Gamberini,Chievo,37,D(C),20,1672,0.7,1.7,0.5,0.5,6.7,0.1,0.7,-,6.87
+Gabriel Paletta,AC Milan,33,D(C),30,2593,1.7,1.2,1,0.8,5.3,0.5,0.9,1,6.87
+Antonio Rüdiger,Roma,26,D(CR),25(1),2206,1.7,1,1.7,0.4,3,0.7,0.3,-,6.86
+Neto,Juventus,29,GK,7(1),675,-,-,-,-,-,-,-,-,6.86
+Claudio Marchisio,Juventus,33,M(C),15(3),1261,1.1,2,1.2,-,0.8,0.8,0.1,-,6.86
+Stefan Radu,Lazio,32,D(CL),29,2416,1.3,1.5,1,0.2,3,0.3,0.3,-,6.85
+Domenico Maietta,Bologna,36,D(C),29,2379,2.1,2.7,1.1,0.6,4.2,1.2,0.6,-,6.85
+Federico Peluso,Sassuolo,35,"D(CL),M(L)",33(1),2980,1.8,1.6,1.3,0.5,4.5,0.4,0.3,-,6.85
+Gianluca Caprari,Pescara,25,"AM(CLR),FW",34(1),3112,0.8,0.6,1.3,-,0.1,0.8,-,-,6.85
+Thiago Cionek,Palermo,33,D(CR),26(3),2328,2.2,2.4,1.6,0.6,5.3,0.4,0.5,-,6.84
+Wesley Hoedt,Lazio,25,D(C),21(2),1882,1.3,1.3,1.3,0.5,4.5,0.4,0.4,1,6.84
+Ervin Zukanovic,Atalanta,32,D(CL),14(5),1381,1.3,2.5,1.3,0.4,4.5,0.5,0.1,-,6.84
+Uros Cosic,Empoli,26,D(C),8(6),956,0.9,1.7,0.2,0.6,4.2,0.5,1.1,-,6.84
+Silvan Widmer,Udinese,26,"D(R),M(R)",28,2492,2.5,1.5,0.8,0.3,2.6,0.8,0.3,-,6.84
+Diego Falcinelli,Crotone,28,FW,35,3130,0.8,0.4,1.9,-,0.7,0.4,0.1,-,6.83
+Dario Dainelli,Chievo,40,D(C),25(1),2190,1.3,2.8,1.1,0.5,4.7,0.6,1,1,6.83
+Jeison Murillo,Inter,27,D(C),23(4),2077,2.3,1.9,1.3,0.6,3,0.7,0.4,-,6.83
+Rodrigo de Paul,Udinese,25,"AM(CLR),FW",32(2),2361,1.5,0.5,1.1,-,0.4,1.1,0.1,-,6.83
+Andrea Ranocchia,Inter,31,D(C),5,380,3.4,1.4,2.8,0.4,3.2,0.6,0.8,-,6.83
+Miguel Veloso,Genoa,33,M(C),22(1),1783,1.8,1.5,1.3,-,1,1.4,0.1,-,6.83
+Stefano Sensi,Sassuolo,23,AM(C),14(2),1203,1.8,1.4,1.6,-,0.8,1.8,0.3,-,6.82
+Daniele Baselli,Torino,27,M(C),28(9),2300,1.9,1.2,1.3,-,0.6,0.8,0.1,-,6.81
+Giuseppe Bellusci,Empoli,29,D(CR),33,2970,1.5,2.1,1.2,0.8,5.6,0.6,1,-,6.81
+Khouma Babacar,Fiorentina,26,FW,13(9),1321,0.3,-,1.2,-,0.4,0.4,-,-,6.81
+Christian Maggio,Napoli,37,"D(R),M(R)",4(3),392,1.9,1.4,0.3,0.7,1,1,-,-,6.81
+Duván Zapata,Udinese,28,FW,37(1),3154,0.3,0.2,1.4,-,1.5,0.2,0.2,-,6.81
+Manuel Locatelli,AC Milan,21,M(C),17(8),1691,2,0.8,1.2,0.1,1.4,0.9,0.3,-,6.80
+Diego Farias,Cagliari,29,"AM(CLR),FW",12(8),1164,0.5,0.6,0.9,-,0.1,0.9,-,-,6.80
+Cristian Tello,Fiorentina,27,M(LR),22(14),2072,0.9,0.4,0.4,-,0.2,0.6,-,-,6.80
+Ignazio Abate,AC Milan,32,"D(R),M(R)",22(1),1925,2.6,1.5,0.9,0.1,1.9,0.7,0.1,-,6.80
+Gonzalo Rodríguez,Fiorentina,35,D(C),26,2209,1.7,1.8,1,0.9,4.5,0.7,0.7,-,6.80
+Emiliano Viviano,Sampdoria,33,GK,17,1530,0.1,-,-,-,1,0.1,-,-,6.79
+Diego Laxalt,Genoa,26,"D(L),M(CL)",36,3141,1.8,1.2,1.3,0.1,1.9,1,0.1,-,6.79
+Hrvoje Milic,Fiorentina,30,"D(L),M(L)",16(1),1257,1.6,0.9,1,0.2,1,0.8,0.1,-,6.79
+Ibrahima Mbaye,Bologna,24,"D(LR),M(LR)",11(5),1066,2.5,1.6,1.1,0.6,3.4,0.4,0.6,2,6.79
+José Sosa,AC Milan,34,M(CLR),15(3),1243,2.1,0.9,1.4,-,0.9,1.5,0.2,-,6.79
+Christian Puggioni,Sampdoria,38,GK,21,1890,-,-,-,-,0.9,0.1,-,-,6.78
+Luca Antonelli,AC Milan,32,"D(L),M(CL)",3(4),309,1.9,1.1,0.9,0.3,1.7,0.1,0.4,-,6.78
+Paolo Cannavaro,Sassuolo,38,D(C),16(2),1425,1.3,1.9,0.9,1.5,4.7,0.4,0.9,-,6.78
+Fabio Quagliarella,Sampdoria,36,FW,35(2),2885,0.4,0.3,1.1,-,0.6,0.6,0.1,-,6.78
+Cristián Zapata,AC Milan,32,D(C),12(3),1169,1.3,0.9,0.7,0.7,4.7,0.4,0.4,-,6.78
+Andrea Costa,Empoli,33,D(CL),25(1),2085,0.7,1.4,0.7,0.9,4.3,0.3,0.9,1,6.78
+Cristian Dell'Orco,Sassuolo,25,D(CL),9,776,1.9,1.6,0.9,0.1,3.8,1.8,0.2,-,6.77
+Gastón Brugman,Pescara,26,M(C),22(5),1933,3.3,1.3,1.6,-,1,1.3,0.5,-,6.77
+Senna Miangue,Inter,22,M(L),1(2),123,2,1,0.7,-,0.7,-,0.3,-,6.77
+Giuseppe Vives,Torino,38,"DMC,M(L)",3,226,4,2.3,1,-,1.3,1,-,-,6.77
+Emil Hallfredsson,Udinese,35,AM(C),23(5),1990,2.4,1.4,1.9,-,0.8,1.3,0.1,-,6.77
+Manuel Pasqual,Empoli,37,"D(L),M(L)",32,2813,1.8,1,1,0.3,2.1,1,0.3,-,6.77
+Etrit Berisha,Atalanta,30,GK,26,2340,-,-,0.1,-,0.5,0.1,-,-,6.76
+Edgar Barreto,Sampdoria,34,M(C),32,2696,2.8,1.3,1.8,-,1.3,2,0.2,-,6.76
+Daniele Croce,Empoli,36,M(C),32(3),2930,1.9,1.1,1.1,-,0.7,1.7,0.1,-,6.76
+Gianmarco Ferrari,Crotone,27,D(C),37,3330,1.7,2.1,1.4,0.6,4.9,0.4,0.9,-,6.76
+Luis Alberto,Lazio,26,"AM(CL),FW",4(5),363,0.4,0.6,0.2,0.1,0.2,0.6,-,-,6.76
+Antonio Barreca,Torino,24,D(L),25(3),2360,1.5,1.5,1.1,0.2,2.8,0.7,0.5,-,6.76
+Juraj Kucka,AC Milan,32,M(CL),23(7),2078,1.8,1.1,1.5,0.1,1.3,1,0.2,1,6.76
+Alex Cordaz,Crotone,36,GK,36,3236,0.1,0.1,-,-,1.1,-,-,-,6.75
+Pol Lirola,Sassuolo,21,"D(R),M(R)",17(5),1547,1.7,1.1,0.7,0.2,3.7,0.4,0.5,-,6.75
+Antonino Ragusa,Sassuolo,29,AM(L),16(9),1435,1.2,0.6,0.7,-,0.4,0.8,0.1,-,6.75
+Marco Benassi,Torino,24,AM(CR),24(4),2058,1.4,1.1,1.1,-,0.8,1.2,0.1,-,6.75
+Abdoulay Konko,Atalanta,35,"D(LR),M(R)",7(3),618,1.1,1.5,1.4,0.3,2.5,0.2,0.4,-,6.75
+Andrea Rispoli,Palermo,30,"D(R),M(R)",30(2),2686,1.2,1.4,0.8,0.3,2.2,0.9,0.3,-,6.75
+Vincent Laurini,Empoli,30,D(R),24,1921,1.6,1.8,0.9,0.1,3.4,0.2,0.5,-,6.75
+Fabio Pisacane,Cagliari,33,D(CLR),29,2554,2.2,2.3,1.2,0.4,3.8,1,0.7,-,6.75
+Samir Handanovic,Inter,34,GK,37,3330,0.1,0.1,-,-,0.6,-,-,1,6.75
+Darko Lazovic,Genoa,28,M(LR),30(3),2463,1.3,1,0.6,0.1,0.6,0.6,-,-,6.75
+Vasco Regini,Sampdoria,28,D(CL),30(4),2779,2,1.6,0.5,0.6,3.3,0.5,0.4,-,6.75
+Éder,Inter,32,"AM(CLR),FW",13(20),1480,0.9,0.3,0.8,-,0.1,0.2,-,-,6.74
+Saphir Taïder,Bologna,27,M(C),22(2),1902,2.3,0.7,0.9,-,0.8,0.9,-,-,6.74
+Mattia De Sciglio,AC Milan,26,"D(LR),M(LR)",23(2),2091,1.9,1.1,1,0.3,3,0.6,0.3,-,6.74
+Sven Kums,Udinese,31,DMC,20(9),1831,2.6,1.3,0.7,-,0.7,1.1,0.2,-,6.74
+Mirko Valdifiori,Torino,33,DMC,22(2),1784,2.1,1.3,1.2,0.1,1.1,1.2,0.3,-,6.74
+Nicolás Spolli,Chievo,36,D(C),15(6),1591,1.1,1.8,1.6,0.3,6.8,0.6,0.6,-,6.74
+Jean-Christophe Bahebeck,Pescara,26,"AM(LR),FW",11(4),821,0.8,0.3,1.1,-,0.9,0.7,0.3,-,6.74
+Karol Linetty,Sampdoria,24,M(C),27(8),2386,3,0.7,1.6,-,0.5,1.7,-,-,6.74
+Aleandro Rosi,Crotone,32,"D(R),M(R)",30(1),2564,1.8,2,1.8,0.1,3.4,0.5,0.2,-,6.73
+Gabriele Angella,Udinese,30,D(C),10(4),1014,1.3,1.7,0.6,0.7,6.1,0.4,0.6,1,6.73
+Riccardo Meggiorini,Chievo,33,FW,20(7),1737,0.9,0.4,1.7,-,0.8,0.4,-,-,6.73
+Jakub Jankto,Udinese,23,AM(CL),24(5),1906,1.1,0.9,0.6,-,0.6,0.6,0.1,-,6.73
+Andrea Nalini,Crotone,29,AM(LR),7(10),815,1.4,0.9,0.9,-,0.5,0.4,-,-,6.72
+Antonio Mirante,Bologna,35,GK,21,1880,-,-,-,-,0.6,0.1,-,-,6.72
+Ângelo Da Costa,Bologna,35,GK,17(1),1540,-,0.1,-,0.1,1,-,-,-,6.72
+Lucas Ocampos,AC Milan,24,"M(CLR),FW",4(8),535,0.8,0.3,1,-,0.2,0.3,-,-,6.72
+José Reina,Napoli,36,GK,37,3330,-,0.1,-,-,0.7,0.1,-,-,6.72
+Mattia Destro,Bologna,28,FW,28(2),2475,0.7,0.2,1.3,-,1,0.5,-,-,6.72
+Ladislav Krejci,Bologna,26,M(L),33(4),2785,1,0.4,0.8,0.1,0.3,0.7,0.1,-,6.72
+Sinisa Andjelkovic,Palermo,33,D(C),21(1),1840,1.1,2.2,0.6,0.9,5.2,0.1,0.6,-,6.72
+Luca Mazzitelli,Sassuolo,23,DMC,12(5),1048,2,1.5,2.2,0.1,1.3,1.6,0.2,-,6.72
+Federico Marchetti,Lazio,36,GK,17,1486,-,-,-,-,0.3,-,-,-,6.72
+Bruno Alves,Cagliari,37,D(C),36,3240,0.6,1.8,1.3,0.4,5.6,0.3,0.7,-,6.72
+Leonel Vangioni,AC Milan,32,D(L),11(4),946,1.5,0.9,0.9,0.4,2.1,0.7,0.3,-,6.72
+Leonardo Pavoletti,Genoa,30,FW,7(2),581,0.4,0.2,2.1,-,0.3,0.6,0.1,-,6.71
+Carlos Sánchez,Fiorentina,33,"D(C),M(C)",23(8),2150,1.9,1.5,1,0.3,1.9,0.7,0.3,-,6.71
+Mário Rui,Roma,28,D(L),3(2),344,1.6,0.2,0.6,-,1.6,0.2,-,-,6.71
+Lucas Evangelista,Udinese,24,M(CR),2(4),206,1.3,0.3,1,-,-,0.5,0.2,-,6.70
+Danilo,Udinese,35,D(C),36,3204,1.1,1.5,1.1,0.7,5.6,0.3,0.9,1,6.70
+Patrik Schick,Sampdoria,23,"AM(R),FW",14(18),1507,0.3,0.3,0.9,0.1,0.3,0.3,-,-,6.70
+Filippo Melegoni,Atalanta,20,Midfielder,1,46,4,2,2,-,-,-,-,-,6.70
+Pedro Pereira,Sampdoria,21,"D(R),M(R)",8(4),788,2.4,1.3,1.3,0.9,1.8,0.8,0.1,-,6.70
+Andrea Barzagli,Juventus,38,D(CR),17(6),1527,0.8,1.3,0.4,0.1,2.4,0.4,0.2,-,6.70
+Gianluca Lapadula,AC Milan,29,FW,12(15),1256,0.6,0.1,1.8,-,0.5,0.2,-,-,6.70
+Nicola Murru,Cagliari,24,D(L),26,2176,2.1,1.7,1.3,0.3,2.4,0.3,0.3,-,6.69
+Milan Skriniar,Sampdoria,24,D(C),34(1),2998,1.1,1.5,0.7,1.3,4.9,0.3,0.7,-,6.69
+Danilo Cataldi,Lazio,24,M(C),6(6),590,1,0.4,0.6,0.1,0.3,1.2,0.3,-,6.69
+Carlao,Torino,33,"D(C),M(C)",4,336,0.5,2.5,1,1,4.3,0.3,1,-,6.69
+Massimo Gobbi,Chievo,38,"D(L),M(L)",30,2604,1.5,1.3,1,0.1,2,0.9,0.4,-,6.69
+Levan Mchedlidze,Empoli,29,FW,11(4),947,0.5,0.1,1.6,-,0.6,0.2,0.1,-,6.69
+Molla Wagué,Udinese,28,D(C),6,540,3.2,2.2,1,0.5,4,-,0.7,-,6.69
+Hugo Campagnaro,Pescara,39,D(CR),18(1),1566,1.6,2.1,1.3,0.4,5.4,0.9,0.8,1,6.68
+Matías Silvestre,Sampdoria,34,D(C),36,3211,0.7,1.1,0.8,2,5.7,0.2,0.7,-,6.68
+Mauricio Isla,Cagliari,31,"D(R),M(CR)",32(2),2875,2.6,1.2,1.2,0.2,1.1,1.2,0.3,-,6.68
+Federico Chiesa,Fiorentina,21,"M(CLR),FW",17(10),1495,1.1,0.6,1.3,0.1,0.4,1,-,-,6.68
+Daniele Gastaldello,Bologna,36,D(C),24,1925,1.8,2.2,1.3,0.6,4.6,0.7,0.6,-,6.68
+Juan Jesus,Roma,28,D(CL),13(7),1189,1.7,1.4,1.3,0.4,1.6,0.8,0.3,-,6.68
+Ledian Memushaj,Pescara,32,AM(C),35(1),2961,1.4,1.1,1.1,0.1,0.9,1.2,0.1,-,6.68
+Gianluigi Buffon,Juventus,41,GK,30,2656,-,-,-,-,0.5,0.1,-,-,6.68
+Filip Helander,Bologna,26,D(C),9(2),835,1.5,1.5,0.7,0.7,4.9,0.4,0.5,-,6.68
+Stefano Sorrentino,Chievo,40,GK,34,3060,-,-,-,-,0.9,0.1,-,-,6.68
+Mario Pasalic,AC Milan,24,M(C),20(4),1762,1,0.8,0.8,-,0.6,1.4,0.3,-,6.67
+Alessandro Bastoni,Atalanta,20,D(C),1(2),153,1.3,1.7,1.3,-,1.7,-,0.7,-,6.67
+Simone Missiroli,Sassuolo,33,AM(C),9(4),766,1.3,1.2,0.9,0.2,2.1,1.2,0.2,-,6.67
+Perparim Hetemaj,Chievo,32,M(CL),21(2),1876,2.3,1,1.9,-,1.3,1.5,-,-,6.67
+Lucas Ocampos,Genoa,24,"M(CLR),FW",12(2),850,0.9,0.6,0.9,-,0.5,0.6,-,-,6.67
+Patrice Evra,Juventus,38,"D(CL),M(L)",3(3),247,0.8,0.5,0.7,0.3,2.5,0.2,0.3,-,6.67
+Artur Ionita,Cagliari,28,AM(C),14(4),1304,1.5,1,1.9,-,0.6,1.1,0.2,-,6.66
+Gustavo Gómez,AC Milan,26,D(C),11(7),1083,1.3,1.4,0.6,0.5,4.4,0.4,0.5,-,6.66
+Mario Lemina,Juventus,25,DMC,8(11),896,1.3,0.6,0.8,-,0.6,0.5,0.1,-,6.66
+Ilija Nestorovski,Palermo,29,FW,34(3),3109,0.7,0.4,1.9,0.1,0.3,0.7,-,-,6.66
+Fabrizio Cacciatore,Chievo,32,D(LR),29,2509,1.5,1.6,1,0.1,1.9,0.6,0.2,-,6.66
+Matías Fernández,AC Milan,33,AM(C),8(5),654,1.3,0.2,0.8,-,0.2,0.6,0.1,-,6.65
+Carlos Salcedo,Fiorentina,25,D(CR),15(3),1346,1.6,1.8,1.2,0.6,2.9,0.5,0.4,-,6.65
+Alberto Aquilani,Pescara,34,M(C),6(3),551,1.8,1.4,0.9,0.1,1,0.9,0.3,-,6.65
+Jacopo Sala,Sampdoria,27,"D(R),M(CR)",19(1),1568,2.2,1.5,0.9,0.5,1.5,0.8,0.2,-,6.65
+Cristiano Biraghi,Pescara,26,"D(L),M(L)",33(2),2990,2.3,1.2,1.2,0.1,2.9,0.9,0.2,-,6.65
+Fabio Depaoli,Chievo,22,"D(R),DMC,M(R)",5(1),444,2.8,3,1.7,0.2,1.7,1.7,0.5,-,6.65
+Stephan Lichtsteiner,Juventus,35,"D(R),M(R)",22(4),1871,1.1,0.7,0.8,-,1.4,0.3,0.2,-,6.65
+Cesare Bovo,Pescara,36,D(C),9(1),818,1.9,1.8,1.1,0.6,5.2,0.6,0.7,-,6.65
+Roberto Inglese,Chievo,27,FW,22(12),1967,0.6,0.1,1.2,-,0.2,0.6,0.1,-,6.64
+Haitam Aleesami,Palermo,27,"D(L),M(L)",29(2),2631,1.7,1.3,1.2,0.3,3,0.9,0.3,-,6.64
+Nicolas Burdisso,Genoa,38,D(C),35,3127,0.9,1.9,1.3,0.5,6.6,0.4,0.7,-,6.64
+Luca Ceppitelli,Cagliari,29,D(C),19,1691,1.9,1.9,1.2,0.5,4.4,0.9,1.7,1,6.64
+Riccardo Saponara,Empoli,27,AM(C),18,1533,0.9,0.5,0.9,0.1,0.9,0.6,0.2,-,6.64
+Norbert Gyömbér,Pescara,26,"D(C),DMC",10,847,1.3,1.6,1.2,0.4,4.5,0.6,1.4,-,6.64
+Francesco Zampano,Pescara,25,"D(R),M(R)",32(2),2926,2.1,1.4,1.1,0.4,1.9,0.7,0.3,-,6.64
+Bruno Martella,Crotone,26,"D(L),M(L)",26(3),2325,1.3,1.9,0.7,0.3,2.9,0.4,0.2,-,6.64
+Thomas Strakosha,Lazio,24,GK,20(1),1845,-,-,-,-,0.6,-,-,-,6.64
+Ezequiel Muñoz,Genoa,28,D(C),25(6),2344,2.3,1.6,1.3,0.4,4.4,0.5,0.5,1,6.64
+Riccardo Saponara,Fiorentina,27,AM(C),4(7),417,0.5,0.1,0.5,-,0.1,0.4,-,-,6.64
+Cristian Ansaldi,Inter,32,"D(CLR),DMC,M(LR)",17(4),1507,2.1,1.3,1.6,0.2,1.4,0.6,-,-,6.63
+Andrea Barberis,Crotone,25,M(C),23(3),2063,2.4,1.2,1.5,-,1.3,2,0.3,-,6.63
+Mauro Zárate,Fiorentina,32,"M(CLR),FW",1(6),207,0.6,0.1,1,-,-,0.6,-,-,6.63
+Archimede Morleo,Bologna,35,"D(L),M(L)",0(1),24,1,3,1,1,1,-,-,-,6.63
+Carlos Bacca,AC Milan,32,FW,26(6),2128,0.3,-,1.1,-,0.3,0.3,-,-,6.63
+Gary Medel,Inter,31,"D(C),DMC",26,2171,1.7,1.5,0.8,0.4,3,1.2,0.3,-,6.63
+Amadou Diawara,Napoli,21,DMC,10(8),1040,1.4,1.5,0.7,0.1,0.8,0.3,0.2,-,6.62
+Isaac Cofie,Genoa,28,M(C),11(4),1003,2.9,1.5,1.3,-,1.3,1.6,0.7,-,6.62
+Andrea Seculin,Chievo,28,GK,4,360,-,-,-,-,1,-,-,-,6.62
+Marco Sau,Cagliari,31,"AM(C),FW",29(5),2342,0.7,0.6,1.3,-,0.1,0.5,-,-,6.62
+Robin Quaison,Palermo,25,"M(CLR),FW",11(6),1079,0.7,0.5,1.4,-,0.8,0.2,0.1,-,6.62
+Alberto Pelagotti,Empoli,29,GK,3,270,-,-,-,-,1,-,-,-,6.62
+Alberto Aquilani,Sassuolo,34,M(C),14(2),1236,1.4,1.5,1.4,-,1.8,1.3,0.3,-,6.62
+Marco Faraoni,Udinese,27,"D(R),M(R)",4(1),328,3,1.8,1.4,0.4,2,1.2,-,-,6.61
+Alfred Duncan,Sassuolo,26,M(C),14(7),1328,1.9,0.5,1.5,-,1,1.2,0.2,-,6.61
+Bruno Fernandes,Sampdoria,24,M(CLR),23(11),1725,0.7,0.3,0.6,-,0.1,0.9,-,-,6.61
+Yuto Nagatomo,Inter,32,"D(LR),M(LR)",11(5),1019,1.7,1.3,1.6,0.1,1.4,0.3,0.3,-,6.61
+Marco Festa,Crotone,27,Goalkeeper,2(1),183,-,-,-,-,0.7,-,-,-,6.60
+Dennis Praet,Sampdoria,25,AM(C),19(13),1801,1.1,0.9,1,-,0.6,0.4,0.2,-,6.60
+Eugenio Lamanna,Genoa,29,GK,20(1),1881,-,0.1,-,-,1.3,0.1,-,-,6.60
+Giuseppe Pezzella,Palermo,21,"D(L),M(L)",9(1),805,1.7,1.1,0.8,0.1,3.1,0.4,0.1,-,6.60
+Vincenzo Fiorillo,Pescara,29,GK,9,810,-,-,-,-,0.6,-,-,-,6.60
+Godfred Donsah,Bologna,23,DMC,10(3),888,0.8,1,0.5,0.1,1,0.3,0.2,-,6.59
+Daniel Pavlovic,Sampdoria,31,D(L),8(1),721,1.1,0.9,1.3,0.6,2.9,0.8,0.1,-,6.59
+Emmanuel Badu,Udinese,28,DMC,20(9),2031,1,1.4,0.9,-,0.7,0.6,0.2,-,6.59
+Wallace,Lazio,24,D(C),18(7),1736,1,1.6,1.4,0.4,4.8,0.4,0.4,1,6.59
+Alessandro Gazzi,Palermo,36,M(C),22(3),1941,1.6,2.8,1.2,0.2,1.9,0.6,0.2,-,6.59
+Marios Oikonomou,Bologna,26,D(C),12(6),1244,1.1,2.1,0.9,1,4.3,0.7,0.8,-,6.59
+Lucas Orban,Genoa,30,D(CL),8(3),774,2.2,3,2.1,0.4,3.5,0.9,0.5,1,6.58
+Marcello Trotta,Crotone,26,"AM(R),FW",23(6),1886,1.1,0.3,0.6,-,0.6,0.6,0.1,-,6.58
+Jordan Lukaku,Lazio,24,"D(L),M(L)",8(8),846,1.3,0.6,0.8,0.1,0.9,0.3,0.1,-,6.58
+Federico Melchiorri,Cagliari,32,Forward,4(6),461,0.6,0.4,0.5,-,0.6,0.4,-,-,6.58
+Sasa Lukic,Torino,22,DMC,7(7),773,1.1,1.6,1.2,-,0.4,0.5,0.1,-,6.57
+Nikola Ninkovic,Genoa,24,AM(CL),5(12),653,0.8,0.3,1.2,-,0.2,0.2,-,-,6.57
+Marcello Gazzola,Sassuolo,34,"D(R),M(R)",16,1375,1.5,1.2,1,0.5,3.2,0.7,0.2,-,6.57
+Mato Jajalo,Palermo,31,M(C),22(4),1861,1.5,1.1,1.2,-,1.1,1.6,0.1,-,6.57
+Claud Adjapong,Sassuolo,21,"D(R),M(LR)",6(3),509,1.3,1.2,1,0.2,1.4,1.2,0.1,-,6.57
+Juan Iturbe,Torino,26,AM(LR),4(12),539,0.8,0.4,0.6,-,0.2,0.4,-,-,6.57
+Luca Rigoni,Genoa,34,M(CR),29(2),2359,1.9,0.8,1.9,-,0.8,0.9,0.1,-,6.56
+Dusan Basta,Lazio,34,"D(R),M(R)",24(3),2125,1.3,1.1,0.7,0.1,1.2,0.8,0.2,-,6.56
+Orestis Karnezis,Udinese,33,GK,33,2959,-,0.1,-,-,0.5,-,-,-,6.56
+Nicolò Barella,Cagliari,22,AM(C),22(6),1910,2,1,1.7,-,0.9,0.9,0.2,-,6.56
+Giovanni Simeone,Genoa,23,"AM(R),FW",29(6),2618,0.8,0.2,1.9,-,0.6,0.7,0.1,-,6.56
+Erick Pulgar,Bologna,25,DMC,17(10),1585,2.1,1.9,1,-,1.4,1.2,0.1,-,6.56
+Bartosz Salamon,Cagliari,28,D(C),9(6),831,0.6,1.7,0.5,0.5,4.1,0.1,1.1,-,6.56
+Raffaele Palladino,Genoa,35,"AM(CL),FW",9(3),855,0.9,0.3,1.3,-,0.3,0.4,0.1,-,6.56
+Lorenzo Crisetig,Crotone,26,M(C),29(3),2539,2.3,1.4,1.8,-,1.5,1.2,0.1,-,6.56
+Edoardo Goldaniga,Palermo,25,D(C),26(2),2327,1.1,2.6,1.5,0.6,5.5,0.3,0.4,1,6.55
+Ciprian Tatarusanu,Fiorentina,33,GK,35,3100,-,-,-,-,0.9,-,-,-,6.55
+Alessandro Diamanti,Palermo,36,"M(CR),FW",18(13),1701,1.1,0.2,1.3,-,0.4,0.9,-,-,6.55
+Andrija Balic,Udinese,21,AM(C),3(1),242,1.5,0.8,0.8,0.3,-,1,-,-,6.55
+Lorenzo De Silvestri,Torino,31,"D(R),M(R)",15(1),1258,0.6,1.1,1.4,0.8,3.1,0.4,0.3,-,6.55
+Stefano Sturaro,Juventus,26,M(CL),12(9),1036,1.6,0.2,1.2,-,0.6,0.8,0.1,-,6.55
+Timo Letschert,Sassuolo,26,D(CLR),9,664,1.1,1.6,0.9,0.6,5,0.2,0.3,-,6.55
+M'Baye Niang,AC Milan,24,"AM(LR),FW",13(5),1123,0.6,0.2,1.7,-,0.7,0.4,0.1,-,6.55
+Ádám Nagy,Bologna,24,DMC,22(3),1813,1.2,1,0.8,-,0.5,0.8,0.1,-,6.54
+Ricardo Álvarez,Sampdoria,31,AM(CR),11(10),979,0.8,0.6,1.1,-,0.5,0.8,-,-,6.54
+Santiago Gentiletti,Genoa,34,D(C),15,1220,1.3,1.7,1.3,0.6,3.7,0.8,0.7,-,6.54
+Angelo Palombo,Sampdoria,37,"D(C),DMC",2(2),218,0.3,1.5,0.5,1.5,2.8,0.3,0.8,-,6.53
+Marco D'Alessandro,Atalanta,28,M(LR),4(20),749,0.8,0.4,0.6,-,0.3,0.3,-,-,6.53
+Pablo Armero,Udinese,32,"D(L),M(L)",2,180,2,0.5,1,-,3.5,0.5,0.5,-,6.53
+Nenad Tomovic,Fiorentina,31,D(CLR),22(4),1819,1.2,1.1,1.6,0.3,2.4,0.4,0.5,-,6.53
+Claiton,Crotone,34,D(C),9(1),709,1.4,1.5,0.9,0.4,4.6,0.6,1,-,6.53
+Patric,Lazio,26,"D(CR),M(R)",10(9),1011,1,0.5,0.3,0.1,1.8,0.3,0.2,-,6.53
+Keisuke Honda,AC Milan,33,AM(CR),2(6),220,-,0.3,0.5,-,0.1,-,-,-,6.52
+José Mauri,Empoli,23,M(C),10(4),873,2.5,0.9,1.1,0.1,0.4,1.4,-,-,6.52
+Adrian Stoian,Crotone,28,"AM(CL),FW",17(10),1570,0.6,1,0.6,-,0.5,1.1,-,-,6.52
+Guglielmo Stendardo,Atalanta,38,D(C),0(1),45,1,-,1,1,3,-,1,-,6.52
+Marcus Rohdén,Crotone,28,M(CR),30(4),2458,2.2,1.1,1.2,-,0.8,1,-,-,6.52
+Edenílson,Genoa,29,"D(R),M(CLR)",9(7),899,0.9,1.2,0.9,0.1,0.7,0.4,0.1,-,6.52
+Mattia Perin,Genoa,26,GK,16,1359,-,0.1,0.1,-,0.6,-,-,-,6.52
+Robert Muric,Pescara,23,Midfielder,2(3),185,0.6,0.2,0.4,-,0.2,0.6,0.2,-,6.51
+Joe Hart,Torino,32,GK,36,3240,-,0.1,-,-,1.1,0.1,-,-,6.51
+Hans Hateboer,Atalanta,25,"D(R),M(R)",3(3),289,0.7,0.8,1.2,0.2,1.3,0.2,0.3,-,6.51
+Vasilis Torosidis,Bologna,34,"D(CLR),M(R)",23(5),1940,1,1.3,0.8,0.5,2.4,0.3,0.4,-,6.51
+Bruno Henrique,Palermo,29,M(C),24(9),2216,2.1,0.7,1.6,-,0.5,0.8,0.2,-,6.51
+Clément Grenier,Roma,28,M(CL),1(5),150,-,0.7,0.8,-,0.8,0.5,-,-,6.50
+Joel Obi,Torino,28,M(CR),9(11),773,1.1,1.3,1.7,-,0.5,0.9,0.2,-,6.50
+Djamel Mesbah,Crotone,34,"D(L),M(L)",8(2),680,1.3,0.9,0.9,0.3,2.2,0.1,0.5,-,6.50
+Assane Dioussé,Empoli,21,DMC,26(7),2405,1.5,1.8,1.6,-,1.1,1,0.4,-,6.50
+Paolo Faragò,Cagliari,26,"D(R),DMC,M(R)",1(8),339,2.3,0.8,0.9,-,0.4,1.3,0.1,-,6.50
+Andrea Bertolacci,AC Milan,28,M(C),9(6),748,1.1,0.5,1.3,-,0.3,0.7,-,-,6.49
+Arkadiusz Milik,Napoli,25,FW,4(13),547,0.2,0.1,0.7,-,0.1,0.1,0.1,-,6.49
+Maximiliano Olivera,Fiorentina,27,"D(L),M(L)",13(5),1113,1.2,0.8,1.5,0.1,1.7,0.4,0.3,-,6.49
+Raffaele Palladino,Crotone,35,"AM(CL),FW",16(3),1434,1.3,0.4,1.4,-,1,0.7,0.1,-,6.48
+Adel Taarabt,Genoa,30,"AM(CL),FW",1(5),209,0.3,0.2,0.7,-,0.3,0.2,-,-,6.48
+Federico Ricci,Sassuolo,25,AM(LR),10(14),1060,1.4,0.3,0.9,-,0.2,0.7,-,-,6.48
+Manuel Pucciarelli,Empoli,28,FW,25(7),2304,1,0.8,0.9,-,0.2,1,-,-,6.48
+Josef Martínez,Torino,26,FW,4(7),524,0.5,0.2,0.6,-,0.1,0.1,-,-,6.48
+Alberto Cerri,Pescara,23,FW,7(6),696,0.5,0.2,1.3,-,1.4,0.2,0.1,-,6.48
+Giancarlo González,Palermo,31,D(C),18(3),1660,1,2.1,0.9,0.9,6,0.3,1,-,6.47
+Mauricio Pinilla,Atalanta,35,FW,2(2),157,0.3,-,2,-,0.3,-,-,-,6.47
+Ahmad Benali,Pescara,27,AM(CR),31(2),2503,1.2,0.8,0.8,-,0.6,1.2,0.1,-,6.47
+Eddy Gnahore,Crotone,25,M(C),0(1),26,-,1,-,-,2,-,-,-,6.47
+Matheus Pereira,Empoli,21,Midfielder,0(1),5,-,-,-,-,-,-,-,-,6.47
+Stipe Perica,Udinese,23,FW,5(22),1065,0.5,0.1,1.1,-,0.2,0.3,-,-,6.47
+Sergio Pellissier,Chievo,40,FW,18(12),1732,0.2,0.2,0.5,-,0.3,0.3,-,-,6.47
+Bruno Petkovic,Bologna,24,FW,4(8),524,1.1,0.3,1.4,-,0.7,0.3,0.1,-,6.46
+Alessandro Murgia,Lazio,22,M(C),4(10),483,1.3,0.7,0.8,-,0.3,0.7,0.1,-,6.46
+Bastos,Lazio,28,D(C),10(1),774,2.5,0.9,1.2,0.1,3,0.4,0.3,-,6.46
+Lucas Boyé,Torino,23,"AM(L),FW",14(16),1449,0.8,0.5,1.9,-,0.2,0.9,-,-,6.46
+Thomas Vermaelen,Roma,33,D(CL),4(5),388,0.8,0.8,0.7,0.2,2.6,0.4,0.3,-,6.46
+Francesco Totti,Roma,42,"AM(CL),FW",1(17),364,0.3,0.3,0.3,-,0.1,0.2,-,-,6.45
+Valerio Verre,Pescara,25,AM(C),23(5),1913,1.2,1,1,-,0.7,1.2,0.2,-,6.45
+Federico Barba,Empoli,25,D(CL),9(2),811,0.4,1.4,0.8,1.2,4.7,0.2,0.6,-,6.45
+Alberto Grassi,Atalanta,24,M(C),4(14),690,0.9,0.7,0.8,-,0.6,0.4,0.1,-,6.45
+Andrea Beghetto,Genoa,24,M(L),1(2),150,1,0.7,0.3,0.3,1.3,0.3,0.3,-,6.44
+Toni Sunjic,Palermo,30,D(C),2(5),242,1,1.3,0.4,0.1,2.6,0.6,-,-,6.44
+Gennaro Ruggiero,Palermo,19,Midfielder,2,150,2,-,0.5,-,1.5,3,-,-,6.44
+Bryan Cristante,Pescara,24,M(C),10(6),979,1.8,0.9,2.1,0.1,1.4,0.8,0.1,-,6.44
+Frederic Veseli,Empoli,26,D(CLR),11(6),1177,1.1,1.2,0.8,0.2,2.8,0.8,0.5,-,6.44
+Rodrigo Palacio,Inter,37,"AM(CLR),FW",3(12),427,0.7,0.1,0.5,-,0.1,0.3,-,-,6.43
+Carlos Embalo,Palermo,24,AM(R),8(4),623,1.2,0.4,0.9,-,0.3,0.6,0.1,-,6.43
+Tomás Rincón,Juventus,31,M(CR),2(11),301,0.8,0.8,0.4,-,0.2,0.2,0.2,-,6.43
+Marco Andreolli,Inter,33,D(C),4(2),362,1.3,0.3,1.5,0.5,1.5,0.2,0.2,-,6.43
+Ianis Hagi,Fiorentina,20,Midfielder,0(2),48,0.5,-,0.5,0.5,-,-,-,-,6.43
+Federico Dimarco,Empoli,21,D(L),6(6),647,0.9,1,0.9,0.3,1.2,0.4,0.3,-,6.42
+Federico Di Francesco,Bologna,25,M(LR),11(13),1083,0.3,0.3,1.1,-,0.3,0.5,-,-,6.42
+Andrés Tello,Empoli,22,M(C),8(10),819,2.1,0.6,1.4,-,0.6,1.8,0.1,-,6.42
+Leonardo Capezzi,Crotone,24,M(C),18(7),1634,2,1.2,1.4,0.1,1.1,1,0.3,-,6.41
+Mame Thiam,Empoli,26,FW,9(6),872,0.5,0.1,1.7,-,0.2,0.4,0.1,-,6.41
+Marko Rog,Napoli,23,DMC,2(13),373,0.8,0.2,1.1,-,0.1,0.9,0.1,-,6.41
+Noe Dussenne,Crotone,27,Defender,4(4),463,1.6,2.1,2,0.6,5.3,1.1,0.4,-,6.41
+Afriyie Acquah,Torino,27,DMC,13(7),1073,0.9,1.4,1.3,-,0.6,0.4,0.1,-,6.41
+Ali Adnan,Udinese,25,"D(L),M(L)",8(6),867,1.3,1.1,0.9,0.4,1.9,0.7,0.2,-,6.41
+Mario Sampirisi,Crotone,26,"D(R),M(R)",11(12),1198,1,1.4,0.4,0.2,1.6,0.4,0.3,-,6.40
+Olivier Ntcham,Genoa,23,AM(C),10(10),970,1.2,0.4,1.3,-,0.3,0.9,-,-,6.40
+Samuel Bastien,Chievo,22,M(C),8(4),799,1,0.8,1,-,0.8,0.2,0.2,-,6.40
+Raffaele Maiello,Empoli,27,M(C),1,60,1,1,1,-,1,-,1,-,6.40
+Alessandro Matri,Sassuolo,34,FW,16(15),1460,-,0.2,0.3,-,0.4,0.2,0.1,-,6.40
+Miha Zajc,Empoli,24,"AM(C),FW",1(4),103,0.8,-,0.2,-,-,0.2,-,-,6.40
+Daniele Dessena,Cagliari,32,"D(R),M(C)",16(2),1193,1.4,0.9,0.7,-,1.2,0.9,0.2,-,6.39
+Serge Gakpé,Genoa,32,"AM(LR),FW",3(5),309,0.6,0.3,1,-,0.5,0.3,-,-,6.39
+Mariano Izco,Chievo,36,"D(R),M(CR)",12(13),1166,1.7,0.6,1,-,0.7,1.4,0.1,-,6.39
+Oscar Hiljemark,Genoa,27,AM(C),10(4),804,0.8,0.4,0.8,-,0.6,0.6,0.1,-,6.39
+Alessandro Deiola,Cagliari,23,M(C),3(2),245,0.6,1,0.6,-,1.2,0.6,0.6,-,6.39
+Davide Biraschi,Genoa,24,D(CR),4(3),392,0.6,1,1.3,0.1,2,0.6,0.4,-,6.39
+Bostjan Cesar,Chievo,36,D(C),16(1),1435,0.9,1.4,1.6,0.2,4.8,0.5,0.6,-,6.38
+Albano Bizzarri,Pescara,41,GK,29,2610,-,0.1,-,-,0.7,-,-,-,6.38
+Stefano Pettinari,Pescara,27,Forward,2(4),255,0.7,0.2,2,-,0.3,0.2,-,-,6.38
+Antonio Floro Flores,Chievo,36,"AM(L),FW",6(6),554,0.6,0.1,0.5,-,0.1,0.3,-,-,6.38
+Sergio Floccari,Bologna,37,FW,3(2),242,1.2,0.2,-,-,0.8,-,-,-,6.38
+Filip Djuricic,Sampdoria,27,"AM(CLR),FW",3(16),502,0.6,0.2,0.6,-,0.2,0.4,0.1,-,6.38
+Josip Posavec,Palermo,23,GK,29,2610,-,0.1,-,-,1.1,0.1,-,-,6.38
+Patrick Cutrone,AC Milan,21,FW,0(1),5,-,1,1,-,1,-,-,-,6.37
+Pietro Iemmello,Sassuolo,27,FW,3(14),502,0.1,-,0.6,-,0.2,0.4,-,-,6.37
+Boadu Maxwell Acosty,Crotone,27,AM(R),3(8),373,0.5,0.5,0.9,-,0.2,0.3,-,-,6.37
+Dodô,Sampdoria,27,"D(L),M(L)",4(3),369,0.9,0.9,-,0.6,4.3,0.6,0.3,-,6.37
+Manolo Gabbiadini,Napoli,27,"AM(CLR),FW",7(6),514,0.2,0.2,0.5,-,0.2,0.2,-,-,6.36
+Simone Scuffet,Udinese,23,GK,5(1),461,-,-,-,-,0.2,-,-,-,6.36
+Oscar Hiljemark,Palermo,27,AM(C),12(3),1054,0.9,0.8,0.9,-,0.6,0.6,0.1,-,6.36
+Roberto Biancu,Cagliari,19,Midfielder,0(1),10,1,-,-,-,-,1,-,-,6.36
+Riccardo Fiamozzi,Genoa,26,Defender,1(3),105,0.3,0.5,0.3,-,0.3,0.3,-,-,6.36
+Moise Kean,Juventus,19,FW,0(3),18,-,-,0.3,-,-,-,-,-,6.35
+Guido Marilungo,Empoli,29,FW,11(9),944,0.8,0.1,0.7,-,0.1,0.8,0.1,-,6.35
+Jonathan de Guzmán,Chievo,31,M(CLR),15(12),1357,0.7,0.4,0.5,-,0.4,0.3,-,-,6.35
+Emil Krafth,Bologna,24,D(R),16(10),1651,1.1,1.3,0.7,0.2,2.2,0.8,0.2,-,6.35
+Alessandro Crescenzi,Pescara,27,D(LR),14(7),1404,1,0.8,1.1,0.1,1.6,0.2,0.2,-,6.35
+Nicola Rigoni,Chievo,28,DMC,5(7),501,1.5,-,1.3,-,1.1,1,0.3,-,6.34
+Simone Padoin,Cagliari,35,"D(LR),M(CLR)",25(6),2174,1.2,0.8,0.8,-,0.9,0.6,0.1,-,6.34
+Guglielmo Stendardo,Pescara,38,D(C),9,647,1.2,1.2,0.6,0.2,4.3,0.6,0.1,-,6.34
+Danilo Cataldi,Genoa,24,M(C),10(3),930,0.9,0.8,0.9,-,0.7,1,0.1,-,6.34
+Juan Carrizo,Inter,35,GK,1,90,-,-,-,-,1,-,-,-,6.34
+Alessandro Bruno,Pescara,35,M(C),10(5),973,2.1,1,1.3,-,0.7,1.1,-,-,6.34
+Davide Biondini,Sassuolo,36,M(C),9(5),853,1.5,0.7,1.1,0.1,0.4,1.5,0.1,-,6.34
+Panagiotis Kone,Udinese,31,M(CLR),3(2),300,1.2,0.6,0.6,-,0.4,1.2,0.2,-,6.33
+Gabriel,Inter,22,"AM(LR),FW",0(9),113,0.2,0.1,0.2,-,-,-,-,-,6.33
+Anthony Mounier,Atalanta,31,AM(CLR),0(5),99,0.6,0.4,0.2,-,0.2,-,-,-,6.32
+Ricardo Kishna,Lazio,24,AM(LR),2(3),157,-,0.6,0.2,-,0.2,0.4,-,-,6.32
+Marco Storari,Cagliari,42,GK,15,1257,-,0.1,0.1,-,0.7,-,-,-,6.32
+Mirko Eramo,Sampdoria,29,Midfielder,0(1),4,1,-,-,-,-,-,-,-,6.32
+Massimo Maccarone,Empoli,39,FW,17(11),1511,0.4,0.1,0.9,-,0.5,0.4,0.1,-,6.32
+Andrea Pinamonti,Inter,20,FW,0(2),19,0.5,0.5,-,-,0.5,-,-,-,6.32
+Michele Fornasier,Pescara,25,D(C),16(6),1614,0.9,1.6,0.5,0.1,2.9,0.4,0.5,-,6.31
+Hrvoje Milicevic,Pescara,26,Midfielder,1(2),132,1.7,1,0.7,-,0.3,0.7,-,-,6.31
+Luca Crecco,Lazio,23,Midfielder,0(3),53,-,0.3,0.3,-,-,-,0.3,-,6.31
+Han Kwang Song,Cagliari,20,Forward,0(5),59,0.6,-,0.4,-,0.2,0.2,-,-,6.31
+Andrea Coda,Pescara,34,D(C),12(1),1004,0.8,4.1,1.2,0.8,2.9,0.8,1.1,-,6.31
+Marko Pjaca,Juventus,24,"AM(L),FW",3(11),448,0.6,0.1,0.6,-,-,0.5,-,-,6.31
+Goran Pandev,Genoa,35,"M(CR),FW",6(14),852,0.4,0.1,0.4,-,0.1,0.4,-,-,6.30
+Emanuele Terranova,Sassuolo,32,D(C),2(1),196,0.7,1.3,0.7,0.3,4,-,1,-,6.30
+Sebastián Cristóforo,Fiorentina,25,M(C),7(12),684,0.9,0.5,0.9,-,0.2,1.1,0.1,-,6.30
+Marcel Büchel,Empoli,28,DMC,10(5),823,0.9,1.1,1.2,-,1.3,0.8,0.2,-,6.30
+Luca Rizzo,Bologna,27,AM(CLR),4(8),452,0.8,0.4,0.3,0.3,0.6,0.8,-,-,6.30
+Leonardo Pavoletti,Napoli,30,FW,2(4),194,0.2,0.5,1.2,-,0.5,0.2,-,-,6.30
+Daniele Padelli,Torino,33,GK,2,180,-,-,-,-,2,-,-,-,6.30
+Gerson,Roma,22,AM(CR),2(2),132,0.8,0.8,1,-,0.3,-,-,-,6.29
+Marco Zambelli,Empoli,33,D(R),4(6),395,0.7,1.5,0.7,0.3,0.8,1.2,0.1,-,6.29
+Assane Gnoukouri,Inter,22,M(C),0(4),140,0.8,1,1.8,-,0.5,0.3,-,-,6.29
+Ryder,Udinese,26,"AM(CLR),FW",4(16),541,0.5,0.3,0.7,0.1,0.2,0.2,-,-,6.28
+Andrea Poli,AC Milan,29,M(CL),3(10),380,0.8,0.8,0.5,-,0.2,0.5,0.1,-,6.28
+Roberto Vitiello,Palermo,36,D(C),5,373,1.8,1.6,0.8,0.2,3.4,0.8,0.2,-,6.27
+Alexandru Mitrita,Pescara,24,AM(L),4(11),484,0.3,0.2,0.5,-,0.1,0.6,-,-,6.27
+Marco Capuano,Cagliari,27,D(CL),8(4),769,1.2,1,0.8,0.3,2.2,0.6,0.3,-,6.27
+Orji Okwonkwo,Bologna,21,AM(R),1(8),244,0.7,0.2,0.6,-,0.4,0.1,-,-,6.27
+Cristian Raimondi,Atalanta,38,"D(R),M(R)",4(4),331,0.5,1.4,1,-,1.8,0.6,0.3,-,6.27
+Mauricio Pinilla,Genoa,35,FW,6(6),552,0.3,-,2.2,-,0.5,0.7,0.1,-,6.26
+Accursio Bentivegna,Palermo,23,Forward,2(1),90,0.7,-,-,-,-,0.7,-,-,6.25
+Luca Bittante,Cagliari,25,D(R),3(2),309,1.2,2,1,0.2,1.8,0.8,-,-,6.24
+Giorgio Spizzichino,Lazio,19,Defender,0(1),11,2,-,-,-,-,-,-,-,6.24
+Samuel Gustafson,Torino,24,AM(C),1(4),221,0.6,1.4,1,-,1,1.4,0.4,-,6.24
+Senna Miangue,Cagliari,22,M(L),0(4),133,0.3,0.8,1,-,1.5,0.3,-,-,6.24
+Felipe Melo,Inter,36,M(C),1(4),177,1,0.8,1.2,-,0.4,0.4,-,-,6.23
+Aleksandar Trajkovski,Palermo,26,"AM(CL),FW",5(6),437,0.9,0.1,0.2,-,-,0.5,-,-,6.23
+Bartlomiej Dragowski,Fiorentina,21,GK,1,90,-,-,-,-,1,-,-,-,6.23
+Pietro Pellegri,Genoa,18,Forward,1(2),74,-,0.3,0.3,-,-,0.3,-,-,6.23
+Thomas Heurtaux,Udinese,30,D(CR),6(6),526,0.9,1.1,0.6,0.3,1.7,0.4,0.3,-,6.23
+Aleksandar Tonev,Crotone,29,"AM(CR),FW",9(4),750,0.5,0.3,0.5,-,-,0.2,0.2,-,6.22
+Ante Budimir,Sampdoria,27,FW,2(9),304,0.6,-,1.5,-,0.1,0.1,-,-,6.22
+Gianluca Pegolo,Sassuolo,38,GK,1,90,-,-,-,-,-,-,-,-,6.22
+Rey Manaj,Pescara,22,FW,4(8),470,0.3,-,1.2,-,0.3,0.4,0.1,-,6.22
+Cristiano Lombardi,Lazio,23,M(R),3(15),426,0.8,0.1,0.7,-,0.1,0.6,0.1,1,6.22
+Sulley Muntari,Pescara,34,M(C),7(2),533,1.2,0.9,1.9,0.2,0.8,1.9,0.2,-,6.21
+Adalberto Peñaranda,Udinese,22,"AM(L),FW",1(5),156,0.8,0.2,0.7,-,-,0.7,-,-,6.21
+Serge Gakpé,Chievo,32,"AM(LR),FW",1(7),249,0.1,0.1,0.1,-,0.1,0.1,-,-,6.20
+Simone Pepe,Pescara,35,M(C),3(9),391,0.2,-,0.3,-,0.2,0.3,-,-,6.20
+Bryan Cabezas,Atalanta,22,Midfielder,0(1),22,2,-,-,-,-,-,-,-,6.20
+Maximiliano López,Torino,35,FW,2(14),427,0.3,-,1.4,-,0.1,-,-,-,6.20
+Gabriel Silva,Udinese,28,"D(LR),M(L)",2(3),232,0.2,1.8,1.2,0.4,1,0.2,-,-,6.19
+Giovanni Marchese,Genoa,34,"D(CL),M(L)",0(1),8,-,-,-,-,4,1,-,-,6.19
+Giulio Migliaccio,Atalanta,38,DMC,0(3),10,0.7,0.3,0.3,-,0.3,0.3,-,-,6.18
+Arlind Ajeti,Torino,25,D(C),3(1),250,1,1,1.5,0.8,4.8,-,-,1,6.18
+Aniello Salzano,Crotone,27,M(C),6(1),500,0.9,0.7,0.9,-,0.9,0.6,0.3,-,6.18
+Anthony Mounier,Bologna,31,AM(CLR),4(2),293,0.5,0.2,1.2,-,0.2,0.5,-,-,6.17
+Filippo Costa,Chievo,24,M(L),0(1),49,3,2,2,-,2,1,-,-,6.17
+Trent Sainsbury,Inter,27,D(C),0(1),19,1,-,1,-,1,-,2,-,6.17
+Simy,Crotone,27,FW,4(17),564,0.3,0.2,1.1,-,0.1,0.3,-,-,6.17
+Filip Djordjevic,Lazio,31,FW,4(13),458,0.6,0.1,1,-,0.4,0.2,0.1,-,6.17
+Norbert Balogh,Palermo,23,Forward,6(10),528,0.8,0.2,0.6,-,0.1,0.3,0.1,-,6.16
+Marco Sportiello,Atalanta,27,GK,8,720,-,-,-,-,0.4,0.1,-,-,6.15
+Stevan Jovetic,Inter,29,"AM(C),FW",0(5),69,-,0.2,0.6,-,0.2,-,-,-,6.15
+Umar Sadiq,Bologna,22,FW,1(6),230,0.9,-,1.6,-,0.1,0.1,-,-,6.14
+Roland Sallai,Palermo,22,AM(L),11(10),958,0.5,0.6,1.8,-,0.4,0.5,-,-,6.14
+Ewandro,Udinese,23,AM(LR),0(5),56,1,-,0.6,-,-,0.6,-,-,6.14
+Juan Iturbe,Roma,26,AM(LR),0(5),38,0.2,-,0.4,-,-,-,-,-,6.14
+Moritz Leitner,Lazio,26,M(CR),0(2),13,0.5,0.5,-,-,-,-,-,-,6.14
+Stefan Silva,Palermo,29,"AM(L),FW",0(1),16,1,-,-,-,-,1,-,-,6.13
+Omar El Kaddouri,Napoli,28,AM(CL),0(5),39,0.4,0.2,0.4,-,-,-,-,-,6.12
+Sebastien De Maio,Fiorentina,32,D(C),6,540,0.7,0.7,1.2,0.5,3.2,0.2,0.5,-,6.12
+Alex Ferrari,Bologna,24,D(CR),1,90,1,1,-,-,6,2,2,-,6.12
+Mattia Aramu,Torino,24,Midfielder,1,46,-,-,-,-,-,1,-,-,6.12
+Michel Morganella,Palermo,30,"D(R),M(LR)",7(4),650,1.6,1,1.2,0.1,1.4,0.8,0.2,-,6.11
+Mamadou Coulibaly,Pescara,20,M(C),6(3),487,1.1,1,2.3,-,0.2,1.3,0.1,-,6.11
+Sofian Kiyine,Chievo,21,Midfielder,0(7),65,0.4,0.1,0.3,-,0.3,0.1,-,-,6.11
+Emanuele Giaccherini,Napoli,34,M(CLR),1(15),286,-,0.2,0.2,-,0.1,0.2,-,-,6.11
+Niccolò Giannetti,Cagliari,28,Forward,1(10),240,-,-,0.5,-,0.5,0.1,-,-,6.10
+Grigoris Kastanos,Pescara,21,AM(C),3(5),279,0.5,0.3,0.3,-,-,0.5,-,-,6.10
+Emanuel Vignato,Chievo,18,AM(C),0(2),31,-,0.5,-,-,-,-,-,-,6.10
+Alberto Paloschi,Atalanta,29,FW,4(9),436,0.3,-,0.8,-,0.1,0.1,-,-,6.09
+Dario Zuparic,Pescara,27,D(C),3(4),338,0.3,1,0.6,0.3,3,0.1,0.6,-,6.09
+Cazim Suljic,Crotone,22,Midfielder,0(2),11,0.5,-,-,-,1,0.5,-,-,6.09
+Giuseppe Cuomo,Crotone,21,Defender,0(1),3,1,-,-,-,-,-,-,-,6.09
+Gennaro Sardo,Chievo,40,"D(R),M(R)",0(1),6,-,-,-,-,2,-,-,-,6.08
+Simone Lo Faso,Palermo,21,Forward,1(9),246,0.1,-,0.2,-,-,0.2,-,-,6.08
+Lamin Jallow,Chievo,24,Forward,0(2),14,-,-,0.5,-,0.5,0.5,-,-,6.07
+Mamadou Tounkara,Lazio,23,Forward,0(1),4,-,-,-,-,-,-,-,-,6.07
+Rolando Mandragora,Juventus,22,DMC,0(1),4,-,-,-,-,-,-,-,-,6.07
+Alessandro Rossi,Lazio,22,Forward,0(3),43,0.7,-,0.3,-,-,-,-,-,6.07
+Federico Serra,Cagliari,21,Forward,0(1),11,1,-,1,-,-,-,-,-,6.06
+Luiz Adriano,AC Milan,32,"AM(L),FW",1(6),121,-,0.3,0.7,-,0.1,0.1,-,-,6.06
+Gianni Munari,Cagliari,36,M(C),3(8),350,0.4,0.9,0.7,-,0.6,0.5,0.3,-,6.06
+Andrej Kotnik,Crotone,23,Midfielder,0(2),30,-,-,-,-,1,-,-,-,6.06
+Arnel Jakupovic,Empoli,21,Forward,0(1),2,-,-,-,-,-,-,-,-,6.05
+Diego Falcinelli,Sassuolo,28,FW,0(1),16,-,-,1,-,1,-,-,-,6.04
+Pietro De Giorgio,Crotone,36,Forward,0(1),9,1,-,-,-,-,-,-,-,6.04
+Leonardo Morosini,Genoa,23,Midfielder,1(3),91,-,-,0.3,-,-,-,-,-,6.03
+Nunzio Di Roberto,Crotone,33,Forward,0(1),6,-,-,-,-,-,-,-,-,6.03
+Slobodan Rajkovic,Palermo,30,D(C),4,299,1.3,1.8,1.3,1,2.8,0.3,0.8,-,6.03
+Giuseppe Rossi,Fiorentina,32,FW,0(1),10,-,-,-,-,-,-,-,-,6.02
+Ouasim Bouy,Palermo,26,"D(C),DMC",0(2),36,0.5,0.5,1.5,-,0.5,0.5,-,-,6.02
+Aleksandar Pesic,Atalanta,27,FW,0(6),83,0.2,0.2,0.7,-,-,0.3,-,-,6.02
+Davide Vitturini,Pescara,22,Defender,2(1),145,0.3,0.3,1.3,-,2,0.7,0.3,-,6.01
+Alberto Gilardino,Empoli,36,FW,5(9),593,-,0.1,1.2,-,0.6,0.1,-,-,6.00
+Giuseppe Borello,Crotone,20,Forward,0(1),1,-,-,-,-,-,-,-,-,6.00
+Jonathan Biabiany,Inter,31,"M(LR),FW",0(1),1,-,-,-,-,-,-,-,-,6.00
+Roberto Colombo,Cagliari,43,Goalkeeper,2(1),3,-,-,-,-,-,-,-,-,6.00
+Víctor Ibarbo,Cagliari,29,"AM(LR),FW",0(3),36,-,0.3,-,-,-,0.3,-,-,6.00
+Emil Audero,Juventus,22,GK,1,90,-,-,-,-,-,-,-,-,5.99
+Gabriel,Cagliari,26,GK,3,270,-,-,0.3,-,2.7,-,-,-,5.98
+Kevin Diks,Fiorentina,22,D(R),0(2),5,-,-,-,-,-,0.5,-,-,5.98
+Vittorio Parigini,Chievo,23,AM(CL),0(3),23,0.3,-,0.7,-,0.3,0.3,-,-,5.97
+Franjo Prce,Lazio,23,Defender,0(1),1,-,-,-,-,-,-,1,-,5.96
+Adrián Cubas,Pescara,23,DMC,0(1),8,-,-,1,-,-,1,-,-,5.95
+Rafael Cabral,Napoli,29,GK,1,90,-,-,-,-,-,-,-,-,5.95
+Alberto Gilardino,Pescara,36,FW,1(2),101,-,0.3,0.7,-,-,-,-,-,5.93
+Marco Sportiello,Fiorentina,27,GK,2,180,-,-,-,-,-,-,-,-,5.90
+Nicolò Fazzi,Crotone,24,Midfielder,0(1),6,-,-,1,-,-,-,-,-,5.88
+Francesco Lodi,Udinese,35,M(C),0(1),11,-,-,-,-,-,1,-,-,5.85
+Josh Pérez,Fiorentina,21,Midfielder,0(1),16,-,-,-,-,-,-,-,-,5.82
+Jan Mlakar,Fiorentina,20,Forward,0(1),20,-,-,-,-,-,-,-,-,5.80
+Marko Pajac,Cagliari,26,M(L),0(1),8,-,-,-,-,-,-,-,-,5.74
+Ivan Vargic,Lazio,32,GK,1,90,-,-,-,-,1,-,-,-,5.66
+Rubinho,Genoa,36,GK,2,180,-,-,-,-,1,-,-,-,5.60
+Carlos Carmona,Atalanta,32,DMC,2,101,1.5,1.5,2,-,-,1.5,-,-,5.56
