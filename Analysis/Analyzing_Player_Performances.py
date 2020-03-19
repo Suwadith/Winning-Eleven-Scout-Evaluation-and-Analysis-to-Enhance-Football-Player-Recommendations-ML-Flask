@@ -135,6 +135,14 @@ combinedSummaryPlayerDataframe = pd.concat(li)
 
 
 
+#combining all the DFs'
+combinedPlayerDataframe = pd.concat([combinedOffensivePlayerDataframe, combinedDefensivePlayerDataframe, combinedPassingPlayerDataframe, combinedSummaryPlayerDataframe], axis=1)
+
+combinedPlayerDataframe = combinedPlayerDataframe.loc[:,~combinedPlayerDataframe.columns.duplicated()]
+
+
+
+
 #Re-arranging the Dataframes to get sesasonal data of every attributes of players
 nameSeasonOffensiveDF = combinedOffensivePlayerDataframe.pivot_table(index=['Name'], columns=['Season'], values=['Rating', 'Apps', 'Age', 'Team', 'League'], aggfunc='first').reset_index()
 nameSeasonDefensiveDF = combinedDefensivePlayerDataframe.pivot_table(index=['Name'], columns=['Season'], values=['Rating', 'Apps', 'Age', 'Team', 'League'], aggfunc='first').reset_index()
@@ -170,10 +178,12 @@ tansformedCombinedPlayersDf.plot(x ='Season', y='Rating', kind = 'line')
 ##############Trying out regression
 
 #list column names
-[(f"column {i+1} : {column}") for i, column in enumerate(combinedSummaryPlayerDataframe.columns)]
+#[(f"column {i+1} : {column}") for i, column in enumerate(combinedSummaryPlayerDataframe.columns)]
+[(f"column {i+1} : {column}") for i, column in enumerate(combinedPlayerDataframe.columns)]
 
 #Remove unwanted columns
-finalDf = combinedSummaryPlayerDataframe.drop(["Team", "Position", "League", "Season"], axis = 1)
+#finalDf = combinedSummaryPlayerDataframe.drop(["Team", "Position", "League", "Season"], axis = 1)
+finalDf = combinedPlayerDataframe.drop(["Team", "Position", "League", "Season"], axis = 1)
 
 #replace - fields with 0
 finalDf = finalDf.replace('-', 0)
