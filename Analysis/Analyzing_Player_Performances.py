@@ -144,6 +144,9 @@ combinedPlayerDataframe = combinedPlayerDataframe.loc[:,~combinedPlayerDataframe
 #Removing all the goal keepers to test whether it improves the accuracy of the model.
 combinedFieldPlayersDf = combinedPlayerDataframe[combinedPlayerDataframe.Position != 'GK']
 
+#Removing field players who have played less than 10 matches
+#combinedProperFieldPlayersDf = combinedFieldPlayersDf[~(combinedFieldPlayersDf['Apps'] < 8)]  
+
 
 #Re-arranging the Dataframes to get sesasonal data of every attributes of players
 nameSeasonOffensiveDF = combinedOffensivePlayerDataframe.pivot_table(index=['Name'], columns=['Season'], values=['Rating', 'Apps', 'Age', 'Team', 'League'], aggfunc='first').reset_index()
@@ -184,10 +187,12 @@ tansformedCombinedPlayersDf.plot(x ='Season', y='Rating', kind = 'line')
 #[(f"column {i+1} : {column}") for i, column in enumerate(combinedSummaryPlayerDataframe.columns)] # 59% 
 #[(f"column {i+1} : {column}") for i, column in enumerate(combinedPlayerDataframe.columns)] # 75%
 [(f"column {i+1} : {column}") for i, column in enumerate(combinedFieldPlayersDf.columns)] # 80%
+#[(f"column {i+1} : {column}") for i, column in enumerate(combinedProperFieldPlayersDf.columns)] 
 
 #Remove unwanted columns
 #finalDf = combinedSummaryPlayerDataframe.drop(["Team", "Position", "League", "Season"], axis = 1)
 finalDf = combinedFieldPlayersDf.drop(["Team", "Position", "League", "Season"], axis = 1)
+#finalDf = combinedProperFieldPlayersDf.drop(["Team", "Position", "League", "Season"], axis = 1)
 
 #replace - fields with 0
 finalDf = finalDf.replace('-', 0)
