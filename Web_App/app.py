@@ -7,9 +7,9 @@ import re
 
 app = Flask(__name__)
 
-combinedLeagueDataframe = pd.read_csv("../Pre_Processed_Datasets/League-Team.csv")
-combinedPlayerDataframe = pd.read_csv("../Pre_Processed_Datasets/Preprocessed Player Data.csv")
-forecastedPlayerDataframe = pd.read_csv("../Pre_Processed_Datasets/Forecasted Ratings 2019-2022.csv")
+combinedLeagueDataframe = pd.read_csv("static/datasets/League-Team.csv")
+combinedPlayerDataframe = pd.read_csv("static/datasets/Preprocessed Player Data.csv")
+forecastedPlayerDataframe = pd.read_csv("static/datasets/Forecasted Ratings 2019-2022.csv")
 
 @app.route('/')
 def index():
