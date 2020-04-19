@@ -1,10 +1,12 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Winning Eleven</title>
-</head>
-<body>
+{% extends 'header.html' %}
 
-</body>
-</html>
+{% block body %}
+    <h1>HOME</h1>
+
+    <select name=leagues method="GET" action="/">
+        {% for key,val in leagues.items() %}
+            <option value="{{ key }}" SELECTED> {{ val }} </option>"
+        {% endfor %}
+    </select>
+
+{% endblock %}
