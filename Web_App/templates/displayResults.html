@@ -1,10 +1,11 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Title</title>
-</head>
-<body>
+{% for index, row in current_squad.iterrows() %}
+    {{ row['Name'] }}
+{% endfor %}
 
-</body>
-</html>
+{% for key,val in old_players_dict.items() %}
+    {{ val.Name }}
+{% endfor %}
+
+{% for key,val in active_players_dict.items() %}
+    {{ val.Name }}
+{% endfor %}

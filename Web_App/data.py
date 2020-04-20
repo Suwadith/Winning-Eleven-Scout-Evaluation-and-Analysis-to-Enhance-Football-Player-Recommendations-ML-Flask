@@ -1,35 +1,62 @@
+# importing libraries
 import pandas as pd
 import re
 
+
+# importing datasets
 combined_league_data_frame = pd.read_csv("static/datasets/League-Team.csv")
 combined_player_data_frame = pd.read_csv("static/datasets/Preprocessed Player Data.csv")
 forecasted_player_data_frame = pd.read_csv("static/datasets/Forecasted Ratings 2019-2022.csv")
 
 
+# loading league names
 def load_league_names():
     leagues = combined_league_data_frame.League.unique().tolist()
     league_dict = {}
     for i in leagues:
+        # Adding a space between capital letters (LaLiga => La Liga)
         league_dict[i] = re.sub(r"(\w)([A-Z])", r"\1 \2", i)
     return league_dict
 
 
+# loading team list after choosing league name
 def load_team_names(league):
     teams = combined_league_data_frame.loc[combined_league_data_frame.League == league]['Team'].tolist()
     return teams
 
 
+# get particular player's last season stat DF (2018-2019)
+def get_player_df(name):
+    player_df = combined_player_data_frame.loc[
+        (combined_player_data_frame.Name == name) & (combined_player_data_frame.Season == 2018)]
+    return player_df
+
+
+# get selected team's last season squad players DF (2018-2019)
+def get_current_squad_df(team):
+    squad_df = combined_player_data_frame.loc[
+        (combined_player_data_frame.Team == team) & (combined_player_data_frame.Season == 2018)]
+    return squad_df
+
+
+# handling young players data
+# creating a separate dictionary entry for every player
+# creating a new row of data for every player with the mean of all their stats
+# rating has been replaced by the forecasted rating average
 def organize_young_player_data():
+    # creating a separate DF for younger players
     young_players2018_df = forecasted_player_data_frame.loc[(forecasted_player_data_frame.Season == 2018)
-                                                       & ((forecasted_player_data_frame.Age > 22)
-                                                          & (forecasted_player_data_frame.Age < 29))]
+                                                            & ((forecasted_player_data_frame.Age > 22)
+                                                               & (forecasted_player_data_frame.Age < 29))]
 
     young_player_names = young_players2018_df.Name.tolist()
 
     young_players_ = {}
 
     for name in young_player_names:
-        player_mean_rating = forecasted_player_data_frame.loc[(forecasted_player_data_frame.Name == name)]['Rating'].mean()
+        # replacing mean rating value of every young player with the forecasted mean rating value (Future rating mean)
+        player_mean_rating = forecasted_player_data_frame.loc[(forecasted_player_data_frame.Name == name)][
+            'Rating'].mean()
         player_df = combined_player_data_frame.loc[(combined_player_data_frame.Name == name)]
         player_df = player_df.sort_values(by='Age', ascending=True)
         player_df.loc['average'] = player_df.mean()
@@ -50,6 +77,7 @@ def organize_young_player_data():
     goalkeepers = []
     defensive_midfielders = []
 
+    # grouping young player's based on their relevant positions
     for name in young_players_:
         position = young_players_[name].Position.tolist()[0]
         if position == 'Midfielder':
@@ -75,22 +103,24 @@ def organize_young_player_data():
     return position_young_players_
 
 
+# loading young player data
 position_young_players_ = organize_young_player_data()
 
 
+# predicting older player replacements (Age above 32)
 def predict_older_player_replacements(team):
-
+    # creating a separate DF for older players
     older_players_df = combined_player_data_frame.loc[(combined_player_data_frame.Team == team)
-                                                 & (combined_player_data_frame.Season == 2018)
-                                                 & (combined_player_data_frame.Age > 32)]
+                                                      & (combined_player_data_frame.Season == 2018)
+                                                      & (combined_player_data_frame.Age > 32)]
 
     older_players_ = {}
 
     for index, row in older_players_df.iterrows():
         current_df = combined_player_data_frame.loc[(combined_player_data_frame.Name == row['Name'])
-                                                & (combined_player_data_frame.Age > 23)
-                                                & (combined_player_data_frame.Age < 30)]
-        
+                                                    & (combined_player_data_frame.Age > 23)
+                                                    & (combined_player_data_frame.Age < 30)]
+
         current_df = current_df.sort_values(by='Age', ascending=True)
         current_df.loc['average'] = current_df.mean()
         current_df.loc['average', 'Name'] = row['Name']
@@ -101,6 +131,8 @@ def predict_older_player_replacements(team):
         older_players_[row['Name']] = current_df
 
     li = []
+
+    old_player_ = {}
 
     for name in older_players_:
         position = older_players_[name].Position.tolist()[0]
@@ -132,44 +164,62 @@ def predict_older_player_replacements(team):
 
         X = scaler.fit_transform(stats)
 
+        # limiting the number of similar profiles(nodes) to be found to 3. (nearby nodes)
+        # (4 in total with the current player being one)
         knn = NearestNeighbors(n_neighbors=4, algorithm='ball_tree').fit(X)
 
         player_indexes = knn.kneighbors(X)[1]
 
         print("")
         print("Older Player: " + name)
+
+        old_player_[name] = get_player_df(name)
+
         index = stats_with_name[stats_with_name["Name"] == name].index.tolist()[0]
         count = 1
         for i in player_indexes[index][1:]:
             print('Option ' + str(count) + ': ' + stats_with_name.iloc[i]["Name"])
+
+            old_player_[name] = old_player_[name].append(get_player_df(stats_with_name.iloc[i]["Name"]))
+
             count += 1
 
         li = []
 
+    return old_player_
 
+
+# predicting active under performing replacements (Age above 27 & below 33)
 def predict_under_performing_player_replacements(team):
+    # creating a separate DF for active players
     active_club_players = combined_player_data_frame.loc[(combined_player_data_frame.Team == team)
-                                                    & (combined_player_data_frame.Season == 2018)
-                                                    & (combined_player_data_frame.Age > 27)
-                                                    & (combined_player_data_frame.Age < 33)]
+                                                         & (combined_player_data_frame.Season == 2018)
+                                                         & (combined_player_data_frame.Age > 27)
+                                                         & (combined_player_data_frame.Age < 33)]
 
     active_player_names = active_club_players.Name.tolist()
 
     active_players_ = {}
 
     for name in active_player_names:
+        # DF of prime years of active players
         previous_form_df = combined_player_data_frame.loc[(combined_player_data_frame.Name == name)
-                                                      & (combined_player_data_frame.Age > 23)
-                                                      & (combined_player_data_frame.Age < 28)]
+                                                          & (combined_player_data_frame.Age > 23)
+                                                          & (combined_player_data_frame.Age < 28)]
 
+        # DF of past prime years of active players
         recent_form_df = combined_player_data_frame.loc[(combined_player_data_frame.Name == name)
-                                                   & (combined_player_data_frame.Age > 27)
-                                                   & (combined_player_data_frame.Age < 33)]
+                                                        & (combined_player_data_frame.Age > 27)
+                                                        & (combined_player_data_frame.Age < 33)]
 
+        # calculating separate means for prime and past prime year ratings
+        # so that the decline between those periods can be identified
         previous_rating_avg = previous_form_df.Rating.mean()
         recent_rating_avg = recent_form_df.Rating.mean()
         decline = (previous_rating_avg - recent_rating_avg)
 
+        # condition threshold for allowed decline
+        # if the decline is higher than the allowed value then the player is considered to be in decline
         if (recent_rating_avg < 8) & (decline >= 0.3):
 
             previous_form_df = previous_form_df.sort_values(by='Age', ascending=True)
@@ -193,6 +243,8 @@ def predict_under_performing_player_replacements(team):
             active_players_[name] = previous_form_df
 
     li = []
+
+    active_player_ = {}
 
     for name in active_players_:
         position = active_players_[name].Position.tolist()[0]
@@ -224,17 +276,26 @@ def predict_under_performing_player_replacements(team):
 
         X = scaler.fit_transform(stats)
 
+        # limiting the number of similar profiles(nodes) to be found to 3. (nearby nodes)
+        # (4 in total with the current player being one)
         knn = NearestNeighbors(n_neighbors=4, algorithm='ball_tree').fit(X)
 
         player_indexes = knn.kneighbors(X)[1]
 
         print("")
         print("Active Underperfoming Player: " + name)
+
+        active_player_[name] = get_player_df(name)
+
         index = stats_with_name[stats_with_name["Name"] == name].index.tolist()[0]
         count = 1
         for i in player_indexes[index][1:]:
             print('Option ' + str(count) + ': ' + stats_with_name.iloc[i]["Name"])
+
+            active_player_[name] = active_player_[name].append(get_player_df(stats_with_name.iloc[i]["Name"]))
+
             count += 1
 
         li = []
 
+    return active_player_
