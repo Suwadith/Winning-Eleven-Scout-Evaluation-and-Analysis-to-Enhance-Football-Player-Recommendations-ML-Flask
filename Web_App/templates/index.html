@@ -3,10 +3,14 @@
 {% block body %}
     <h1>HOME</h1>
 
-    <select name=leagues method="GET" action="/">
-        {% for key,val in leagues.items() %}
-            <option value="{{ key }}" SELECTED> {{ val }} </option>"
-        {% endfor %}
-    </select>
+
+    <form method="POST" action="/selectTeam">
+        <select name="league">
+            {% for key,val in leagues.items() %}
+                <option value="{{ key }}" SELECTED> {{ val }} </option>"
+            {% endfor %}
+        </select>
+    <input type="submit" value="Submit">
+    </form>
 
 {% endblock %}
