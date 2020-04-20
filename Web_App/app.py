@@ -9,8 +9,8 @@ leagues = load_league_names()
 
 
 @app.route('/', methods=['GET', 'POST'])
-def index():
-    return render_template('index.html', leagues=leagues)
+def load_leagues():
+    return render_template('select_league.html', leagues=leagues)
 
 
 if __name__ == '__main__':
@@ -18,21 +18,18 @@ if __name__ == '__main__':
     # app.run(debug=True)
 
 
-@app.route('/selectTeam', methods = ['GET','POST'])
-def post_testing():
+@app.route('/select_team', methods = ['GET','POST'])
+def load_teams():
     league = request.form['league']
     # print(league) #This is the posted value
     teams = load_team_names(league)
-    return render_template('team_select.html.', teams=teams)
+    return render_template('select_team.html.', teams=teams)
 
 
-@app.route('/displayResults', methods = ['GET','POST'])
-def test():
+@app.route('/predict', methods = ['GET','POST'])
+def load_prediction_data():
     team = request.form['team']
     current_squad = get_current_squad_df(team)
     old_players_dict = predict_older_player_replacements(team)
     active_players_dict = predict_under_performing_player_replacements(team)
-    print(current_squad)
-    print(old_players_dict)
-    print(active_players_dict)
-    return render_template('displayResults.html', current_squad=current_squad, old_players_dict=old_players_dict, active_players_dict=active_players_dict)
+    return render_template('predict.html', team_name=team, current_squad=current_squad, old_players_dict=old_players_dict, active_players_dict=active_players_dict)

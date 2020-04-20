@@ -1,0 +1,17 @@
+{% extends 'header.html' %}
+
+{% block body %}
+
+    <form class="ui form" method="POST" action="/select_team">
+        <div class="field">
+            <h3 class="ui center aligned header">Select League</h3>
+            <select name="league">
+                {% for key,val in leagues.items() %}
+                    <option value="{{ key }}"> {{ val }} </option>"
+                {% endfor %}
+            </select>
+        </div>
+        <button class="ui button" type="submit">Submit</button>
+    </form>
+
+{% endblock %}

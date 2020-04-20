@@ -1,0 +1,3 @@
+$('select.dropdown')
+  .dropdown()
+;

@@ -1,0 +1,87 @@
+{% extends 'header.html' %}
+
+{% block body %}
+
+    <h2 class="ui center aligned header">{{ team_name }}</h2>
+
+    <div class="ui container left aligned" style="width: 100%">
+        <h4 class="ui dividing header">Current Squad Players (2018-2019)</h4>
+        <div class="ui segment left aligned">
+            <table class="ui celled table">
+                <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Age</th>
+                    <th>Position</th>
+                    <th>Apps</th>
+                    <th>Goals</th>
+                    <th>Assists</th>
+                    <th>Key passes PG</th>
+                    <th>Dribbles PG</th>
+                    <th>Tackles PG</th>
+                    <th>Interceptions PG</th>
+                    <th>Fouls PG</th>
+                    <th>Outfield blocks PG</th>
+                    <th>Pass success %</th>
+                    <th>Through balls %</th>
+                    <th>Yellow cards</th>
+                    <th>Red cards</th>
+                    <th>MOTM</th>
+                    <th>Rating</th>
+                </tr>
+                </thead>
+                <tbody>
+                {% for index, row in current_squad.iterrows() %}
+                    <tr>
+                        <td>{{ row['Name'] }}</td>
+                        <td>{{ row['Age'] }}</td>
+                        <td>{{ row['Position'] }}</td>
+                        <td>{{ row['Apps'] }}</td>
+                        <td>{{ row['Total Goals'] }}</td>
+                        <td>{{ row['Total Assists'] }}</td>
+                        <td>{{ row['Key passes per game'] }}</td>
+                        <td>{{ row['Dribbles per game'] }}</td>
+                        <td>{{ row['Tackles per game'] }}</td>
+                        <td>{{ row['Interceptions per game'] }}</td>
+                        <td>{{ row['Fouls per game'] }}</td>
+                        <td>{{ row['Outfield blocks per game'] }}</td>
+                        <td>{{ row['Pass success percentage'] }}</td>
+                        <td>{{ row['Through balls per game'] }}</td>
+                        <td>{{ row['Yellow cards'] }}</td>
+                        <td>{{ row['Red cards'] }}</td>
+                        <td>{{ row['Man of the match'] }}</td>
+                        <td>{{ row['Rating'] }}</td>
+                    </tr>
+                {% endfor %}
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <h2 class="ui center aligned header" style="padding-top: 50px">Predictions</h2>
+
+    <div class="ui container left aligned">
+        <h4 class="ui dividing header">Older players</h4>
+        <div class="ui segments">
+            <div class="ui segment left aligned">
+                {% for key,val in old_players_dict.items() %}
+                    {{ val.Name }}
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+
+
+    <div class="ui container left aligned">
+        <h4 class="ui dividing header">Active out of prime year players</h4>
+        <div class="ui segments">
+            <div class="ui segment left aligned">
+                {% for key,val in active_players_dict.items() %}
+                    {{ val.Name }}
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+
+
+{% endblock %}

@@ -1,0 +1,20 @@
+.ui.header > .image:not(.icon), .ui.header > img {
+    padding-top: 50px;
+    width: 400px
+}
+
+.ui.form .field > label {
+    text-align: left;
+}
+
+h3.ui.header {
+    padding-bottom: 25px;
+}
+
+.ui.container {
+    padding-top: 50px;
+}
+
+.ui.segments {
+    padding-top: 25px;
+}

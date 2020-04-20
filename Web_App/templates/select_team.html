@@ -1,0 +1,17 @@
+{% extends 'header.html' %}
+
+{% block body %}
+
+    <form class="ui form" method="POST" action="/predict">
+        <div class="field">
+            <h3 class="ui center aligned header">Select Team</h3>
+            <select name="team">
+                {% for team in teams %}
+                    <option value="{{ team }}"> {{ team }} </option>"
+                {% endfor %}
+            </select>
+        </div>
+        <button class="ui button" type="submit">Submit</button>
+    </form>
+
+{% endblock %}
