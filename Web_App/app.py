@@ -1,14 +1,11 @@
 from flask import Flask, render_template, request, jsonify
-import numpy as np
-import traceback
-import pickle
-import pandas as pd
-import re
-from data import load_leagueNames, load_teamNames
+from data import load_league_names, load_team_names, \
+    predict_older_player_replacements, predict_under_performing_player_replacements
+
 
 app = Flask(__name__)
 
-leagues = load_leagueNames()
+leagues = load_league_names()
 
 
 @app.route('/', methods=['GET', 'POST'])
@@ -20,9 +17,19 @@ if __name__ == '__main__':
     app.run()
     # app.run(debug=True)
 
+
 @app.route('/selectTeam', methods = ['GET','POST'])
-def postTesting():
+def post_testing():
     league = request.form['league']
-    print(league) #This is the posted value
-    teams = load_teamNames(league)
+    # print(league) #This is the posted value
+    teams = load_team_names(league)
     return render_template('team_select.html.', teams=teams)
+
+
+@app.route('/displayResults', methods = ['GET','POST'])
+def test():
+    team = request.form['team']
+    predict_older_player_replacements(team)
+    predict_under_performing_player_replacements(team)
+    # print(name)
+    return render_template('displayResults.html')
