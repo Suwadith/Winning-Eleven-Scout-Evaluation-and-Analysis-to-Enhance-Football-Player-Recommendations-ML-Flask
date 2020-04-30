@@ -2,6 +2,22 @@
 
 {% block body %}
 
+    <script>
+        function changeClass() {
+            document.getElementById("forecast").classList.add('loading');
+            document.getElementById("forecast").classList.add('disabled');
+            document.getElementById("league").classList.add('loading');
+            document.getElementById("league").classList.add('disabled');
+        }
+
+    </script>
+
+    <form class="ui form" method="POST" action="/forecast">
+        <button id="forecast" class="ui primary button" type="submit" onclick="changeClass()">Re-Forecast player
+            ratings
+        </button>
+    </form>
+
     <form class="ui form" method="POST" action="/select_team">
         <div class="field">
             <h3 class="ui center aligned header">Select League</h3>
@@ -11,7 +27,11 @@
                 {% endfor %}
             </select>
         </div>
-        <button class="ui button" type="submit">Submit</button>
+        <button id="league" class="ui button" type="submit">Submit</button>
     </form>
+
+    {#    <form method="POST" action="/forecast">#}
+    {#        <button class="ui button" type="submit">Submit</button>#}
+    {#    </form>#}
 
 {% endblock %}

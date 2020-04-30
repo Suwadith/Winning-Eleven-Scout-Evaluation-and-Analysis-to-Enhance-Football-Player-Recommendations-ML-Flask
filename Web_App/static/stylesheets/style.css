@@ -18,3 +18,9 @@ h3.ui.header {
 .ui.segments {
     padding-top: 25px;
 }
+
+#forecast {
+    position: relative;
+    z-index: 99;
+    float: right;
+}
