@@ -26,7 +26,7 @@ def load_teams():
     league = request.form['league']
     # print(league) #This is the posted value
     teams = recommendation.load_team_names(league)
-    return render_template('select_team.html.', teams=teams)
+    return render_template('select_team.html', teams=teams)
 
 
 @app.route('/predict', methods = ['GET','POST'])
