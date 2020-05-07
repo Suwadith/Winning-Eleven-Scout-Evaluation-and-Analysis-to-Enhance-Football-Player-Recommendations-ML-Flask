@@ -1,3 +1,5 @@
+from typing import Dict, Any
+
 from flask import Flask, render_template, request, jsonify
 # from data import load_league_names, load_team_names, \
 #     predict_older_player_replacements, predict_under_performing_player_replacements, get_current_squad_df
