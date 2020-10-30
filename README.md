@@ -1,4 +1,4 @@
-![1](https://github.com/Suwadith/University-Assessment-Planning-and-Study-Tool-iOS-13-iPad/blob/master/Screenshots/1.png)
+![1](https://github.com/Suwadith/Winning-Eleven-Scout-Evaluation-and-Analysis-to-Enhance-Football-Player-Recommendations-ML-Flask/blob/master/Web_App/static/images/logo.jpg)
 
 # Scout-Evaluation-and-Analysis-to-Enhance-Football-Player-Recommendations-ML-Flask
 
